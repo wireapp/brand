@@ -110,16 +110,6 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 * [Android Writing Style](https://developer.android.com/design/style/writing.html)
 
 
-## Product Website
-
-## Microsites
-
-_(Web pages accessed via the apps: Terms of Use, Privacy Policy, password change, etc.)_
-
-## Customer Communication
-
-_(signup email, password change, etc.)_
-
 ## Customer Support Material
 
 _(based on feedback from Support ToV discussion w/ founders)_
@@ -152,6 +142,16 @@ When is Customer Support great?
 4. Demonstrated understanding of u/x
    “take the time to hear/ solve your issue”
 
+
+## Product Website
+
+## Microsites
+
+_(Web pages accessed via the apps: Terms of Use, Privacy Policy, password change, etc.)_
+
+## Customer Communication
+
+_(signup email, password change, etc.)_
 
 ## Marketing/PR Material
 
