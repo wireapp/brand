@@ -1,4 +1,4 @@
-# Tone of Voice 
+<!-- # Tone of Voice -->
 
 + [Zeta's Voice](#zetas-voice)
 + [Communication Channels](#communication-channels)
@@ -9,7 +9,7 @@
         * [Icon References](#icon-references)
 
 
-## Zeta's Voice
+# Zeta's Voice
 
 > Humble and friendly.    
 > Curious and passionate.    
@@ -18,7 +18,7 @@
 > Stylish and understated.  
 
 
-## Communication Channels
+# Communication Channels
 
 Each of the primary touch-points through which we communicate to our customers may require subtle differences in tone — _how do we talk to our users in each context?_
 
@@ -38,7 +38,7 @@ The sections below outline the unique requirements or guidelines that apply to e
 + [Tweets](#tweets)
 
 
-## Writing Guidelines
+# Writing Guidelines
 
 > Zeta is different. It's obvious the second you see our application in action. This is a brand that's going to transform the way people communicate.
 
@@ -49,21 +49,21 @@ The sections below outline the unique requirements or guidelines that apply to e
 _(Additional content from 2013 Tone of Voice v2 to be included & revised here.)_
 
 
-### Reference Resources
+## Reference Resources
 
 > For guidance on Apple-specific terminology, the writer should refer to the Apple Style Guide. That document covers style and usage issues, and is the key reference for how Apple uses language.
 
 * Apple Style Guide – <https://help.apple.com/asg/mac/2013/>
 
 
-### Glossary of Zeta Terms
+## Glossary of Zeta Terms
 
 See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
 
 Feel free to suggest new terms if there's something missing there.
 
 
-### Common Usage Issues
+## Common Usage Issues
 
 _(This section complements the Glossary with preferred phrasing & additional explanations for copy issues we find ourselves correcting repeatedly.)_
 
@@ -73,7 +73,7 @@ We say “in Zeta” to mean “in the app”, but “on” is more appropriate 
 
 Easiest to remember as _**in** the app, **on** the plaform_.
 
-#### Icon References
+### Icon References
 
 When referring to icons that appear in the user interface, use the name of the action or command that they perform, not the symbol that appears on the button: **Settings** or **Preferences**, not **Gear** or **Cog**.
 
@@ -82,7 +82,7 @@ When referring to icons that appear in the user interface, use the name of the a
 For an overview of our UI icons, see [User Interface Icon Names](https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true).
 
 
-### UI Copy
+## UI Copy
 
 > Text is prevalent throughout the [user] interface for such things as button names, menu labels, dialog messages, and help tags. Using text consistently and clearly is a critical component of UI design.
 
@@ -91,12 +91,12 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 — Apple _OS X Human Interface Guidelines_ 
 
 
-#### Desktop (Mac)
+### Desktop (Mac)
 
 * [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
 * [Naming Menus and Items](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html)
 
-#### iOS
+### iOS
 
 > Every word you display in an app is part of a conversation you have with users. Use this conversation as an opportunity to provide clarity and to help people feel comfortable in your app.
 
@@ -105,22 +105,22 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 * [Terminology and Wording](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/FeedbackCommunication.html)
 * [UI Elements](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html)
 
-#### Android
+### Android
 
 * [Android Writing Style](https://developer.android.com/design/style/writing.html)
 
 
-### Product Website
+## Product Website
 
-### Microsites
+## Microsites
 
 _(Web pages accessed via the apps: Terms of Use, Privacy Policy, password change, etc.)_
 
-### Customer Communication
+## Customer Communication
 
 _(signup email, password change, etc.)_
 
-### Customer Support Material
+## Customer Support Material
 
 _(based on feedback from Support ToV discussion w/ founders)_
 
@@ -153,10 +153,10 @@ When is Customer Support great?
    “take the time to hear/ solve your issue”
 
 
-### Marketing/PR Material
+## Marketing/PR Material
 
-### App Store Copy
+## App Store Copy
 
-### Release Notes
+## Release Notes
 
-### Tweets
+## Tweets
