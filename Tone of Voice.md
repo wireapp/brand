@@ -93,10 +93,8 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 
 #### Desktop (Mac)
 
-* Terminology and Wording  
-    <https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html>
-* Naming Menus and Items
-    <https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html>
+* [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
+* [Naming Menus and Items](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html)
 
 #### iOS
 
@@ -104,15 +102,12 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 
 — Apple _iOS Human Interface Guidelines_
 
-* Terminology and Wording  
-    <https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/FeedbackCommunication.html>
-* UI Elements
-    <https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html>
+* [Terminology and Wording](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/FeedbackCommunication.html)
+* [UI Elements](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html)
 
 #### Android
 
-* Android Writing Style  
-    <https://developer.android.com/design/style/writing.html>
+* [Android Writing Style](https://developer.android.com/design/style/writing.html)
 
 
 ### Product Website
