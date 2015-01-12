@@ -59,18 +59,21 @@ Think of it this way – if Wire was a person, he or she would be smart, driven 
 
 To ensure we reach that level of consistency across all our brand touchpoints, we must ensure our tone of voice is:
 
-* **Contemporary** – we use contractions when it's called for, and we may even take a few language liberties (e.g. starting a sentence with a conjunction or using incomplete sentences when short and to the point will do: 'Forgot your password?' instead of 'Did you forget your password?'). But, we eschew jargon and slang that might be 'dench' today but could be 'lame' tomorrow.
-* **Direct** - we communicate in straightforward, confident language that is as honest and transparent as possible (e.g. 'You'll need to add contacts before you can start a conversation' instead of ' We do need access to your address book to find people to start a conversation').
+* **Contemporary** – we use contractions when it's called for, and we may even take a few language liberties (such as starting a sentence with a conjunction or using incomplete sentences when short and to the point will do: 'Forgot your password?' instead of 'Did you forget your password?'). But, we avoid jargon and slang that might be 'in' today but could be 'out' tomorrow.
+* **Direct** - we communicate in straightforward, confident language that is as honest and transparent as possible (for example, 'You'll need to add contacts before you can start a conversation' instead of ' We do need access to your address book to find people to start a conversation').
 * **Personable** – our words create the impression of one person ('we' at Wire) speaking with another ('you' the reader) as a friend, not a faceless 'user'. However, the emphasis should always be on 'you', with less 'we' or 'us'.
-* **Supportive** – we never blame; rather, we always offer a helpful solution or suggest a next step (e.g. 'Forgot your password? Retrieve it here...', not simply an error message highlighting the obvious: 'That's the wrong password' with no link).
-* **Concise** – we use active verbs whenever possible (e.g. 'Sami muted this conversation', not 'This conversation was muted by Sami') and always opt for imperatives before gerunds (e.g. 'Use this code to link your phone', not 'Using this code will link your phone').
+* **Supportive** – we never blame; rather, we always offer a helpful solution or suggest a next step (for example, 'Forgot your password? Retrieve it here...', not simply an error message highlighting the obvious: 'That's the wrong password' with no link).
+* **Concise** – we use active verbs whenever possible (for example, 'Sami muted this conversation', not 'This conversation was muted by Sami') and always opt for imperatives before gerunds (for example, 'Use this code to link your phone', not 'Using this code will link your phone').
 * **Polite** – we're not afraid to say 'please or thank you' in instructional copy and calls to action, but we don't overdo it and we sometimes use it to (gently) remind people.
 
 
 ## Our writing style
 
+### Abbreviations
+Avoid abbreviations where possible. Use "for example" or "such as" instead of "e.g." or "that is" instead of "i.e.". – or, better yet – edit copy to avoid these constructs entirely.
+
 ### Account
-People create an account with Wire. They can then 'log in' (two words when used as a verb) their account. If used as a noun or adjective, it’s one word: 'login' (e.g., ‘Please enter your login details').
+People create an account with Wire. They can then 'log in' (two words when used as a verb) their account. If used as a noun or adjective, it’s one word: 'login' (for example, ‘Please enter your login details').
 
 People can 'sign out' of the application and change their password by selecting the 'Profile' link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
 
@@ -79,21 +82,21 @@ In all UI copy, we avoid articles wherever possible. Articles include ‘a’, �
 
 ### Capitalization
 We use all caps for system messages (‘UNBLOCK’) in the conversation view.
-However, for longer phrases or sentences, we use sentence case, i.e., we only capitalize the first word of a phrase or sentence (‘You've left this conversation’).
+However, for longer phrases or sentences, we use sentence case: we only capitalize the first word of a phrase or sentence (‘You've left this conversation’).
 
 ### Numbers / Numerals
 In the application, it is acceptable to use numerals in all cases (1 message pending, 3 conversations, Your password must be at least 6 characters).
 
-However, on the website, numbers from one to nine should be spelled out (e.g. there are three ways to download the Wire application...)
+However, on the website, numbers from one to nine should be spelled out (for example, there are three ways to download the Wire application...)
 
 ### Politeness, within reason
 We try to sound courteous without being obsequious. While we are not afraid to use 'please' or thank you' where applicable, we use these phrases judiciously. For example, in an initial message in the application, we may ask a user to: 'Enter a phone number'.
 If there's a mistake and we need to generate a second message, this is the time to say: 'Please enter a valid phone number'.
 
 ### Punctuation
-We do not use full stops in most UI strings (e.g., ‘Start a conversation’). However, copy on the website should be punctuated correctly.
+We do not use full stops in most UI strings (for example, ‘Start a conversation’). However, copy on the website should be punctuated correctly.
 
-We use the serial comma (e.g., ‘Email, phone number, and address’).
+We use the serial comma (for example, ‘Email, phone number, and address’).
 
 For complete punctuation rules, we suggest you refer to any good American style guide (The Chicago Manual of Style or The Yahoo Style Guide).
 
@@ -130,7 +133,7 @@ Do not use: 08.08.05, 08/08/2005 or variations.
 * antivirus
 
 ### Times
-Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a ‘casual’ writing style (e.g. 'yesterday'). When not updated automatically, avoid 'now', 'new', 'today', 'tomorrow' and other similar time sensitive words that will be wrong a day later.
+Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a ‘casual’ writing style (for example, 'yesterday'). When not updated automatically, avoid 'now', 'new', 'today', 'tomorrow' and other similar time sensitive words that will be wrong a day later.
 
 Do not use 'once' to indicate a past occurrence, such as 'Once the image is uploaded...'. Use 'After you've uploaded your image' or 'After your image upload is complete'.
 
@@ -237,19 +240,19 @@ The best links should:
 * Use plain language that does not mislead or promise too much
 * Use specific terminology
 * Allow readers to predict (with a fair degree of confidence) what they will get if they click;
-* Follow conventions for naming common features (e.g. 'Read more', 'Next/Previous', etc)
-* Front-load user- and action-oriented terms at the beginning of the link (e.g. 'Download our app').
+* Follow conventions for naming common features (for example, 'Read more', 'Next/Previous', etc)
+* Front-load user- and action-oriented terms at the beginning of the link (for example, 'Download our app').
 
 #### Links: What not to do
 Be careful not to create too many links, especially within your body copy. Excess links can be distracting - people feel compelled to click. When they do, they often lose their train of thought and some never return to the original page, despite not having absorbed all the information it contains.
 
 Never use 'Click here' or 'More' to push readers to another page of content. These terms suggest lazy writing, and they are particularly annoying to people using screen-reader software to 'hear' your page.
 
-To avoid 'Click here', you can turn your titles or key messages into links (e.g. 'Learn more about seamless conversations').
+To avoid 'Click here', you can turn your titles or key messages into links (for example, 'Learn more about seamless conversations').
 
-To avoid 'More', you can add words to specify exactly what readers will be getting 'more' of, or you can use informative words as the link (e.g. 'More top tips for using Wire').
+To avoid 'More', you can add words to specify exactly what readers will be getting 'more' of, or you can use informative words as the link (for example, 'More top tips for using Wire').
 
-**Note:** Slogans that act as links (e.g. 'Start the conversation') do not take a full stop. However, you should use a full stop after a link if it ends the sentence (more applicable to web writing than the UI).
+**Note:** Slogans that act as links (for example, 'Start the conversation') do not take a full stop. However, you should use a full stop after a link if it ends the sentence (more applicable to web writing than the UI).
 
 ### List items
 Lists are another great way to help readers absorb your information quickly.
