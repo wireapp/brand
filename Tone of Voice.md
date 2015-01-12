@@ -49,6 +49,216 @@ The sections below outline the unique requirements or guidelines that apply to e
 _(Additional content from 2013 Tone of Voice v2 to be included & revised here.)_
 
 
+## Our Tone of Voice
+
+Communicating our core brand values - people, craft and evolution - requires a tone of voice that is consistent at every level, yet is still flexible enough to accommodate a variety of audiences.
+
+By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that's creating user interface text in the application, an email verifying a new account, or a registration page on the website.
+
+Think of it this way – if Zeta was a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
+
+To ensure we reach that level of consistency across all our brand touchpoints, we must ensure our tone of voice is:
+
+* **Contemporary** – we use contractions when it's called for, and we may even take a few language liberties (e.g. starting a sentence with a conjunction or using incomplete sentences when short and to the point will do: 'Forgot your password?' instead of 'Did you forget your password?'). But, we eschew jargon and slang that might be 'dench' today but could be 'lame' tomorrow.
+* **Direct** - we communicate in straightforward, confident language that is as honest and transparent as possible (e.g. 'You'll need to add contacts before you can start a conversation' instead of ' We do need access to your address book to find people to start a conversation').
+* **Personable** – our words create the impression of one person ('we' at Zeta) speaking with another ('you' the reader) as a friend, not a faceless 'user'. However, the emphasis should always be on 'you', with less 'we' or 'us'.
+* **Supportive** – we never blame; rather, we always offer a helpful solution or suggest a next step (e.g. 'Forgot your password? Retrieve it here...', not simply an error message highlighting the obvious: 'That's the wrong password' with no link).
+* **Concise** – we use active verbs whenever possible (e.g. 'Sami muted this conversation', not 'This conversation was muted by Sami') and always opt for imperatives before gerunds (e.g. 'Use this code to link your phone', not 'Using this code will link your phone').
+* **Polite** – we're not afraid to say 'please or thank you' in instructional copy and calls to action, but we don't overdo it and we sometimes use it to (gently) remind people.
+
+
+## Our writing style
+
+### Account
+People create an account with Zeta. They can then 'log in' (two words when used as a verb) their account. If used as a noun or adjective, it’s one word: 'login' (e.g., ‘Please enter your login details').
+
+People can 'sign out' of the application and change their password by selecting the 'Profile' link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
+
+### Articles, leading or otherwise
+In all UI copy, we avoid articles wherever possible. Articles include ‘a’, ‘an’, ‘the’, etc. In a similar vein, we also avoid demonstrative words such as ‘this’ and ‘those’.
+
+### Capitalization
+We use all caps for system messages (‘UNBLOCK’) in the conversation view.
+However, for longer phrases or sentences, we use sentence case, i.e., we only capitalize the first word of a phrase or sentence (‘You've left this conversation’).
+
+### Numbers / Numerals
+In the application, it is acceptable to use numerals in all cases (1 message pending, 3 conversations, Your password must be at least 6 characters).
+
+However, on the website, numbers from one to nine should be spelled out (e.g. there are three ways to download the Zeta application...)
+
+### Politeness, within reason
+We try to sound courteous without being obsequious. While we are not afraid to use 'please' or thank you' where applicable, we use these phrases judiciously. For example, in an initial message in the application, we may ask a user to: 'Enter a phone number'.
+If there's a mistake and we need to generate a second message, this is the time to say: 'Please enter a valid phone number'.
+
+### Punctuation
+We do not use full stops in most UI strings (e.g., ‘Start a conversation’). However, copy on the website should be punctuated correctly.
+
+We use the serial comma (e.g., ‘Email, phone number, and address’).
+
+For complete punctuation rules, we suggest you refer to any good American style guide (The Chicago Manual of Style or The Yahoo Style Guide).
+
+### Security
+We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details). A good example is the UI error message that tells people they 'have entered the wrong email, username or password’. We may know exactly what’s wrong, but we leave our message vague to stop people from trying to find out if a user account exists.
+
+### Select
+Since people can (and will) interact with Zeta across a variety of devices, with a variety of input options (touchscreens, mice, keyboards, etc), it’s important to use the more holistic word ‘select’, rather than
+something too specific such as ‘click’ or ‘touch’.
+
+### Calls to action
+We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
+
+### Style
+* URLs are written as zeta.com/something, not www.zeta.com/something or http://www.zeta.com/something.
+* The default language for the International English site will be US English.
+* Date format: September 8, 2005 (shortened form is acceptable using the first three letters of the month).
+Do not use: 08.08.05, 08/08/2005 or variations.
+* Our voice is active, not passive (see section on tone of voice).
+* Apostrophes. Use the normal possessive ending ’s after singular words or names that end in s. Use it after plurals that do not end in s: women’s, media’s. Use the ending ’s on plurals that end in s: Partners’.
+* Avoid! Exclamation! Marks!
+* Avoid the ampersand and the '+' symbol unless it is part of a brand name (P&G).
+* Dynamic messages in the Zeta application should not end with a period. The exception would be if there were two or more sentences.
+    **For example:** Your phone number isn't mandatory, but it makes it easier for us to find people you know. For security, we'll send a code to verify your number.
+
+### Spelling
+* internet
+* email
+* website
+* megapixel 
+* WiFi
+* cell phone / cell phones (two words - not one)
+* log in / out (v. as in 'log in to your Account'); log-in / out (n., adj. as in 'Click the log-in button')
+* antivirus
+
+### Times
+Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a ‘casual’ writing style (e.g. 'yesterday'). When not updated automatically, avoid 'now', 'new', 'today', 'tomorrow' and other similar time sensitive words that will be wrong a day later.
+
+Do not use 'once' to indicate a past occurrence, such as 'Once the image is uploaded...'. Use 'After you've uploaded your image' or 'After your image upload is complete'.
+
+### Zeta terms
+* Phones and mobiles or landlines and mobiles
+* We avoid the use of peer-to-peer, P2P, 'voip', 'VoIP' or 'voip'-anything' in any user-facing communications.
+* You personalize Zeta, you don't 'customize' it.
+* We sign any communications with 'The Zeta team'.
+
+
+## Creating web content
+
+Web readers have learned to read text on web pages differently than on a printed page. Usability studies have proven that when people read online, they quickly become adept at scanning through a document, looking for key words or phrases that will give them cues about the subject matter.
+
+Eye-tracking studies of people reading information pages have shown that many web readers often adopt an F-shaped reading strategy – skimming across the first few sections or titles at the top of a page, then down the left-hand side.
+
+In addition, web readers are looking for relevant information sooner, rather than later. Give people relevant content up front and they'll feel satisfied and possibly keep reading.
+
+Finally, to create effective web copy, you need to ensure your content makes sense out of context. As the reader may land on your page via a search engine, without having navigated through a particular route, they should be able to understand each page or section of your document whether they read the previous sections or pages or not.
+
+### Length
+On the web, brevity is king. This applies to sentences, paragraphs and overall article length. In most cases, the 50 percent rule applies: Cut 25 percent and then cut 25 percent more. Leave readers with the highlights.
+
+### Sentences
+Try to keep your sentences short. Split lengthy sentences into shorter ones. Make sure each sentence has one thought – or two tightly connected thoughts. Very short sentences are acceptable, particularly in a question and answer format, where a short answer may be all that you need.
+
+### Word choice
+Whenever possible, cut unnecessary words. The table below shows examples of shorter words that help make sentences more concise:
+
+| Wordy                         | Better    |
+| ----------------------------- | --------- |
+| due to the fact that          | because   |
+| for the reason that           | because   |
+| in the event that             | if        |
+| at this point in time         | now       |
+| in a great many instances     | often     |
+| situated in the vicinity of   | near      |
+| during the same time that     | while     |
+| in the not too distant future | soon      |
+| prior to the time that        | before    |
+| in such a manner as to        | to        |
+| for a period of               | for       |
+| connect up together           | join      |
+
+Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
+
+Be careful that you don't bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
+
+Examples of the most common nouns that hide verbs:
+
+| Noun           | Should be this verb |
+| -------------- | ------------------- |
+| denial         | deny                |
+| maintenance    | maintain, keep up   |
+| concurrence    | concur, agree       |
+| assignment     | assign              |
+| failure        | fail, if you don't  |
+| transmission   | transmit, send      |
+| recommendation | recommend           |
+
+ 
+### Paragraphs
+
+Using shorter paragraphs (or 'chunks') makes scanning much easier. A paragraph should contain a single concept or idea. The shorter a paragraph, the more focused it will be.
+
+A one-sentence paragraph is perfectly acceptable on the web.
+
+Pace is important. Consider mixing short sentences (like the last one) with longer ones (like this one).
+
+Here's a tip for generating shorter, more succinct copy: Read your document once. Then go back and choose key phrases that summarize each sentence or paragraph. Make key phrases bold.
+
+While you won't keep this bold text in your final web page, the process of identifying a single phrase within a sentence or paragraph will help you focus your writing.
+
+You will quickly find this exercise forces you to re-write sentences to deliver key phrases with fewer words. This will also help you avoid unclear or ambiguous sentences. Remember that brevity should never come at the expense of clarity.
+
+### Instructional copy and messaging
+Clear and concise copy that guides readers is critical to satisfying their experience on our pages. After all, our users want to achieve particular goals and instructional copy is what will guide them along the way.
+
+* Use the active voice
+* Limit number of words
+* Address each action clearly
+* Stay focused on the specific action or task
+* Remove irrelevant information 
+
+
+### Headings
+As readers skip, skim and scan your pages, they often only notice the first two to three words of any of the paragraphs on the page. They also pay fractionally more attention to headings, bulleted lists and links, so it is important to ensure the first two to three words in those items 'front load' information as much as possible.
+
+The best web headings should:
+
+* Let the reader know what they will find on the page
+* Immediately communicate facts
+* Be creative, interesting, short, to the point and written in plain, active language * Avoid puns, teasers and cultural references;
+* Skip leading articles ('a', 'the', etc)
+
+#### Sub-headings
+People scan web pages using both headings and subheadings. To help your reader’s eyes move down the page, try to break body text into sections. Then write sub-headings for each section.
+
+### Links
+Scanning links is another way that readers might navigate your content. 
+
+The best links should:
+
+* Use plain language that does not mislead or promise too much
+* Use specific terminology
+* Allow readers to predict (with a fair degree of confidence) what they will get if they click;
+* Follow conventions for naming common features (e.g. 'Read more', 'Next/Previous', etc)
+* Front-load user- and action-oriented terms at the beginning of the link (e.g. 'Download our app').
+
+#### Links: What not to do
+Be careful not to create too many links, especially within your body copy. Excess links can be distracting - people feel compelled to click. When they do, they often lose their train of thought and some never return to the original page, despite not having absorbed all the information it contains.
+
+Never use 'Click here' or 'More' to push readers to another page of content. These terms suggest lazy writing, and they are particularly annoying to people using screen-reader software to 'hear' your page.
+
+To avoid 'Click here', you can turn your titles or key messages into links (e.g. 'Learn more about seamless conversations').
+
+To avoid 'More', you can add words to specify exactly what readers will be getting 'more' of, or you can use informative words as the link (e.g. 'More top tips for using Zeta').
+
+**Note:** Slogans that act as links (e.g. 'Start the conversation') do not take a full stop. However, you should use a full stop after a link if it ends the sentence (more applicable to web writing than the UI).
+
+### List items
+Lists are another great way to help readers absorb your information quickly.
+
+Lists should be short – between 5 to 10 items. If your list is too long, try breaking it up into several lists, each with their own heading or introduction. Obviously, long lists are acceptable for familiar items such as countries.
+
+In general, bulleted lists should contain relatively few words or short phrases. If the bulleted items are long, they should be clearly separated to prevent your page from becoming a wall of words.
+
+
 ## Reference Resources
 
 > For guidance on Apple-specific terminology, the writer should refer to the Apple Style Guide. That document covers style and usage issues, and is the key reference for how Apple uses language.
