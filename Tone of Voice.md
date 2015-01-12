@@ -1,15 +1,15 @@
 <!-- # Tone of Voice -->
 
-+ [Zeta's Voice](#zetas-voice)
++ [Wire's Voice](#wires-voice)
 + [Communication Channels](#communication-channels)
 + [Writing Guidelines](#writing-guidelines)
     - [Reference Resources](#reference-resources)
-    - [Glossary of Zeta Terms](#glossary-of-zeta-terms)
+    - [Glossary of Wire Terms](#glossary-of-wire-terms)
     - [Common Usage Issues](#common-usage-issues)
         * [Icon References](#icon-references)
 
 
-# Zeta's Voice
+# Wire's Voice
 
 > Humble and friendly.    
 > Curious and passionate.    
@@ -40,11 +40,11 @@ The sections below outline the unique requirements or guidelines that apply to e
 
 # Writing Guidelines
 
-> Zeta is different. It's obvious the second you see our application in action. This is a brand that's going to transform the way people communicate.
+> Wire is different. It's obvious the second you see our application in action. This is a brand that's going to transform the way people communicate.
 
 > Part of that transformation is evident in the way we say what we say. Our communication style underscores our challenger mentality and ensures we deliver a consistent brand experience that's more compelling, more engaging, and more attractive than other options out there.
 
->Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we've created these guidelines to help you develop people-centered communications that speak with a Zeta 'voice' and follow a certain style.
+>Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we've created these guidelines to help you develop people-centered communications that speak with a Wire 'voice' and follow a certain style.
 
 _(Additional content from 2013 Tone of Voice v2 to be included & revised here.)_
 
@@ -55,13 +55,13 @@ Communicating our core brand values - people, craft and evolution - requires a t
 
 By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that's creating user interface text in the application, an email verifying a new account, or a registration page on the website.
 
-Think of it this way – if Zeta was a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
+Think of it this way – if Wire was a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
 
 To ensure we reach that level of consistency across all our brand touchpoints, we must ensure our tone of voice is:
 
 * **Contemporary** – we use contractions when it's called for, and we may even take a few language liberties (e.g. starting a sentence with a conjunction or using incomplete sentences when short and to the point will do: 'Forgot your password?' instead of 'Did you forget your password?'). But, we eschew jargon and slang that might be 'dench' today but could be 'lame' tomorrow.
 * **Direct** - we communicate in straightforward, confident language that is as honest and transparent as possible (e.g. 'You'll need to add contacts before you can start a conversation' instead of ' We do need access to your address book to find people to start a conversation').
-* **Personable** – our words create the impression of one person ('we' at Zeta) speaking with another ('you' the reader) as a friend, not a faceless 'user'. However, the emphasis should always be on 'you', with less 'we' or 'us'.
+* **Personable** – our words create the impression of one person ('we' at Wire) speaking with another ('you' the reader) as a friend, not a faceless 'user'. However, the emphasis should always be on 'you', with less 'we' or 'us'.
 * **Supportive** – we never blame; rather, we always offer a helpful solution or suggest a next step (e.g. 'Forgot your password? Retrieve it here...', not simply an error message highlighting the obvious: 'That's the wrong password' with no link).
 * **Concise** – we use active verbs whenever possible (e.g. 'Sami muted this conversation', not 'This conversation was muted by Sami') and always opt for imperatives before gerunds (e.g. 'Use this code to link your phone', not 'Using this code will link your phone').
 * **Polite** – we're not afraid to say 'please or thank you' in instructional copy and calls to action, but we don't overdo it and we sometimes use it to (gently) remind people.
@@ -70,7 +70,7 @@ To ensure we reach that level of consistency across all our brand touchpoints, w
 ## Our writing style
 
 ### Account
-People create an account with Zeta. They can then 'log in' (two words when used as a verb) their account. If used as a noun or adjective, it’s one word: 'login' (e.g., ‘Please enter your login details').
+People create an account with Wire. They can then 'log in' (two words when used as a verb) their account. If used as a noun or adjective, it’s one word: 'login' (e.g., ‘Please enter your login details').
 
 People can 'sign out' of the application and change their password by selecting the 'Profile' link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
 
@@ -84,7 +84,7 @@ However, for longer phrases or sentences, we use sentence case, i.e., we only ca
 ### Numbers / Numerals
 In the application, it is acceptable to use numerals in all cases (1 message pending, 3 conversations, Your password must be at least 6 characters).
 
-However, on the website, numbers from one to nine should be spelled out (e.g. there are three ways to download the Zeta application...)
+However, on the website, numbers from one to nine should be spelled out (e.g. there are three ways to download the Wire application...)
 
 ### Politeness, within reason
 We try to sound courteous without being obsequious. While we are not afraid to use 'please' or thank you' where applicable, we use these phrases judiciously. For example, in an initial message in the application, we may ask a user to: 'Enter a phone number'.
@@ -101,14 +101,14 @@ For complete punctuation rules, we suggest you refer to any good American style 
 We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details). A good example is the UI error message that tells people they 'have entered the wrong email, username or password’. We may know exactly what’s wrong, but we leave our message vague to stop people from trying to find out if a user account exists.
 
 ### Select
-Since people can (and will) interact with Zeta across a variety of devices, with a variety of input options (touchscreens, mice, keyboards, etc), it’s important to use the more holistic word ‘select’, rather than
+Since people can (and will) interact with Wire across a variety of devices, with a variety of input options (touchscreens, mice, keyboards, etc), it’s important to use the more holistic word ‘select’, rather than
 something too specific such as ‘click’ or ‘touch’.
 
 ### Calls to action
 We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
 
 ### Style
-* URLs are written as zeta.com/something, not www.zeta.com/something or http://www.zeta.com/something.
+* URLs are written as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
 * The default language for the International English site will be US English.
 * Date format: September 8, 2005 (shortened form is acceptable using the first three letters of the month).
 Do not use: 08.08.05, 08/08/2005 or variations.
@@ -116,7 +116,7 @@ Do not use: 08.08.05, 08/08/2005 or variations.
 * Apostrophes. Use the normal possessive ending ’s after singular words or names that end in s. Use it after plurals that do not end in s: women’s, media’s. Use the ending ’s on plurals that end in s: Partners’.
 * Avoid! Exclamation! Marks!
 * Avoid the ampersand and the '+' symbol unless it is part of a brand name (P&G).
-* Dynamic messages in the Zeta application should not end with a period. The exception would be if there were two or more sentences.
+* Dynamic messages in the Wire application should not end with a period. The exception would be if there were two or more sentences.
     **For example:** Your phone number isn't mandatory, but it makes it easier for us to find people you know. For security, we'll send a code to verify your number.
 
 ### Spelling
@@ -134,11 +134,11 @@ Time indications in conversations are automatically updated and we use timestamp
 
 Do not use 'once' to indicate a past occurrence, such as 'Once the image is uploaded...'. Use 'After you've uploaded your image' or 'After your image upload is complete'.
 
-### Zeta terms
+### Wire terms
 * Phones and mobiles or landlines and mobiles
 * We avoid the use of peer-to-peer, P2P, 'voip', 'VoIP' or 'voip'-anything' in any user-facing communications.
-* You personalize Zeta, you don't 'customize' it.
-* We sign any communications with 'The Zeta team'.
+* You personalize Wire, you don't 'customize' it.
+* We sign any communications with 'The Wire team'.
 
 
 ## Creating web content
@@ -247,7 +247,7 @@ Never use 'Click here' or 'More' to push readers to another page of content. The
 
 To avoid 'Click here', you can turn your titles or key messages into links (e.g. 'Learn more about seamless conversations').
 
-To avoid 'More', you can add words to specify exactly what readers will be getting 'more' of, or you can use informative words as the link (e.g. 'More top tips for using Zeta').
+To avoid 'More', you can add words to specify exactly what readers will be getting 'more' of, or you can use informative words as the link (e.g. 'More top tips for using Wire').
 
 **Note:** Slogans that act as links (e.g. 'Start the conversation') do not take a full stop. However, you should use a full stop after a link if it ends the sentence (more applicable to web writing than the UI).
 
@@ -266,7 +266,7 @@ In general, bulleted lists should contain relatively few words or short phrases.
 * Apple Style Guide – <https://help.apple.com/asg/mac/2013/>
 
 
-## Glossary of Zeta Terms
+## Glossary of Wire Terms
 
 See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
 
@@ -277,9 +277,9 @@ Feel free to suggest new terms if there's something missing there.
 
 _(This section complements the Glossary with preferred phrasing & additional explanations for copy issues we find ourselves correcting repeatedly.)_
 
-**For example:** _“in Zeta” or “on Zeta”?_
+**For example:** _“in Wire” or “on Wire”?_
 
-We say “in Zeta” to mean “in the app”, but “on” is more appropriate when we mean the platform as a whole: ‘let’s connect on Zeta’ and ‘look at the conversation in Zeta’.
+We say “in Wire” to mean “in the app”, but “on” is more appropriate when we mean the platform as a whole: ‘let’s connect on Wire’ and ‘look at the conversation in Wire’.
 
 Easiest to remember as _**in** the app, **on** the plaform_.
 
@@ -324,7 +324,7 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 
 _(based on feedback from Support ToV discussion w/ founders)_
 
-Examples of the language we currently use to describe the Zeta product feeling:
+Examples of the language we currently use to describe the Wire product feeling:
 
 * Elegant
 * Clean
