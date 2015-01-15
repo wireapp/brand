@@ -76,7 +76,17 @@ In all UI copy, we avoid articles wherever possible. Articles include ‘a’, �
 
 ### Capitalization
 We use all caps for system messages (‘UNBLOCK’) in the conversation view.
+
 However, for longer phrases or sentences, we use sentence case: we only capitalize the first word of a phrase or sentence (‘You’ve left this conversation’).
+
+In [UI copy](#ui-copy), we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][iOS-HIG] and [OS X][OSX-HIG].
+
+As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4).
+
+#### Headings
+Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_.
+
+CS content at <https://support.wire.com/> uses sentence case in question list, title case in page headings.
 
 ### Numbers / Numerals
 In the application, it is acceptable to use numerals in all cases (1 message pending, 3 conversations, Your password must be at least 6 characters).
