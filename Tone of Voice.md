@@ -22,7 +22,7 @@
     - [Android](#android)
 - [Writing Guidelines](#writing-guidelines)
     - [Our Tone of Voice](#our-tone-of-voice)
-    - [Our writing style](#our-writing-style)
+    - [Our Writing Style](#our-writing-style)
         - [Abbreviations](#abbreviations)
         - [Articles, leading or otherwise](#articles-leading-or-otherwise)
         - [Capitalization](#capitalization)
@@ -30,17 +30,17 @@
         - [Politeness, within reason](#politeness-within-reason)
         - [Punctuation](#punctuation)
     - [Glossary of Wire Terms](#glossary-of-wire-terms)
-    - [Creating web content](#creating-web-content)
+    - [Creating Web Content](#creating-web-content)
         - [Length](#length)
         - [Sentences](#sentences)
         - [Paragraphs](#paragraphs)
-        - [Instructional copy and messaging](#instructional-copy-and-messaging)
+        - [Instructional Copy and Messaging](#instructional-copy-and-messaging)
         - [Headings](#headings)
         - [Links](#links)
-        - [List items](#list-items)
+        - [List Items](#list-items)
     - [Common Usage Issues](#common-usage-issues)
         - [Account References](#account-references)
-        - [Calls to action](#calls-to-action)
+        - [Calls to Action](#calls-to-action)
         - [Dates and Times](#dates-and-times)
         - [Icon References](#icon-references)
         - [Preferred Spelling Variants](#preferred-spelling-variants)
@@ -119,7 +119,7 @@ To ensure we reach that level of consistency across all our brand touchpoints, w
 * **Polite** – we’re not afraid to say ‘please or thank you’ in instructional copy and calls to action, but we don’t overdo it and we sometimes use it to (gently) remind people.
 
 
-## Our writing style
+## Our Writing Style
 
 ### Abbreviations
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.
@@ -132,14 +132,11 @@ We use all caps for system messages (‘UNBLOCK’) in the conversation view.
 
 However, for longer phrases or sentences, we use sentence case: we only capitalize the first word of a phrase or sentence (‘You’ve left this conversation’).
 
+Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_ based on context. For example, CS content at [support.wire.com](https://support.wire.com/) uses sentence case in the question list, but title case in page headings.
+
 In [UI copy](#ui-copy), we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][iOS-HIG] and [OS X][OSX-HIG].
 
 As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4).
-
-#### Headings
-Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_.
-
-CS content at <https://support.wire.com/> uses sentence case in question list, title case in page headings.
 
 ### Numbers / Numerals
 In the application, it is acceptable to use numerals in all cases (1 message pending, 3 conversations, Your password must be at least 6 characters).
@@ -169,7 +166,7 @@ See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob
 
 Feel free to suggest new terms if there’s something missing there.
 
-## Creating web content
+## Creating Web Content
 
 Web readers have learned to read text on web pages differently than on a printed page. Usability studies have proven that when people read online, they quickly become adept at scanning through a document, looking for key words or phrases that will give them cues about the subject matter.
 
@@ -198,7 +195,7 @@ While you won’t keep this bold text in your final web page, the process of ide
 
 You will quickly find this exercise forces you to re-write sentences to deliver key phrases with fewer words. This will also help you avoid unclear or ambiguous sentences. Remember that brevity should never come at the expense of clarity.
 
-### Instructional copy and messaging
+### Instructional Copy and Messaging
 Clear and concise copy that guides readers is critical to satisfying their experience on our pages. After all, our users want to achieve particular goals and instructional copy is what will guide them along the way.
 
 * Use the active voice
@@ -243,7 +240,7 @@ To avoid ‘More’, you can add words to specify exactly what readers will be g
 
 **Note:** Slogans that act as links (for example, ‘Start the conversation’) do not take a full stop. However, you should use a full stop after a link if it ends the sentence (more applicable to web writing than the UI).
 
-### List items
+### List Items
 Lists are another great way to help readers absorb your information quickly.
 
 Lists should be short – between 5 to 10 items. If your list is too long, try breaking it up into several lists, each with their own heading or introduction. Obviously, long lists are acceptable for familiar items such as countries.
@@ -266,7 +263,7 @@ People create an account with Wire. They can then ‘log in’ _(two words when 
 
 People can ‘sign out’ of the application and change their password by selecting the ‘Profile’ link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
 
-### Calls to action
+### Calls to Action
 We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
 
 ### Dates and Times
@@ -309,7 +306,7 @@ Since people can _(and will)_ interact with Wire across a variety of devices, wi
 Where the platform context is clear, use the verbs specific to the platform, such as ‘click’, ‘tap’, or ‘touch’.
 
 ### URLs
-* URLs are written as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
+URLs are written as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
 
 ### Word Choice
 Whenever possible, cut unnecessary words. The table below shows examples of shorter words that help make sentences more concise:
