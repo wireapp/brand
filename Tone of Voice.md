@@ -376,6 +376,22 @@ When is Customer Support great?
 
 ## Product Website
 
+Text on the website at [wire.com](https://www.wire.com/) is kept to a minimum and makes liberal use of periods to punctuate our claims _(even sentence fragments)_:
+
+> Introducing Wire. Great conversations.
+
+> Talk.
+> It sounds truly amazing.
+
+> Message.
+> With pics, SoundCloud and YouTube.
+
+> Ping.
+> Get attention, without the ring.
+
+> Wire is here.
+> For iOS. For Android. For OS X.
+
 ## Microsites
 
 _(Web pages accessed via the apps: Terms of Use, Privacy Policy, password change, etc.)_
