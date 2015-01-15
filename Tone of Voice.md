@@ -8,9 +8,18 @@
 > Energetic and fresh.   
 > Stylish and understated.  
 
+## Wire speaks for itself
+
+> Every word you display in an app is part of a conversation you have with users. Use this conversation as an opportunity to provide clarity and to help people feel comfortable in your app.
+
+— Apple _iOS Human Interface Guidelines_
 
 ## Contents
 
+- [UI Copy](#ui-copy)
+    - [Mac (Desktop)](#mac-desktop)
+    - [iOS](#ios)
+    - [Android](#android)
 - [Writing Guidelines](#writing-guidelines)
     - [Our Tone of Voice](#our-tone-of-voice)
     - [Our writing style](#our-writing-style)
@@ -27,7 +36,7 @@
         - [Style](#style)
         - [Spelling](#spelling)
         - [Times](#times)
-        - [Wire terms](#wire-terms)
+    - [Glossary of Wire Terms](#glossary-of-wire-terms)
     - [Creating web content](#creating-web-content)
         - [Length](#length)
         - [Sentences](#sentences)
@@ -38,14 +47,9 @@
         - [Links](#links)
         - [List items](#list-items)
     - [Reference Resources](#reference-resources)
-    - [Glossary of Wire Terms](#glossary-of-wire-terms)
     - [Common Usage Issues](#common-usage-issues)
         - [Icon References](#icon-references)
-- [Communication Channels](#communication-channels)
-    - [UI Copy](#ui-copy)
-        - [Mac (Desktop)](#mac-desktop)
-        - [iOS](#ios)
-        - [Android](#android)
+- [Other Communication Channels](#other-communication-channels)
     - [Customer Support Material](#customer-support-material)
     - [Product Website](#product-website)
     - [Microsites](#microsites)
@@ -56,6 +60,37 @@
     - [Tweets](#tweets)
 
 <!-- end toc 3 -->
+
+# UI Copy
+
+> Text is prevalent throughout the [user] interface for such things as button names, menu labels, dialog messages, and help tags. Using text consistently and clearly is a critical component of UI design.
+
+> In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
+
+— Apple _OS X Human Interface Guidelines_ 
+
+
+## Mac (Desktop)
+
+When writing for the Mac desktop user interface, use the conventions that Apple has established in the [OS X Human Interface Guidelines][OSX-HIG].
+
+The following sections are particularly useful:
+
+* [Naming Menus and Items](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html)
+* [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
+* [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4)
+
+## iOS
+
+When writing for iOS, refer to the [iOS Human Interface Guidelines][iOS-HIG], especially:
+
+* [Terminology and Wording](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/FeedbackCommunication.html)
+* [UI Elements](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html)
+
+## Android
+
+For guidance on writing conventions for Android, see [Android Writing Style](https://developer.android.com/design/style/writing.html).
+
 
 # Writing Guidelines
 
@@ -90,7 +125,7 @@ To ensure we reach that level of consistency across all our brand touchpoints, w
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.
 
 ### Account
-People create an account with Wire. They can then ‘log in’ (two words when used as a verb) their account. If used as a noun or adjective, it’s one word: ‘login’ (for example, ‘Please enter your login details’).
+People create an account with Wire. They can then ‘log in’ _(two words when used as a verb)_ to their account. If used as a noun or adjective, it’s one word: ‘login’ (for example, ‘Please enter your login details’).
 
 People can ‘sign out’ of the application and change their password by selecting the ‘Profile’ link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
 
@@ -118,6 +153,7 @@ However, on the website, numbers from one to nine should be spelled out (for exa
 
 ### Politeness, within reason
 We try to sound courteous without being obsequious. While we are not afraid to use ‘please’ or thank you’ where applicable, we use these phrases judiciously. For example, in an initial message in the application, we may ask a user to: ‘Enter a phone number’.
+
 If there’s a mistake and we need to generate a second message, this is the time to say: ‘Please enter a valid phone number’.
 
 ### Punctuation
@@ -164,12 +200,11 @@ Time indications in conversations are automatically updated and we use timestamp
 
 Do not use ‘once’ to indicate a past occurrence, such as ‘Once the image is uploaded...’. Use ‘After you’ve uploaded your image’ or ‘After your image upload is complete’.
 
-### Wire terms
-* Phones and mobiles or landlines and mobiles
-* We avoid the use of peer-to-peer, P2P, ‘voip’, ‘VoIP’ or ‘voip’-anything’ in any user-facing communications.
-* You personalize Wire, you don’t ‘customize’ it.
-* We sign any communications with ‘The Wire team’.
+## Glossary of Wire Terms
 
+See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
+
+Feel free to suggest new terms if there’s something missing there.
 
 ## Creating web content
 
@@ -295,13 +330,10 @@ In general, bulleted lists should contain relatively few words or short phrases.
 
 * Apple Style Guide – <https://help.apple.com/asg/mac/2013/>
 
+For complete punctuation rules and other writing conventions, refer to these style guides:
 
-## Glossary of Wire Terms
-
-See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
-
-Feel free to suggest new terms if there’s something missing there.
-
+* The Chicago Manual of Style 
+* The Yahoo Style Guide
 
 ## Common Usage Issues
 
@@ -322,46 +354,11 @@ When referring to icons that appear in the user interface, use the name of the a
 For an overview of our UI icons, see [User Interface Icon Names](https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true).
 
 
-# Communication Channels
+# Other Communication Channels
 
-Each of the primary touch-points through which we communicate to our customers may require subtle differences in tone — _how do we talk to our users in each context?_
+Beyond the user interface, each of the primary touch-points through which we communicate to our customers may require subtle differences in tone — _how do we talk to our users in each context?_
 
 The sections below outline the unique requirements or guidelines that apply to each channel.
-
-
-## UI Copy
-
-> Text is prevalent throughout the [user] interface for such things as button names, menu labels, dialog messages, and help tags. Using text consistently and clearly is a critical component of UI design.
-
-> In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
-
-— Apple _OS X Human Interface Guidelines_ 
-
-
-### Mac (Desktop)
-
-When writing for the Mac desktop user interface, use the conventions that Apple has established in the [OS X Human Interface Guidelines][OSX-HIG].
-
-The following sections are particularly useful:
-
-* [Naming Menus and Items](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html)
-* [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
-* [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4)
-
-### iOS
-
-> Every word you display in an app is part of a conversation you have with users. Use this conversation as an opportunity to provide clarity and to help people feel comfortable in your app.
-
-— Apple _iOS Human Interface Guidelines_
-
-When writing for iOS, refer to the [iOS Human Interface Guidelines][iOS-HIG], especially:
-
-* [Terminology and Wording](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/FeedbackCommunication.html)
-* [UI Elements](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html)
-
-### Android
-
-For guidance on writing conventions for Android, see [Android Writing Style](https://developer.android.com/design/style/writing.html).
 
 
 ## Customer Support Material
