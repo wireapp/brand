@@ -224,7 +224,7 @@ Clear and concise copy that guides readers is critical to satisfying their exper
 
 
 ### Headings
-As readers skip, skim and scan your pages, they often only notice the first two to three words of any of the paragraphs on the page. They also pay fractionally more attention to headings, bulleted lists and links, so it is important to ensure the first two to three words in those items ‘front load’ information as much as possible.
+As readers skip, skim and scan your pages, they often only notice the first two or three words of any of the paragraphs on the page. They also pay more attention to headings, bulleted lists and links, so it is important to ensure the first two or three words in those items ‘front load’ information as much as possible.
 
 The best web headings should:
 
