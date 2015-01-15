@@ -315,10 +315,15 @@ The sections below outline the unique requirements or guidelines that apply to e
 — Apple _OS X Human Interface Guidelines_ 
 
 
-### Desktop (Mac)
+### Mac (Desktop)
 
-* [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
+When writing for the Mac desktop user interface, use the conventions that Apple has established in the [OS X Human Interface Guidelines][OSX-HIG].
+
+The following sections are particularly useful:
+
 * [Naming Menus and Items](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html)
+* [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
+* [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4)
 
 ### iOS
 
@@ -326,12 +331,14 @@ The sections below outline the unique requirements or guidelines that apply to e
 
 — Apple _iOS Human Interface Guidelines_
 
+When writing for iOS, refer to the [iOS Human Interface Guidelines][iOS-HIG], especially:
+
 * [Terminology and Wording](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/FeedbackCommunication.html)
 * [UI Elements](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html)
 
 ### Android
 
-* [Android Writing Style](https://developer.android.com/design/style/writing.html)
+For guidance on writing conventions for Android, see [Android Writing Style](https://developer.android.com/design/style/writing.html).
 
 
 ## Customer Support Material
@@ -384,3 +391,10 @@ _(signup email, password change, etc.)_
 ## Release Notes
 
 ## Tweets
+
+
+---
+
+[iOS-HIG]:  https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+
+[OSX-HIG]:  https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
