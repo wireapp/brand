@@ -186,14 +186,13 @@ Do not use: 08.08.05, 08/08/2005 or variations.
     **For example:** Your phone number isn’t mandatory, but it makes it easier for us to find people you know. For security, we’ll send a code to verify your number.
 
 ### Spelling
-* internet
-* email
+* Internet _(capitalized per Apple style guide)_
+* email _(no hyphen)_
 * website
 * megapixel 
-* WiFi
-* cell phone / cell phones (two words - not one)
-* log in / out (v. as in ‘log in to your Account’); log-in / out (n., adj. as in ‘Click the log-in button’)
-* antivirus
+* Wi-Fi _(hyphenated per iOS, OS X & Android)_
+* log in / out _(verb as in ‘log in to your account’)_ 
+* login  _(one word if noun or adjective: ‘Please enter your login details’)_
 
 ### Times
 Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a ‘casual’ writing style (for example, ‘yesterday’). When not updated automatically, avoid ‘now’, ‘new’, ‘today’, ‘tomorrow’ and other similar time sensitive words that will be wrong a day later.
