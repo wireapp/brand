@@ -29,26 +29,26 @@
         - [Numbers / Numerals](#numbers-numerals)
         - [Politeness, within reason](#politeness-within-reason)
         - [Punctuation](#punctuation)
-        - [Security](#security)
-        - [Select](#select)
-        - [Calls to action](#calls-to-action)
-        - [Style](#style)
-        - [Time of Day](#time-of-day)
     - [Glossary of Wire Terms](#glossary-of-wire-terms)
     - [Creating web content](#creating-web-content)
         - [Length](#length)
         - [Sentences](#sentences)
-        - [Word choice](#word-choice)
         - [Paragraphs](#paragraphs)
         - [Instructional copy and messaging](#instructional-copy-and-messaging)
         - [Headings](#headings)
         - [Links](#links)
         - [List items](#list-items)
-    - [Reference Resources](#reference-resources)
     - [Common Usage Issues](#common-usage-issues)
-        - [Account](#account)
-        - [Spelling](#spelling)
+        - [Account References](#account-references)
+        - [Calls to action](#calls-to-action)
+        - [Dates and Times](#dates-and-times)
         - [Icon References](#icon-references)
+        - [Preferred Spelling Variants](#preferred-spelling-variants)
+        - [Security References](#security-references)
+        - [Select/Choose vs. Click/Tap/Touch](#selectchoose-vs-clicktaptouch)
+        - [URLs](#urls)
+        - [Word Choice](#word-choice)
+    - [Reference Resources](#reference-resources)
 - [Other Communication Channels](#other-communication-channels)
     - [Customer Support Material](#customer-support-material)
     - [Product Website](#product-website)
@@ -152,38 +152,16 @@ We try to sound courteous without being obsequious. While we are not afraid to u
 If there’s a mistake and we need to generate a second message, this is the time to say: ‘Please enter a valid phone number’.
 
 ### Punctuation
-We do not use full stops in most UI strings (for example, ‘Start a conversation’). However, copy on the website should be punctuated correctly.
-
-We use the serial comma (for example, ‘Email, phone number, and address’).
-
-For complete punctuation rules, we suggest you refer to any good American style guide (The Chicago Manual of Style or The Yahoo Style Guide).
-
-### Security
-We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details). A good example is the UI error message that tells people they ‘have entered the wrong email, username or password’. We may know exactly what’s wrong, but we leave our message vague to stop people from trying to find out if a user account exists.
-
-### Select
-Since people can (and will) interact with Wire across a variety of devices, with a variety of input options (touchscreens, mice, keyboards, etc), it’s important to use the more holistic word ‘select’, rather than
-something too specific such as ‘click’ or ‘touch’.
-
-### Calls to action
-We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
-
-### Style
-* URLs are written as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
-* The default language for the International English site will be US English.
-* Date format: September 8, 2005 (shortened form is acceptable using the first three letters of the month).
-Do not use: 08.08.05, 08/08/2005 or variations.
-* Our voice is active, not passive (see section on tone of voice).
-* Apostrophes. Use the normal possessive ending ’s after singular words or names that end in s. Use it after plurals that do not end in s: women’s, media’s. Use the ending ’s on plurals that end in s: Partners’.
+* We do not use full stops in most UI strings (for example, ‘Start a conversation’). However, copy on the website should be punctuated correctly.
+* We use the serial comma (for example, ‘Email, phone number, and address’).
+* Apostrophes. Use the normal possessive ending ’s after singular words or names that end in s. Use it after plurals that do not end in s: women’s, media’s. Use the ending s’ on plurals that end in s: Partners’.
 * Avoid! Exclamation! Marks!
 * Avoid the ampersand and the ‘+’ symbol unless it is part of a brand name (P&G).
 * Dynamic messages in the Wire application should not end with a period. The exception would be if there were two or more sentences.
     **For example:** Your phone number isn’t mandatory, but it makes it easier for us to find people you know. For security, we’ll send a code to verify your number.
 
-### Time of Day
-Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a ‘casual’ writing style (for example, ‘yesterday’). When not updated automatically, avoid ‘now’, ‘new’, ‘today’, ‘tomorrow’ and other similar time sensitive words that will be wrong a day later.
+For complete punctuation rules, we suggest you refer to any good American style guide (The Chicago Manual of Style or The Yahoo Style Guide).
 
-Do not use ‘once’ to indicate a past occurrence, such as ‘Once the image is uploaded...’. Use ‘After you’ve uploaded your image’ or ‘After your image upload is complete’.
 
 ## Glossary of Wire Terms
 
@@ -207,43 +185,7 @@ On the web, brevity is king. This applies to sentences, paragraphs and overall a
 ### Sentences
 Try to keep your sentences short. Split lengthy sentences into shorter ones. Make sure each sentence has one thought – or two tightly connected thoughts. Very short sentences are acceptable, particularly in a question and answer format, where a short answer may be all that you need.
 
-### Word choice
-Whenever possible, cut unnecessary words. The table below shows examples of shorter words that help make sentences more concise:
-
-| Wordy                         | Better    |
-| ----------------------------- | --------- |
-| due to the fact that          | because   |
-| for the reason that           | because   |
-| in the event that             | if        |
-| at this point in time         | now       |
-| in a great many instances     | often     |
-| situated in the vicinity of   | near      |
-| during the same time that     | while     |
-| in the not too distant future | soon      |
-| prior to the time that        | before    |
-| in such a manner as to        | to        |
-| for a period of               | for       |
-| connect up together           | join      |
-
-Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
-
-Be careful that you don’t bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
-
-Examples of the most common nouns that hide verbs:
-
-| Noun           | Should be this verb |
-| -------------- | ------------------- |
-| denial         | deny                |
-| maintenance    | maintain, keep up   |
-| concurrence    | concur, agree       |
-| assignment     | assign              |
-| failure        | fail, if you don’t  |
-| transmission   | transmit, send      |
-| recommendation | recommend           |
-
- 
 ### Paragraphs
-
 Using shorter paragraphs (or ‘chunks’) makes scanning much easier. A paragraph should contain a single concept or idea. The shorter a paragraph, the more focused it will be.
 
 A one-sentence paragraph is perfectly acceptable on the web.
@@ -309,17 +251,6 @@ Lists should be short – between 5 to 10 items. If your list is too long, try b
 In general, bulleted lists should contain relatively few words or short phrases. If the bulleted items are long, they should be clearly separated to prevent your page from becoming a wall of words.
 
 
-## Reference Resources
-
-> For guidance on Apple-specific terminology, the writer should refer to the Apple Style Guide. That document covers style and usage issues, and is the key reference for how Apple uses language.
-
-* Apple Style Guide – <https://help.apple.com/asg/mac/2013/>
-
-For complete punctuation rules and other writing conventions, refer to these style guides:
-
-* The Chicago Manual of Style 
-* The Yahoo Style Guide
-
 ## Common Usage Issues
 
 _(This section complements the Glossary with preferred phrasing & additional explanations for copy issues we find ourselves correcting repeatedly.)_
@@ -335,8 +266,21 @@ People create an account with Wire. They can then ‘log in’ _(two words when 
 
 People can ‘sign out’ of the application and change their password by selecting the ‘Profile’ link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
 
-### Icon References
+### Calls to action
+We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
 
+### Dates and Times
+Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a ‘casual’ writing style (for example, ‘yesterday’). When not updated automatically, avoid ‘now’, ‘new’, ‘today’, ‘tomorrow’ and other similar time sensitive words that will be wrong a day later.
+
+Do not use ‘once’ to indicate a past occurrence, such as ‘Once the image is uploaded...’. Use ‘After you’ve uploaded your image’ or ‘After your image upload is complete’.
+
+Use the following long date format when possible: September 8, 2005.
+
+_(The shortened form is acceptable using the first three letters of the month)_.
+
+To avoid ambiguity, do not use 08.08.05, 08/08/2005 or variations.
+
+### Icon References
 When referring to icons that appear in the user interface, use the name of the action or command that they perform, not the symbol that appears on the button: **Settings** or **Preferences**, not **Gear** or **Cog**.
 
 > “To end the call, tap the Close × icon in the upper left corner of the conversation.”
@@ -352,7 +296,69 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 * log in / out _(verb as in ‘log in to your account’)_ 
 * login  _(one word if noun or adjective: ‘Please enter your login details’)_
 
-We use U.S. English spelling, so no ‘u’ in ‘color’, etc.
+The default language for the International English site will be U.S. English — so no ‘u’ in ‘color’, etc.
+
+### Security References
+We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details). 
+
+A good example is the UI error message that tells people they have entered the ‘wrong address or password’. We may know exactly what’s wrong, but we leave our message vague to stop people from trying to find out if a user account exists.
+
+### Select/Choose vs. Click/Tap/Touch
+Since people can _(and will)_ interact with Wire across a variety of devices, with a variety of input options (touchscreens, mice, keyboards, etc.), use generic verbs like ‘select’ or ‘choose’ if the content applies to all platforms.
+
+Where the platform context is clear, use the verbs specific to the platform, such as ‘click’, ‘tap’, or ‘touch’.
+
+### URLs
+* URLs are written as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
+
+### Word Choice
+Whenever possible, cut unnecessary words. The table below shows examples of shorter words that help make sentences more concise:
+
+| Wordy                         | Better    |
+| ----------------------------- | --------- |
+| due to the fact that          | because   |
+| for the reason that           | because   |
+| in the event that             | if        |
+| at this point in time         | now       |
+| in a great many instances     | often     |
+| situated in the vicinity of   | near      |
+| during the same time that     | while     |
+| in the not too distant future | soon      |
+| prior to the time that        | before    |
+| in such a manner as to        | to        |
+| for a period of               | for       |
+| connect up together           | join      |
+
+Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
+
+Be careful that you don’t bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
+
+Examples of the most common nouns that hide verbs:
+
+| Noun           | Should be this verb |
+| -------------- | ------------------- |
+| denial         | deny                |
+| maintenance    | maintain, keep up   |
+| concurrence    | concur, agree       |
+| assignment     | assign              |
+| failure        | fail, if you don’t  |
+| transmission   | transmit, send      |
+| recommendation | recommend           |
+
+ 
+## Reference Resources
+
+In addition to the platform-specific resources described under [UI Copy](#ui-copy), the following resources provide useful reference.
+
+> For guidance on Apple-specific terminology, the writer should refer to the Apple Style Guide. That document covers style and usage issues, and is the key reference for how Apple uses language.
+
+* Apple Style Guide – <https://help.apple.com/asg/mac/2013/>
+
+For complete punctuation rules and other writing conventions, refer to these style guides:
+
+* The Chicago Manual of Style 
+* The Yahoo Style Guide
+
 
 # Other Communication Channels
 
