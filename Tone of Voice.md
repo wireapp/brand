@@ -24,7 +24,6 @@
     - [Our Tone of Voice](#our-tone-of-voice)
     - [Our writing style](#our-writing-style)
         - [Abbreviations](#abbreviations)
-        - [Account](#account)
         - [Articles, leading or otherwise](#articles-leading-or-otherwise)
         - [Capitalization](#capitalization)
         - [Numbers / Numerals](#numbers-numerals)
@@ -34,8 +33,7 @@
         - [Select](#select)
         - [Calls to action](#calls-to-action)
         - [Style](#style)
-        - [Spelling](#spelling)
-        - [Times](#times)
+        - [Time of Day](#time-of-day)
     - [Glossary of Wire Terms](#glossary-of-wire-terms)
     - [Creating web content](#creating-web-content)
         - [Length](#length)
@@ -48,6 +46,8 @@
         - [List items](#list-items)
     - [Reference Resources](#reference-resources)
     - [Common Usage Issues](#common-usage-issues)
+        - [Account](#account)
+        - [Spelling](#spelling)
         - [Icon References](#icon-references)
 - [Other Communication Channels](#other-communication-channels)
     - [Customer Support Material](#customer-support-material)
@@ -124,11 +124,6 @@ To ensure we reach that level of consistency across all our brand touchpoints, w
 ### Abbreviations
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.
 
-### Account
-People create an account with Wire. They can then ‘log in’ _(two words when used as a verb)_ to their account. If used as a noun or adjective, it’s one word: ‘login’ (for example, ‘Please enter your login details’).
-
-People can ‘sign out’ of the application and change their password by selecting the ‘Profile’ link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
-
 ### Articles, leading or otherwise
 In all UI copy, we avoid articles wherever possible. Articles include ‘a’, ‘an’, ‘the’, etc. In a similar vein, we also avoid demonstrative words such as ‘this’ and ‘those’.
 
@@ -185,16 +180,7 @@ Do not use: 08.08.05, 08/08/2005 or variations.
 * Dynamic messages in the Wire application should not end with a period. The exception would be if there were two or more sentences.
     **For example:** Your phone number isn’t mandatory, but it makes it easier for us to find people you know. For security, we’ll send a code to verify your number.
 
-### Spelling
-* Internet _(capitalized per Apple style guide)_
-* email _(no hyphen)_
-* website
-* megapixel 
-* Wi-Fi _(hyphenated per iOS, OS X & Android)_
-* log in / out _(verb as in ‘log in to your account’)_ 
-* login  _(one word if noun or adjective: ‘Please enter your login details’)_
-
-### Times
+### Time of Day
 Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a ‘casual’ writing style (for example, ‘yesterday’). When not updated automatically, avoid ‘now’, ‘new’, ‘today’, ‘tomorrow’ and other similar time sensitive words that will be wrong a day later.
 
 Do not use ‘once’ to indicate a past occurrence, such as ‘Once the image is uploaded...’. Use ‘After you’ve uploaded your image’ or ‘After your image upload is complete’.
@@ -344,6 +330,11 @@ We say “in Wire” to mean “in the app”, but “on” is more appropriate 
 
 Easiest to remember as _**in** the app, **on** the plaform_.
 
+### Account References
+People create an account with Wire. They can then ‘log in’ _(two words when used as a verb)_ to their account. If used as a noun or adjective, it’s one word: ‘login’ (for example, ‘Please enter your login details’).
+
+People can ‘sign out’ of the application and change their password by selecting the ‘Profile’ link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
+
 ### Icon References
 
 When referring to icons that appear in the user interface, use the name of the action or command that they perform, not the symbol that appears on the button: **Settings** or **Preferences**, not **Gear** or **Cog**.
@@ -352,6 +343,16 @@ When referring to icons that appear in the user interface, use the name of the a
 
 For an overview of our UI icons, see [User Interface Icon Names](https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true).
 
+### Preferred Spelling Variants
+* Internet _(capitalized per Apple style guide)_
+* email _(no hyphen)_
+* website
+* megapixel 
+* Wi-Fi _(hyphenated per iOS, OS X & Android)_
+* log in / out _(verb as in ‘log in to your account’)_ 
+* login  _(one word if noun or adjective: ‘Please enter your login details’)_
+
+We use U.S. English spelling, so no ‘u’ in ‘color’, etc.
 
 # Other Communication Channels
 
