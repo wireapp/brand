@@ -1,28 +1,5 @@
 <!-- # Tone of Voice -->
 
-+ [Wire’s Voice](#wires-voice)
-+ [Writing Guidelines](#writing-guidelines)
-    - [Our Tone of Voice](#our-tone-of-voice)
-    - [Our Writing Style](#our-writing-style)
-    - [Creating Web Content](#creating-web-content)
-    - [Reference Resources](#reference-resources)
-    - [Glossary of Wire Terms](#glossary-of-wire-terms)
-    - [Common Usage Issues](#common-usage-issues)
-+ [Communication Channels](#communication-channels)
-    + [UI Copy](#ui-copy)
-        - [Desktop (Mac)](#desktop-mac)
-        - [iOS](#ios)
-        - [Android](#android)
-    - [Customer Support Material](#customer-support-material)
-    - [Product Website](#product-website)
-    - [Microsites](#microsites)
-    - [Customer Communication](#customer-communication)
-    - [Marketing/PR Material](#marketing-pr-material)
-    - [App Store Copy](#app-store-copy)
-    - [Release Notes](#release-notes)
-    - [Tweets](#tweets)
-
-
 # Wire’s Voice
 
 > Humble and friendly.    
@@ -32,15 +9,61 @@
 > Stylish and understated.  
 
 
+## Contents
+
+- [Writing Guidelines](#writing-guidelines)
+    - [Our Tone of Voice](#our-tone-of-voice)
+    - [Our writing style](#our-writing-style)
+        - [Abbreviations](#abbreviations)
+        - [Account](#account)
+        - [Articles, leading or otherwise](#articles-leading-or-otherwise)
+        - [Capitalization](#capitalization)
+        - [Numbers / Numerals](#numbers-numerals)
+        - [Politeness, within reason](#politeness-within-reason)
+        - [Punctuation](#punctuation)
+        - [Security](#security)
+        - [Select](#select)
+        - [Calls to action](#calls-to-action)
+        - [Style](#style)
+        - [Spelling](#spelling)
+        - [Times](#times)
+        - [Wire terms](#wire-terms)
+    - [Creating web content](#creating-web-content)
+        - [Length](#length)
+        - [Sentences](#sentences)
+        - [Word choice](#word-choice)
+        - [Paragraphs](#paragraphs)
+        - [Instructional copy and messaging](#instructional-copy-and-messaging)
+        - [Headings](#headings)
+        - [Links](#links)
+        - [List items](#list-items)
+    - [Reference Resources](#reference-resources)
+    - [Glossary of Wire Terms](#glossary-of-wire-terms)
+    - [Common Usage Issues](#common-usage-issues)
+        - [Icon References](#icon-references)
+- [Communication Channels](#communication-channels)
+    - [UI Copy](#ui-copy)
+        - [Mac (Desktop)](#mac-desktop)
+        - [iOS](#ios)
+        - [Android](#android)
+    - [Customer Support Material](#customer-support-material)
+    - [Product Website](#product-website)
+    - [Microsites](#microsites)
+    - [Customer Communication](#customer-communication)
+    - [Marketing/PR Material](#marketingpr-material)
+    - [App Store Copy](#app-store-copy)
+    - [Release Notes](#release-notes)
+    - [Tweets](#tweets)
+
+<!-- end toc 3 -->
+
 # Writing Guidelines
 
 > Wire is different. It’s obvious the second you see our application in action. This is a brand that’s going to transform the way people communicate.
 
 > Part of that transformation is evident in the way we say what we say. Our communication style underscores our challenger mentality and ensures we deliver a consistent brand experience that’s more compelling, more engaging, and more attractive than other options out there.
 
->Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire ‘voice’ and follow a certain style.
-
-_(Additional content from 2013 Tone of Voice v2 to be included & revised here.)_
+>Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire ‘voice’ and follow our style.
 
 
 ## Our Tone of Voice
