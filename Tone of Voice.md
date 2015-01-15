@@ -1,12 +1,26 @@
 <!-- # Tone of Voice -->
 
 + [Wire’s Voice](#wires-voice)
-+ [Communication Channels](#communication-channels)
 + [Writing Guidelines](#writing-guidelines)
+    - [Our Tone of Voice](#our-tone-of-voice)
+    - [Our Writing Style](#our-writing-style)
+    - [Creating Web Content](#creating-web-content)
     - [Reference Resources](#reference-resources)
     - [Glossary of Wire Terms](#glossary-of-wire-terms)
     - [Common Usage Issues](#common-usage-issues)
-        * [Icon References](#icon-references)
++ [Communication Channels](#communication-channels)
+    + [UI Copy](#ui-copy)
+        - [Desktop (Mac)](#desktop-mac)
+        - [iOS](#ios)
+        - [Android](#android)
+    - [Customer Support Material](#customer-support-material)
+    - [Product Website](#product-website)
+    - [Microsites](#microsites)
+    - [Customer Communication](#customer-communication)
+    - [Marketing/PR Material](#marketing-pr-material)
+    - [App Store Copy](#app-store-copy)
+    - [Release Notes](#release-notes)
+    - [Tweets](#tweets)
 
 
 # Wire’s Voice
@@ -16,26 +30,6 @@
 > Witty and polite.    
 > Energetic and fresh.   
 > Stylish and understated.  
-
-
-# Communication Channels
-
-Each of the primary touch-points through which we communicate to our customers may require subtle differences in tone — _how do we talk to our users in each context?_
-
-The sections below outline the unique requirements or guidelines that apply to each channel:
-
-+ [UI Copy](#ui-copy)
-    - [Desktop (Mac)](#desktop-mac)
-    - [iOS](#ios)
-    - [Android](#android)
-+ [Product Website](#product-website)
-+ [Microsites](#microsites)
-+ [Customer Communication](#customer-communication)
-+ [Customer Support Material](#customer-support-material)
-+ [Marketing/PR Material](#marketing-pr-material)
-+ [App Store Copy](#app-store-copy)
-+ [Release Notes](#release-notes)
-+ [Tweets](#tweets)
 
 
 # Writing Guidelines
@@ -293,6 +287,13 @@ When referring to icons that appear in the user interface, use the name of the a
 > “To end the call, tap the Close × icon in the upper left corner of the conversation.”
 
 For an overview of our UI icons, see [User Interface Icon Names](https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true).
+
+
+# Communication Channels
+
+Each of the primary touch-points through which we communicate to our customers may require subtle differences in tone — _how do we talk to our users in each context?_
+
+The sections below outline the unique requirements or guidelines that apply to each channel.
 
 
 ## UI Copy
