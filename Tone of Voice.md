@@ -1,6 +1,6 @@
 <!-- # Tone of Voice -->
 
-# Wire’s Voice
+# Wire’s voice
 
 > Humble and friendly.    
 > Curious and passionate.    
@@ -16,52 +16,52 @@
 
 ## Contents
 
-- [UI Copy](#ui-copy)
-    - [Mac (Desktop)](#mac-desktop)
+- [UI copy](#ui-copy)
+    - [Mac OS X (desktop)](#mac-osx-desktop)
     - [iOS](#ios)
     - [Android](#android)
-- [Writing Guidelines](#writing-guidelines)
-    - [Our Tone of Voice](#our-tone-of-voice)
-    - [Our Writing Style](#our-writing-style)
+- [Writing guidelines](#writing-guidelines)
+    - [Our tone of voice](#our-tone-of-voice)
+    - [Our writing style](#our-writing-style)
         - [Abbreviations](#abbreviations)
         - [Articles, leading or otherwise](#articles-leading-or-otherwise)
         - [Capitalization](#capitalization)
-        - [Numbers / Numerals](#numbers-numerals)
+        - [Numbers / numerals](#numbers-numerals)
         - [Politeness, within reason](#politeness-within-reason)
         - [Punctuation](#punctuation)
-    - [Glossary of Wire Terms](#glossary-of-wire-terms)
-    - [Creating Web Content](#creating-web-content)
+    - [Glossary of Wire terms](#glossary-of-wire-terms)
+    - [Creating web content](#creating-web-content)
         - [Length](#length)
         - [Sentences](#sentences)
         - [Paragraphs](#paragraphs)
-        - [Instructional Copy and Messaging](#instructional-copy-and-messaging)
+        - [Instructional copy and messaging](#instructional-copy-and-messaging)
         - [Headings](#headings)
         - [Links](#links)
-        - [List Items](#list-items)
-    - [Common Usage Issues](#common-usage-issues)
-        - [Account References](#account-references)
-        - [Calls to Action](#calls-to-action)
-        - [Dates and Times](#dates-and-times)
-        - [Icon References](#icon-references)
-        - [Preferred Spelling Variants](#preferred-spelling-variants)
-        - [Security References](#security-references)
-        - [Select/Choose vs. Click/Tap/Touch](#selectchoose-vs-clicktaptouch)
+        - [List items](#list-items)
+    - [Common usage issues](#common-usage-issues)
+        - [Account references](#account-references)
+        - [Calls to action](#calls-to-action)
+        - [Dates and times](#dates-and-times)
+        - [Icon references](#icon-references)
+        - [Preferred spelling variants](#preferred-spelling-variants)
+        - [Security references](#security-references)
+        - [Select/choose vs. click/tap/touch](#selectchoose-vs-clicktaptouch)
         - [URLs](#urls)
-        - [Word Choice](#word-choice)
-    - [Reference Resources](#reference-resources)
-- [Other Communication Channels](#other-communication-channels)
-    - [Customer Support Material](#customer-support-material)
-    - [Product Website](#product-website)
+        - [Word choice](#word-choice)
+    - [Reference resources](#reference-resources)
+- [Other communication channels](#other-communication-channels)
+    - [Customer Support material](#customer-support-material)
+    - [Product website](#product-website)
     - [Microsites](#microsites)
-    - [Customer Communication](#customer-communication)
-    - [Marketing/PR Material](#marketingpr-material)
-    - [App Store Copy](#app-store-copy)
+    - [Customer communication (email)](#customer-communication-email)
+    - [Marketing material](#marketing-material)
+    - [App Store copy](#app-store-copy)
     - [Release Notes](#release-notes)
     - [Tweets](#tweets)
 
 <!-- end toc 3 -->
 
-# UI Copy
+# UI copy
 
 > Text is prevalent throughout the [user] interface for such things as button names, menu labels, dialog messages, and help tags. Using text consistently and clearly is a critical component of UI design.
 
@@ -70,7 +70,7 @@
 — Apple _OS X Human Interface Guidelines_ 
 
 
-## Mac (Desktop)
+## Mac OS X (desktop)
 
 When writing for the Mac desktop user interface, use the conventions that Apple has established in the [OS X Human Interface Guidelines][OSX-HIG].
 
@@ -92,7 +92,7 @@ When writing for iOS, refer to the [iOS Human Interface Guidelines][iOS-HIG], es
 For guidance on writing conventions for Android, see [Android Writing Style](https://developer.android.com/design/style/writing.html).
 
 
-# Writing Guidelines
+# Writing guidelines
 
 > Wire is different. It’s obvious the second you see our application in action. This is a brand that’s going to transform the way people communicate.
 
@@ -101,7 +101,7 @@ For guidance on writing conventions for Android, see [Android Writing Style](htt
 >Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire ‘voice’ and follow our style.
 
 
-## Our Tone of Voice
+## Our tone of voice
 
 Communicating our core brand values - people, craft and evolution - requires a tone of voice that is consistent at every level, yet is still flexible enough to accommodate a variety of audiences.
 
@@ -119,7 +119,7 @@ To ensure we reach that level of consistency across all our brand touchpoints, w
 * **Polite** – we’re not afraid to say ‘please or thank you’ in instructional copy and calls to action, but we don’t overdo it and we sometimes use it to (gently) remind people.
 
 
-## Our Writing Style
+## Our writing style
 
 ### Abbreviations
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.
@@ -128,17 +128,21 @@ Avoid abbreviations where possible. Use “for example” or “such as” inste
 In all UI copy, we avoid articles wherever possible. Articles include ‘a’, ‘an’, ‘the’, etc. In a similar vein, we also avoid demonstrative words such as ‘this’ and ‘those’.
 
 ### Capitalization
-We use all caps for system messages (‘UNBLOCK’) in the conversation view.
+We use all caps for system messages (‘UNBLOCK’) in the conversation view and in certain other places as necessary to agree with (Android) platform conventions.
 
 However, for longer phrases or sentences, we use sentence case: we only capitalize the first word of a phrase or sentence (‘You’ve left this conversation’).
 
-Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_ based on context. For example, CS content at [support.wire.com](https://support.wire.com/) uses sentence case in the question list, but title case in page headings.
+Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_ based on context. 
+
+For example, CS content at [support.wire.com](https://support.wire.com/) uses sentence case in the question list, but title case in page headings _(as required by the Zendesk customer service platform)_. Certain channels _(such as press releases)_ may have other conventions to which we respectfully adhere.
+
+For long-form documents, we prefer sentence case for headings, as we feel this is a better match for our “humble and friendly” voice. Some perceive title case as more formal and a bit too stiff for our tone, so we avoid it in contexts where it’s not required.
 
 In [UI copy](#ui-copy), we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][iOS-HIG] and [OS X][OSX-HIG].
 
 As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4).
 
-### Numbers / Numerals
+### Numbers / numerals
 In the application, it is acceptable to use numerals in all cases (1 message pending, 3 conversations, Your password must be at least 6 characters).
 
 However, on the website, numbers from one to nine should be spelled out (for example, there are three ways to download the Wire application...)
@@ -160,13 +164,13 @@ If there’s a mistake and we need to generate a second message, this is the tim
 For complete punctuation rules, we suggest you refer to any good American style guide (The Chicago Manual of Style or The Yahoo Style Guide).
 
 
-## Glossary of Wire Terms
+## Glossary of Wire terms
 
 See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
 
 Feel free to suggest new terms if there’s something missing there.
 
-## Creating Web Content
+## Creating web content
 
 Web readers have learned to read text on web pages differently than on a printed page. Usability studies have proven that when people read online, they quickly become adept at scanning through a document, looking for key words or phrases that will give them cues about the subject matter.
 
@@ -195,7 +199,7 @@ While you won’t keep this bold text in your final web page, the process of ide
 
 You will quickly find this exercise forces you to re-write sentences to deliver key phrases with fewer words. This will also help you avoid unclear or ambiguous sentences. Remember that brevity should never come at the expense of clarity.
 
-### Instructional Copy and Messaging
+### Instructional copy and messaging
 Clear and concise copy that guides readers is critical to satisfying their experience on our pages. After all, our users want to achieve particular goals and instructional copy is what will guide them along the way.
 
 * Use the active voice
@@ -214,6 +218,8 @@ The best web headings should:
 * Immediately communicate facts
 * Be creative, interesting, short, to the point and written in plain, active language * Avoid puns, teasers and cultural references;
 * Skip leading articles (‘a’, ‘the’, etc)
+
+We prefer sentence case for headings (see [Capitalization](#capitalization)).
 
 #### Sub-headings
 People scan web pages using both headings and subheadings. To help your reader’s eyes move down the page, try to break body text into sections. Then write sub-headings for each section.
@@ -240,7 +246,7 @@ To avoid ‘More’, you can add words to specify exactly what readers will be g
 
 **Note:** Slogans that act as links (for example, ‘Start the conversation’) do not take a full stop. However, you should use a full stop after a link if it ends the sentence (more applicable to web writing than the UI).
 
-### List Items
+### List items
 Lists are another great way to help readers absorb your information quickly.
 
 Lists should be short – between 5 to 10 items. If your list is too long, try breaking it up into several lists, each with their own heading or introduction. Obviously, long lists are acceptable for familiar items such as countries.
@@ -248,7 +254,7 @@ Lists should be short – between 5 to 10 items. If your list is too long, try b
 In general, bulleted lists should contain relatively few words or short phrases. If the bulleted items are long, they should be clearly separated to prevent your page from becoming a wall of words.
 
 
-## Common Usage Issues
+## Common usage issues
 
 _(This section complements the Glossary with preferred phrasing & additional explanations for copy issues we find ourselves correcting repeatedly.)_
 
@@ -258,15 +264,15 @@ We say “in Wire” to mean “in the app”, but “on” is more appropriate 
 
 Easiest to remember as _**in** the app, **on** the plaform_.
 
-### Account References
+### Account references
 People create an account with Wire. They can then ‘log in’ _(two words when used as a verb)_ to their account. If used as a noun or adjective, it’s one word: ‘login’ (for example, ‘Please enter your login details’).
 
 People can ‘sign out’ of the application and change their password by selecting the ‘Profile’ link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
 
-### Calls to Action
+### Calls to action
 We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
 
-### Dates and Times
+### Dates and times
 Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a ‘casual’ writing style (for example, ‘yesterday’). When not updated automatically, avoid ‘now’, ‘new’, ‘today’, ‘tomorrow’ and other similar time sensitive words that will be wrong a day later.
 
 Do not use ‘once’ to indicate a past occurrence, such as ‘Once the image is uploaded...’. Use ‘After you’ve uploaded your image’ or ‘After your image upload is complete’.
@@ -277,14 +283,14 @@ _(The shortened form is acceptable using the first three letters of the month)_.
 
 To avoid ambiguity, do not use 08.08.05, 08/08/2005 or variations.
 
-### Icon References
+### Icon references
 When referring to icons that appear in the user interface, use the name of the action or command that they perform, not the symbol that appears on the button: **Settings** or **Preferences**, not **Gear** or **Cog**.
 
 > “To end the call, tap the Close × icon in the upper left corner of the conversation.”
 
 For an overview of our UI icons, see [User Interface Icon Names](https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true).
 
-### Preferred Spelling Variants
+### Preferred spelling variants
 * Internet _(capitalized per Apple style guide)_
 * email _(no hyphen)_
 * website
@@ -295,12 +301,12 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 
 The default language for the International English site will be U.S. English — so no ‘u’ in ‘color’, etc.
 
-### Security References
+### Security references
 We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details). 
 
 A good example is the UI error message that tells people they have entered the ‘wrong address or password’. We may know exactly what’s wrong, but we leave our message vague to stop people from trying to find out if a user account exists.
 
-### Select/Choose vs. Click/Tap/Touch
+### Select/choose vs. click/tap/touch
 Since people can _(and will)_ interact with Wire across a variety of devices, with a variety of input options (touchscreens, mice, keyboards, etc.), use generic verbs like ‘select’ or ‘choose’ if the content applies to all platforms.
 
 Where the platform context is clear, use the verbs specific to the platform, such as ‘click’, ‘tap’, or ‘touch’.
@@ -308,7 +314,7 @@ Where the platform context is clear, use the verbs specific to the platform, suc
 ### URLs
 URLs are written as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
 
-### Word Choice
+### Word choice
 Whenever possible, cut unnecessary words. The table below shows examples of shorter words that help make sentences more concise:
 
 | Wordy                         | Better    |
@@ -343,7 +349,7 @@ Examples of the most common nouns that hide verbs:
 | recommendation | recommend           |
 
  
-## Reference Resources
+## Reference resources
 
 In addition to the platform-specific resources described under [UI Copy](#ui-copy), the following resources provide useful reference.
 
@@ -357,14 +363,14 @@ For complete punctuation rules and other writing conventions, refer to these sty
 * The Yahoo Style Guide
 
 
-# Other Communication Channels
+# Other communication channels
 
 Beyond the user interface, each of the primary touch-points through which we communicate to our customers may require subtle differences in tone — _how do we talk to our users in each context?_
 
 The sections below outline the unique requirements or guidelines that apply to each channel.
 
 
-## Customer Support Material
+## Customer Support material
 
 _(based on feedback from Support ToV discussion w/ founders)_
 
@@ -397,35 +403,35 @@ When is Customer Support great?
    “take the time to hear/ solve your issue”
 
 
-## Product Website
+## Product website
 
 Text on the website at [wire.com](https://www.wire.com/) is kept to a minimum and makes liberal use of periods to punctuate our claims _(even sentence fragments)_:
 
 > Introducing Wire. Great conversations.
 
-> Talk.
+> Talk.  
 > It sounds truly amazing.
 
-> Message.
+> Message.  
 > With pics, SoundCloud and YouTube.
 
-> Ping.
+> Ping.  
 > Get attention, without the ring.
 
-> Wire is here.
+> Wire is here.  
 > For iOS. For Android. For OS X.
 
 ## Microsites
 
 _(Web pages accessed via the apps: Terms of Use, Privacy Policy, password change, etc.)_
 
-## Customer Communication
+## Customer communication (email)
 
 _(signup email, password change, etc.)_
 
-## Marketing/PR Material
+## Marketing material
 
-## App Store Copy
+## App Store copy
 
 ## Release Notes
 
