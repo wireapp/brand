@@ -293,7 +293,9 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 ### Preferred spelling variants
 * Internet _(capitalized per Apple style guide)_
 * email _(no hyphen)_
-* website
+* web _(lowercase)_
+* webpage _(One word. A self-contained document on a website. A single website can contain many webpages. Don’t use website and webpage interchangeably.)_
+* website _(One word. Refers to a collection of webpages.)_
 * megapixel 
 * Wi-Fi _(hyphenated per iOS, OS X & Android)_
 * log in / out _(verb as in “log in to your account”)_ 
