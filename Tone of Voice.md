@@ -265,7 +265,7 @@ We say “in Wire” to mean “in the app”, but “on” is more appropriate 
 Easiest to remember as _**in** the app, **on** the plaform_.
 
 ### Account references
-People create an account with Wire. They can then “log in” _(two words when used as a verb)_ to their account. If used as a noun or adjective, it’s one word: “login” (for example, “Please enter your login details”).
+People create an account with Wire. They can then “sign in” _(two words)_ to their account — not “log in”.
 
 People can “sign out” of the application and change their password by selecting the “Profile” link. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
 
@@ -298,10 +298,9 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 * website _(One word. Refers to a collection of webpages.)_
 * megapixel 
 * Wi-Fi _(hyphenated per iOS, OS X & Android)_
-* log in / out _(verb as in “log in to your account”)_ 
-* login  _(one word if noun or adjective: “Please enter your login details”)_
+* sign in / out _(verb: as in “sign in to your account” – not “log in”)_ 
 
-The default language for the International English site will be U.S. English — so no “u” in “color”, etc.
+The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
 
 ### Security references
 We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details). 
