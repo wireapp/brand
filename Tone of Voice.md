@@ -143,7 +143,8 @@ In [UI copy](#ui-copy), we capitalize according to the platform conventions, suc
 As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4).
 
 ### Numbers / numerals
-In the application, it is acceptable to use numerals in all cases (1 message pending, 3 conversations, Your password must be at least 6 characters).
+In the application, numerals should be used in all cases to save space:
+_(1 message pending, 3 conversations, Your password must be at least 6 characters)_.
 
 However, on the website, numbers from one to nine should be spelled out (for example, there are three ways to download the Wire application...)
 
