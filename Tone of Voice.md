@@ -266,13 +266,11 @@ We say “in Wire” to mean “in the app”, but “on” is more appropriate 
 Easiest to remember as _**in** the app, **on** the plaform_.
 
 ### Account references
-People create an account with Wire. 
-
-They don’t “join”, “register”, or “sign up”. 
+People _“create an account”_ with Wire — they no longer “join”, “register”, or “sign up”. 
 
 They can then “log in” _(two words)_ to their account — _no longer “sign in”_.
 
-**NOTE:** This terminology was changed one year after launch.
+**NOTE:** This terminology was changed in December 2015, one year after launch.
 
 People can “log out” of the application and reset their password by selecting options from the … menu in their “Profile”. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
 
