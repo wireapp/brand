@@ -30,6 +30,7 @@
         - [Politeness, within reason](#politeness-within-reason)
         - [Punctuation](#punctuation)
     - [Glossary of Wire terms](#glossary-of-wire-terms)
+        - [German terminology](#german-terminology)
     - [Creating web content](#creating-web-content)
         - [Length](#length)
         - [Sentences](#sentences)
@@ -170,6 +171,16 @@ For complete punctuation rules, we suggest you refer to any good American style 
 See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
 
 Feel free to suggest new terms if there’s something missing there.
+
+### German terminology 
+
+There's also an initial version of the [German/English glossary](https://github.com/wearezeta/copywriting/blob/master/Glossary/Wire-iOS_EN-DE.csv) that you can use to search for the German equivalents of our English terms.
+
+This file was created from the translation memory for the iOS project, so it still contains many long strings and placeholders, but it should give you a good idea of the current German terminology we use.
+
+We're working on integrating a proper multilingual glossary into our Crowdin localization platform, so translators will have access to annotated terminology suggestions within the translation tool.
+
+For a list of multi-touch gesture terms & their German equivalents, see [multi-touch-gestures.csv](https://github.com/wearezeta/copywriting/blob/master/Glossary/multi-touch-gestures.csv). These terms are derived from Apple's official German glossary.
 
 ## Creating web content
 
