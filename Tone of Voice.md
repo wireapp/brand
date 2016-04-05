@@ -68,7 +68,7 @@
 
 > In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
 
-— Apple _OS X Human Interface Guidelines_ 
+— Apple _OS X Human Interface Guidelines_
 
 
 ## Mac OS X (desktop)
@@ -133,7 +133,7 @@ We use all caps for system messages (“UNBLOCK”) in the conversation view and
 
 However, for longer phrases or sentences, we use sentence case: we only capitalize the first word of a phrase or sentence (“You’ve left this conversation”).
 
-Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_ based on context. 
+Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_ based on context.
 
 For example, CS content at [support.wire.com](https://support.wire.com/) uses sentence case in the question list, but title case in page headings _(as required by the Zendesk customer service platform)_. Certain channels _(such as press releases)_ may have other conventions to which we respectfully adhere.
 
@@ -150,7 +150,7 @@ _(1 message pending, 3 conversations, Your password must be at least 6 character
 However, on the website, numbers from one to nine should be spelled out (for example, there are three ways to download the Wire application...)
 
 ### Politeness, within reason
-We try to sound courteous without being obsequious. While we are not afraid to use “please” or thank you” where applicable, we use these phrases judiciously. 
+We try to sound courteous without being obsequious. While we are not afraid to use “please” or thank you” where applicable, we use these phrases judiciously.
 
 For example, in an initial message in the application, we may ask a user to: “Enter a phone number”. If there’s a mistake and we need to generate a second message, this is the time to say: “Please enter a valid phone number”.
 
@@ -172,7 +172,7 @@ See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob
 
 Feel free to suggest new terms if there’s something missing there.
 
-### German terminology 
+### German terminology
 
 There's also an initial version of the [German/English glossary](https://github.com/wearezeta/copywriting/blob/master/Glossary/Wire-iOS_EN-DE.csv) that you can use to search for the German equivalents of our English terms.
 
@@ -218,7 +218,7 @@ Clear and concise copy that guides readers is critical to satisfying their exper
 * Limit number of words
 * Address each action clearly
 * Stay focused on the specific action or task
-* Remove irrelevant information 
+* Remove irrelevant information
 
 
 ### Headings
@@ -237,7 +237,7 @@ We prefer sentence case for headings (see [Capitalization](#capitalization)).
 People scan web pages using both headings and subheadings. To help your reader’s eyes move down the page, try to break body text into sections. Then write sub-headings for each section.
 
 ### Links
-Scanning links is another way that readers might navigate your content. 
+Scanning links is another way that readers might navigate your content.
 
 The best links should:
 
@@ -312,14 +312,14 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 * web _(lowercase)_
 * webpage _(One word. A self-contained document on a website. A single website can contain many webpages. Don’t use website and webpage interchangeably.)_
 * website _(One word. Refers to a collection of webpages.)_
-* megapixel 
+* megapixel
 * Wi-Fi _(hyphenated per iOS, OS X & Android)_
-* sign in / out _(verb: as in “sign in to your account” – not “log in”)_ 
+* log in / out _(verb: as in “log in to your account” – not “sign in”)_
 
 The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
 
 ### Security references
-We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details). 
+We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details).
 
 A good example is the UI error message that tells people they have entered the “wrong address or password”. We may know exactly what’s wrong, but we leave our message vague to stop people from trying to find out if a user account exists.
 
@@ -365,7 +365,7 @@ Examples of the most common nouns that hide verbs:
 | transmission   | transmit, send      |
 | recommendation | recommend           |
 
- 
+
 ## Reference resources
 
 In addition to the platform-specific resources described under [UI Copy](#ui-copy), the following resources provide useful reference.
@@ -376,7 +376,7 @@ In addition to the platform-specific resources described under [UI Copy](#ui-cop
 
 For complete punctuation rules and other writing conventions, refer to these style guides:
 
-* The Chicago Manual of Style 
+* The Chicago Manual of Style
 * The Yahoo Style Guide
 
 
@@ -409,7 +409,7 @@ Special considerations for Support content:
 
 * Support is addressing users who may be – publicly – frustrated or dissatisfied with their experience. Different level of attention we need to display.
 * “Winning over” vs. “regaining” trust.
-* Our users are networked and opinionated:  their experiences will be “televised”
+* Our users are networked and opinionated: their experiences will be “televised”
 
 When is Customer Support great?
 
