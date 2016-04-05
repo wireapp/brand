@@ -328,6 +328,8 @@ Since people can _(and will)_ interact with Wire across a variety of devices, wi
 
 Where the platform context is clear, use the verbs specific to the platform, such as “click”, “tap”, or “touch”.
 
+For more information, see the [Touch Gesture Reference Guide](http://www.lukew.com/ff/entry.asp?1071).
+
 ### URLs
 URLs are written as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
 
