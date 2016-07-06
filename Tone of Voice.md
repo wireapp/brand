@@ -162,6 +162,7 @@ For example, in an initial message in the application, we may ask a user to “E
 * We do not use periods in most UI strings unless there are two or more sentences. (For example, “Start a conversation”). However, copy on the website should be punctuated correctly.
 * We use the serial comma (for example, “Email, phone number, and address”).
 * Avoid apostrophes, exclamation marks, ampersands, and the “+” symbol in UI copy.
+* Use proper typography for “quotation marks”, em- and en- dashes (–/–), ellipses (…), and other characters wherever possible. (Most UI strings files are now UTF-8 encoded, so typographically correct characters can be used in most cases — there’s no excuse for substituting ASCII text where proper typography is available.)
 
 For complete punctuation rules, we suggest you refer to any good American style guide (_The Chicago Manual of Style_ or _The Yahoo Style Guide_).
 
