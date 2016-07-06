@@ -165,6 +165,10 @@ For example, in an initial message in the application, we may ask a user to “E
 
 For complete punctuation rules, we suggest you refer to any good American style guide (_The Chicago Manual of Style_ or _The Yahoo Style Guide_).
 
+### Word choice
+Whenever possible, cut unnecessary words. Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
+
+Be careful that you don’t bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
 
 ## Glossary of Wire terms
 
@@ -331,11 +335,6 @@ For more information, see the [Touch Gesture Reference Guide](http://www.lukew.c
 
 ### URLs
 Write URLs as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
-
-### Word choice
-Whenever possible, cut unnecessary words. Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
-
-Be careful that you don’t bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
 
 ## Reference resources
 
