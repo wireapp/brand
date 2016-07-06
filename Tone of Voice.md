@@ -2,9 +2,9 @@
 
 # Wire’s voice
 
-> Humble and friendly.    
-> Curious and passionate.    
-> Witty and polite.    
+> Humble and friendly.  
+> Curious and passionate.   
+> Witty and polite.  
 > Energetic and fresh.   
 > Stylish and understated.  
 
@@ -81,7 +81,7 @@ The following sections are particularly useful:
 * [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
 * [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4)
 
-**NOTE:** In June, Apple announced that their desktop operating system will be renamed from “OS X” to “macOS” with Version 10.12 (Sierra). 
+**NOTE:** In June, Apple announced that their desktop operating system will be renamed from “OS X” to “macOS” with Version 10.12 (Sierra).
 
 However, since _OS X El Capitan_ (Version 10.11) is still the current version, we’ll stick with the “OS X” terminology until the new version ships this fall. Once _macOS Sierra_ is released, we’ll change all occurrences to reflect the official name of the new “macOS”.
 
@@ -103,7 +103,7 @@ For guidance on writing conventions for Android, see [Android Writing Style](htt
 
 > Part of that transformation is evident in the way we say what we say. Our communication style underscores our challenger mentality and ensures we deliver a consistent brand experience that’s more compelling, more engaging, and more attractive than other options out there.
 
->Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire “voice” and follow our style.
+> Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire “voice” and follow our style.
 
 
 ## Our tone of voice
@@ -119,7 +119,7 @@ To ensure we reach that level of consistency across all our brand touchpoints, w
 * **Contemporary** – we use contractions when it’s called for, and we may even take a few language liberties (such as starting a sentence with a conjunction or using incomplete sentences when short and to the point will do: “Forgot your password?” instead of “Did you forget your password?”). But, we avoid jargon and slang that might be “in” today but could be “out” tomorrow.
 * **Direct** - we communicate in straightforward, confident language that is as honest and transparent as possible (for example, “You’ll need to add contacts before you can start a conversation” instead of “We need access to your address book to find people to start a conversation”).
 * **Personable** – our words create the impression of one person (“we” at Wire) speaking with another (“you” the reader) as a friend, not a faceless “user”. However, the emphasis should always be on “you”, with less “we” or “us”.
-* **Supportive** – we never blame; rather, we always offer a helpful solution or suggest a next step (for example, “Forgot your password? Retrieve it here...”, not simply an error message highlighting the obvious: “That’s the wrong password” with no link).
+* **Supportive** – we never blame; rather, we always offer a helpful solution or suggest a next step (for example, “Forgot your password? Retrieve it here…”, not simply an error message highlighting the obvious: “That’s the wrong password” with no link).
 * **Concise** – we use active verbs whenever possible (for example, “Sami muted this conversation”, not “This conversation was muted by Sami”) and always opt for imperatives before gerunds (for example, “Use this code to link your phone”, not “Using this code will link your phone”).
 * **Polite** – we’re not afraid to say “please or thank you” in instructional copy and calls to action, but we don’t overdo it and we sometimes use it to (gently) remind people.
 
@@ -151,12 +151,12 @@ As a general rule, menu commands use title case, but checkboxes and radio button
 In the application, numerals should be used in all cases to save space:
 _(1 message pending, 3 conversations, Your password must be at least 6 characters)_.
 
-However, on the website, numbers from one to nine should be spelled out (for example, there are three ways to download the Wire application...)
+However, on the website, numbers from one to nine should be spelled out (for example, “there are three ways to download Wire.”)
 
 ### Politeness, within reason
 We try to sound courteous without being obsequious. While we are not afraid to use “please” or thank you” where applicable, we use these phrases judiciously.
 
-For example, in an initial message in the application, we may ask a user to: “Enter a phone number”. If there’s a mistake and we need to generate a second message, this is the time to say: “Please enter a valid phone number”.
+For example, in an initial message in the application, we may ask a user to “Enter a phone number”. If there’s a mistake and we need to generate a second message, this is the time to say: “Please enter a valid phone number”.
 
 ### Punctuation
 * We do not use full stops in most UI strings (for example, “Start a conversation”). However, copy on the website should be punctuated correctly.
@@ -232,7 +232,8 @@ The best web headings should:
 
 * Let the reader know what they will find on the page
 * Immediately communicate facts
-* Be creative, interesting, short, to the point and written in plain, active language * Avoid puns, teasers and cultural references;
+* Be creative, interesting, short, to the point and written in plain, active language
+* Avoid puns, teasers and cultural references
 * Skip leading articles (“a”, “the”, etc.)
 
 We prefer sentence case for headings (see [Capitalization](#capitalization)).
@@ -281,7 +282,7 @@ We say “in Wire” to mean “in the app”, but “on” is more appropriate 
 Easiest to remember as _**in** the app, **on** the plaform_.
 
 ### Account references
-People _“create an account”_ with Wire — they no longer “join”, “register”, or “sign up”. 
+People _“create an account”_ with Wire — they no longer “join”, “register”, or “sign up”.
 
 They can then “log in” _(two words)_ to their account — _no longer “sign in”_.
 
