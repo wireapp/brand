@@ -289,7 +289,7 @@ They can then “log in” _(two words)_ to their account — _no longer “sign
 
 **NOTE:** This terminology was changed in December 2015, one year after launch.
 
-People can “log out” of the application and reset their password by selecting options from the … menu in their “Profile”. However, any other maintenance activities will usually take place in the interface itself, as and when the user needs it.
+People can “log out” of the application and reset their password by selecting options from the … menu in their “Profile”.
 
 ### Calls to action
 We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
