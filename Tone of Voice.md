@@ -311,7 +311,7 @@ When referring to icons that appear in the user interface, use the name of the a
 For an overview of our UI icons, see [User Interface Icon Names](https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true).
 
 ### Preferred spelling variants
-* Internet _(capitalized per Apple style guide)_
+* Internet _(capitalized per Apple style guide — see note below)_
 * email _(no hyphen)_
 * web _(lowercase)_
 * webpage _(One word. A self-contained document on a website. A single website can contain many webpages. Don’t use website and webpage interchangeably.)_
@@ -321,6 +321,8 @@ For an overview of our UI icons, see [User Interface Icon Names](https://github.
 * log in / out _(verb: as in “log in to your account” – not “sign in”)_
 
 The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
+
+**NOTE:** In June 2016, the Associated Press and many mainstream newspapers announced they would no longer capitalize “Internet”. Since Apple still uses the capitalized form in iOS and OS X, Wire does the same in UI copy to ensure our app remains consistent with the spelling used in the operating systems.
 
 ### Security references
 We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details).
