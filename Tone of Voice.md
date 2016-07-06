@@ -147,7 +147,7 @@ In [UI copy](#ui-copy), we capitalize according to the platform conventions, suc
 
 As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4).
 
-### Numbers / numerals
+### Numbers
 In the application, numerals should be used in all cases to save space:
 _(1 message pending, 3 conversations, Your password must be at least 6 characters)_.
 
@@ -159,13 +159,9 @@ We try to sound courteous without being obsequious. While we are not afraid to u
 For example, in an initial message in the application, we may ask a user to “Enter a phone number”. If there’s a mistake and we need to generate a second message, this is the time to say: “Please enter a valid phone number”.
 
 ### Punctuation
-* We do not use full stops in most UI strings (for example, “Start a conversation”). However, copy on the website should be punctuated correctly.
+* We do not use periods in most UI strings unless there are two or more sentences. (For example, “Start a conversation”). However, copy on the website should be punctuated correctly.
 * We use the serial comma (for example, “Email, phone number, and address”).
-* Apostrophes. Use the normal possessive ending ’s after singular words or names that end in s. Use it after plurals that do not end in s: women’s, media’s. Use the ending s’ on plurals that end in s: Partners’.
-* Avoid! Exclamation! Marks!
-* Avoid the ampersand and the “+” symbol unless it is part of a brand name (P&G).
-* Dynamic messages in the Wire application should not end with a period. The exception would be if there were two or more sentences.
-    **For example:** Your phone number isn’t mandatory, but it makes it easier for us to find people you know. For security, we’ll send a code to verify your number.
+* Avoid apostrophes, exclamation marks, ampersands, and the “+” symbol in UI copy.
 
 For complete punctuation rules, we suggest you refer to any good American style guide (_The Chicago Manual of Style_ or _The Yahoo Style Guide_).
 
@@ -294,15 +290,11 @@ People can “log out” of the application and reset their password by selectin
 We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
 
 ### Dates and times
-Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a “casual” writing style (for example, “yesterday”). When not updated automatically, avoid “now”, “new”, “today”, “tomorrow” and other similar time sensitive words that will be wrong a day later.
+Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a “casual” writing style (for example, “yesterday”).
 
-Do not use “once” to indicate a past occurrence, such as “Once the image is uploaded...”. Use “After you’ve uploaded your image” or “After your image upload is complete”.
+Use the following long date format when possible: July 6, 2016.
 
-Use the following long date format when possible: September 8, 2005.
-
-_(The shortened form is acceptable using the first three letters of the month)_.
-
-To avoid ambiguity, do not use 08.08.05, 08/08/2005 or variations.
+To avoid ambiguity, do not use 06.07.16, 06/07/2016 or similar formats.
 
 ### Icon references
 When referring to icons that appear in the user interface, use the name of the action or command that they perform, not the symbol that appears on the button: **Settings** or **Preferences**, not **Gear** or **Cog**.
@@ -338,7 +330,7 @@ Where the platform context is clear, use the verbs specific to the platform, suc
 For more information, see the [Touch Gesture Reference Guide](http://www.lukew.com/ff/entry.asp?1071).
 
 ### URLs
-URLs are written as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
+Write URLs as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
 
 ### Word choice
 Whenever possible, cut unnecessary words. The table below shows examples of shorter words that help make sentences more concise:
