@@ -70,6 +70,7 @@
 
 — Apple _OS X Human Interface Guidelines_
 
+Rather than re-invent the wheel or get “creative” in ways that confuse users, we defer to existing platform conventions wherever possible.
 
 ## Mac OS X (desktop)
 
