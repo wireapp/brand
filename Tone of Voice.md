@@ -68,7 +68,7 @@
 
 > In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
 
-— Apple _OS X Human Interface Guidelines_
+— Apple _OS X Human Interface Guidelines_
 
 
 ## Mac OS X (desktop)
@@ -81,9 +81,9 @@ The following sections are particularly useful:
 * [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
 * [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4)
 
-**NOTE:** In June, Apple announced that their desktop operating system will be renamed from “OS X” to “macOS” with Version 10.12 (Sierra). 
+**NOTE:** In June, Apple announced that their desktop operating system will be renamed from “OS X” to “macOS” with Version 10.12 (Sierra). 
 
-However, since _OS X El Capitan_ (Version 10.11) is still the current version, we’ll stick with the “OS X” terminology until the new version ships this fall. Once _macOS Sierra_ is released, we’ll change all occurrences to reflect the official name of the new “macOS”.
+However, since _OS X El Capitan_ (Version 10.11) is still the current version, we’ll stick with the “OS X” terminology until the new version ships this fall. Once _macOS Sierra_ is released, we’ll change all occurrences to reflect the official name of the new “macOS”.
 
 ## iOS
 
@@ -442,7 +442,7 @@ Text on the website at [wire.com](https://www.wire.com/) is kept to a minimum an
 > Get attention, without the ring.
 
 > Wire is here.  
-> For iOS. For Android. For OS X.
+> For iOS. For Android. For OS X.
 
 ## Microsites
 
