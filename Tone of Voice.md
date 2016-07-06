@@ -81,6 +81,10 @@ The following sections are particularly useful:
 * [Terminology and Wording](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html)
 * [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4)
 
+**NOTE:** In June, Apple announced that their desktop operating system will be renamed from “OS X” to “macOS” with Version 10.12 (Sierra). 
+
+However, since _OS X El Capitan_ (Version 10.11) is still the current version, we’ll stick with the “OS X” terminology until the new version ships this fall. Once _macOS Sierra_ is released, we’ll change all occurrences to reflect the official name of the new “macOS”.
+
 ## iOS
 
 When writing for iOS, refer to the [iOS Human Interface Guidelines][iOS-HIG], especially:
