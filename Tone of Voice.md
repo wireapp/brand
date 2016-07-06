@@ -333,39 +333,9 @@ For more information, see the [Touch Gesture Reference Guide](http://www.lukew.c
 Write URLs as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
 
 ### Word choice
-Whenever possible, cut unnecessary words. The table below shows examples of shorter words that help make sentences more concise:
-
-| Wordy                         | Better    |
-| ----------------------------- | --------- |
-| due to the fact that          | because   |
-| for the reason that           | because   |
-| in the event that             | if        |
-| at this point in time         | now       |
-| in a great many instances     | often     |
-| situated in the vicinity of   | near      |
-| during the same time that     | while     |
-| in the not too distant future | soon      |
-| prior to the time that        | before    |
-| in such a manner as to        | to        |
-| for a period of               | for       |
-| connect up together           | join      |
-
-Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
+Whenever possible, cut unnecessary words. Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
 
 Be careful that you don’t bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
-
-Examples of the most common nouns that hide verbs:
-
-| Noun           | Should be this verb |
-| -------------- | ------------------- |
-| denial         | deny                |
-| maintenance    | maintain, keep up   |
-| concurrence    | concur, agree       |
-| assignment     | assign              |
-| failure        | fail, if you don’t  |
-| transmission   | transmit, send      |
-| recommendation | recommend           |
-
 
 ## Reference resources
 
