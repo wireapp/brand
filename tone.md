@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Tone of Voice"
+---
+
 <!-- # Tone of Voice -->
 
 # Wire’s voice
