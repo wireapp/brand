@@ -3,8 +3,6 @@ layout: default
 title: "Tone of Voice"
 ---
 
-<!-- # Tone of Voice -->
-
 # Wire’s voice
 
 > Humble and friendly.  
@@ -36,14 +34,6 @@ title: "Tone of Voice"
         - [Punctuation](#punctuation)
     - [Glossary of Wire terms](#glossary-of-wire-terms)
         - [German terminology](#german-terminology)
-    - [Creating web content](#creating-web-content)
-        - [Length](#length)
-        - [Sentences](#sentences)
-        - [Paragraphs](#paragraphs)
-        - [Instructional copy and messaging](#instructional-copy-and-messaging)
-        - [Headings](#headings)
-        - [Links](#links)
-        - [List items](#list-items)
     - [Common usage issues](#common-usage-issues)
         - [Account references](#account-references)
         - [Calls to action](#calls-to-action)
@@ -193,90 +183,6 @@ We're working on integrating a proper multilingual glossary into our Crowdin loc
 
 For a list of multi-touch gesture terms & their German equivalents, see [multi-touch-gestures.csv](https://github.com/wearezeta/copywriting/blob/master/Glossary/multi-touch-gestures.csv). These terms are derived from Apple's official German glossary.
 
-## Creating web content
-
-Web readers have learned to read text on web pages differently than on a printed page. Usability studies have proven that when people read online, they quickly become adept at scanning through a document, looking for key words or phrases that will give them cues about the subject matter.
-
-Eye-tracking studies of people reading information pages have shown that many web readers often adopt an F-shaped reading strategy – skimming across the first few sections or titles at the top of a page, then down the left-hand side.
-
-In addition, web readers are looking for relevant information sooner, rather than later. Give people relevant content up front and they’ll feel satisfied and possibly keep reading.
-
-Finally, to create effective web copy, you need to ensure your content makes sense out of context. As the reader may land on your page via a search engine, without having navigated through a particular route, they should be able to understand each page or section of your document whether they read the previous sections or pages or not.
-
-### Length
-On the web, brevity is king. This applies to sentences, paragraphs and overall article length. In most cases, the 50 percent rule applies: Cut 25 percent and then cut 25 percent more. Leave readers with the highlights.
-
-### Sentences
-Try to keep your sentences short. Split lengthy sentences into shorter ones. Make sure each sentence has one thought – or two tightly connected thoughts. Very short sentences are acceptable, particularly in a question and answer format, where a short answer may be all that you need.
-
-### Paragraphs
-Using shorter paragraphs (or “chunks”) makes scanning much easier. A paragraph should contain a single concept or idea. The shorter a paragraph, the more focused it will be.
-
-A one-sentence paragraph is perfectly acceptable on the web.
-
-Pace is important. Consider mixing short sentences (like the last one) with longer ones (like this one).
-
-Here’s a tip for generating shorter, more succinct copy: Read your document once. Then go back and choose key phrases that summarize each sentence or paragraph. Make key phrases bold.
-
-While you won’t keep this bold text in your final web page, the process of identifying a single phrase within a sentence or paragraph will help you focus your writing.
-
-You will quickly find this exercise forces you to re-write sentences to deliver key phrases with fewer words. This will also help you avoid unclear or ambiguous sentences. Remember that brevity should never come at the expense of clarity.
-
-### Instructional copy and messaging
-Clear and concise copy that guides readers is critical to satisfying their experience on our pages. After all, our users want to achieve particular goals and instructional copy is what will guide them along the way.
-
-* Use the active voice
-* Limit number of words
-* Address each action clearly
-* Stay focused on the specific action or task
-* Remove irrelevant information
-
-
-### Headings
-As readers skip, skim and scan your pages, they often only notice the first two or three words of any of the paragraphs on the page. They also pay more attention to headings, bulleted lists and links, so it is important to ensure the first two or three words in those items “front load” information as much as possible.
-
-The best web headings should:
-
-* Let the reader know what they will find on the page
-* Immediately communicate facts
-* Be creative, interesting, short, to the point and written in plain, active language
-* Avoid puns, teasers and cultural references
-* Skip leading articles (“a”, “the”, etc.)
-
-We prefer sentence case for headings (see [Capitalization](#capitalization)).
-
-#### Sub-headings
-People scan web pages using both headings and subheadings. To help your reader’s eyes move down the page, try to break body text into sections. Then write sub-headings for each section.
-
-### Links
-Scanning links is another way that readers might navigate your content.
-
-The best links should:
-
-* Use plain language that does not mislead or promise too much
-* Use specific terminology
-* Allow readers to predict (with a fair degree of confidence) what they will get if they click;
-* Follow conventions for naming common features (for example, “Read more”, “Next/Previous”, etc.)
-* Front-load user- and action-oriented terms at the beginning of the link (for example, “Download our app”).
-
-#### Links: What not to do
-Be careful not to create too many links, especially within your body copy. Excess links can be distracting - people feel compelled to click. When they do, they often lose their train of thought and some never return to the original page, despite not having absorbed all the information it contains.
-
-Never use “Click here” or “More” to push readers to another page of content. These terms suggest lazy writing, and they are particularly annoying to people using screen-reader software to “hear” your page.
-
-To avoid “Click here”, you can turn your titles or key messages into links (for example, “Learn more about seamless conversations”).
-
-To avoid “More”, you can add words to specify exactly what readers will be getting “more” of, or you can use informative words as the link (for example, “More tips for using Wire”).
-
-**Note:** Slogans that act as links (for example, “Start the conversation”) do not take a full stop. However, you should use a full stop after a link if it ends the sentence (more applicable to web writing than the UI).
-
-### List items
-Lists are another great way to help readers absorb your information quickly.
-
-Lists should be short – between 5 to 10 items. If your list is too long, try breaking it up into several lists, each with their own heading or introduction. Obviously, long lists are acceptable for familiar items such as countries.
-
-In general, bulleted lists should contain relatively few words or short phrases. If the bulleted items are long, they should be clearly separated to prevent your page from becoming a wall of words.
-
 
 ## Common usage issues
 
@@ -363,73 +269,7 @@ Beyond the user interface, each of the primary touch-points through which we com
 
 The sections below outline the unique requirements or guidelines that apply to each channel.
 
-
-## Customer Support material
-
-_(based on feedback from Support ToV discussion w/ founders)_
-
-Examples of the language we currently use to describe the Wire product feeling:
-
-* Elegant
-* Clean
-* Beautiful
-* Simple
-* Minimalist
-* Efficient
-* Pristine
-* Modern
-* Mobile
-
-Like the product, our support communications should be clear, technically correct, concise, precise, and straightforward.
-
-Special considerations for Support content:
-
-* Support is addressing users who may be – publicly – frustrated or dissatisfied with their experience. Different level of attention we need to display.
-* “Winning over” vs. “regaining” trust.
-* Our users are networked and opinionated: their experiences will be “televised”
-
-When is Customer Support great?
-
-1. Pro-active problem solving
-2. Humble, friendly, polite attitude/ToV
-3. Explain in “humanese”/“personal” touch
-4. Demonstrated understanding of u/x
-   “take the time to hear/ solve your issue”
-
-
-## Product website
-
-Text on the website at [wire.com](https://www.wire.com/) is kept to a minimum and makes liberal use of periods to punctuate our claims _(even sentence fragments)_:
-
-> Introducing Wire. Great conversations.
-
-> Talk.  
-> It sounds truly amazing.
-
-> Message.  
-> With pics, SoundCloud and YouTube.
-
-> Ping.  
-> Get attention, without the ring.
-
-> Wire is here.  
-> For iOS. For Android. For OS X.
-
-## Microsites
-
-_(Web pages accessed via the apps: Terms of Use, Privacy Policy, password change, etc.)_
-
-## Customer communication (email)
-
-_(signup email, password change, etc.)_
-
-## Marketing material
-
-## App Store copy
-
-## Release Notes
-
-## Tweets
+_(to be continued…)_
 
 
 ---
