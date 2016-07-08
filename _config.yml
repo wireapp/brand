@@ -1,0 +1,15 @@
+# Setup
+title:   Wire Brand
+tagline: Brand assets & styleguide
+baseurl: ""
+
+highlighter: rouge
+markdown: kramdown
+
+# sass:
+#     style: compressed
+#     sass_dir: stylesheets
+
+# exclude: ["gulpfile.js", "package.js", "node_modules"]
+
+# version: "0.0.1"
