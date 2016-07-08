@@ -11,5 +11,6 @@ markdown: kramdown
 #     sass_dir: stylesheets
 
 # exclude: ["gulpfile.js", "package.js", "node_modules"]
+exclude: ["ReadMe.md"]
 
 # version: "0.0.1"
