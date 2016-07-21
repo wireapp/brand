@@ -46,14 +46,6 @@ title: "Tone of Voice"
         - [Word choice](#word-choice)
     - [Reference resources](#reference-resources)
 - [Other communication channels](#other-communication-channels)
-    - [Customer Support material](#customer-support-material)
-    - [Product website](#product-website)
-    - [Microsites](#microsites)
-    - [Customer communication (email)](#customer-communication-email)
-    - [Marketing material](#marketing-material)
-    - [App Store copy](#app-store-copy)
-    - [Release Notes](#release-notes)
-    - [Tweets](#tweets)
 
 <!-- end toc 3 -->
 
