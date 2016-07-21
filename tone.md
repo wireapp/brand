@@ -47,7 +47,6 @@ title: "Tone of Voice"
         - [URLs](#urls)
         - [Word choice](#word-choice)
     - [Reference resources](#reference-resources)
-- [Other communication channels](#other-communication-channels)
 
 <!-- end toc 3 -->
 
@@ -293,16 +292,6 @@ For complete punctuation rules and other writing conventions, refer to these sty
 
 * The Chicago Manual of Style
 * The Yahoo Style Guide
-
-
-# Other communication channels
-
-Beyond the user interface, each of the primary touch-points through which we communicate to our customers may require subtle differences in tone — _how do we talk to our users in each context?_
-
-The sections below outline the unique requirements or guidelines that apply to each channel.
-
-_(to be continued…)_
-
 
 ---
 
