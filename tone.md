@@ -23,9 +23,9 @@ title: "Tone of Voice"
     - [Mac OS X (desktop)](#mac-osx-desktop)
     - [iOS](#ios)
     - [Android](#android)
+    - [Glossary of Wire terms](#glossary-of-wire-terms)
     - [Localization](#localization)
         - [Terminology resources](#terminology-resources)
-    - [Glossary of Wire terms](#glossary-of-wire-terms)
         - [German terminology](#german-terminology)
 - [Writing guidelines](#writing-guidelines)
     - [Our tone of voice](#our-tone-of-voice)
@@ -86,6 +86,12 @@ When writing for iOS, refer to the [iOS Human Interface Guidelines][iOS-HIG], es
 
 For guidance on writing conventions for Android, see [Android Writing Style](https://developer.android.com/design/style/writing.html).
 
+## Glossary of Wire terms
+
+See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
+
+Feel free to suggest new terms if there’s something missing there.
+
 ## Localization
 
 Wire is busy learning new languages, and you can help us by contributing to the translations in our Crowdin localization projects:
@@ -115,12 +121,6 @@ Many articles are available in multiple languages, so you can select an article 
 * <https://support.apple.com/kb/PH19426?viewlocale=de_DE>
 * <https://support.apple.com/kb/PH19426?viewlocale=sv_SE>
 
-
-## Glossary of Wire terms
-
-See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
-
-Feel free to suggest new terms if there’s something missing there.
 
 ### German terminology
 
