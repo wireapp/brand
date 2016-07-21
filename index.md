@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 This repository tracks **Wire** brand assets such as logos, press kit, styleguide, and writing guidelines such as our _Tone of Voice_.

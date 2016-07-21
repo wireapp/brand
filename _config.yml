@@ -1,16 +1,23 @@
 # Setup
 title:   Wire Brand
 tagline: Brand assets & styleguide
+# url:   http://brand.wire.com
 baseurl: ""
 
 highlighter: rouge
 markdown: kramdown
 
-# sass:
-#     style: compressed
-#     sass_dir: stylesheets
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
 # exclude: ["gulpfile.js", "package.js", "node_modules"]
 exclude: ["ReadMe.md"]
 
-# version: "0.0.1"
+# Custom vars
+version: "0.0.2"
+github:
+  repo:  https://github.com/wearezeta/brand
