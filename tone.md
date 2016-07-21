@@ -20,7 +20,7 @@ title: "Tone of Voice"
 ## Contents
 
 - [Tone of voice](#tone-of-voice)
-- [UI copy](#ui-copy)
+- [User interface text](#user-interface-text)
     - [Mac OS X (desktop)](#mac-osx-desktop)
     - [iOS](#ios)
     - [Android](#android)
@@ -73,15 +73,19 @@ To ensure we reach that level of consistency across all our brand touchpoints, w
 * **Concise** – we use active verbs whenever possible (for example, “Sami muted this conversation”, not “This conversation was muted by Sami”) and always opt for imperatives before gerunds (for example, “Use this code to link your phone”, not “Using this code will link your phone”).
 * **Polite** – we’re not afraid to say “please or thank you” in instructional copy and calls to action, but we don’t overdo it and we sometimes use it to (gently) remind people.
 
-# UI copy
+# User interface text
 
-> Text is prevalent throughout the [user] interface for such things as button names, menu labels, dialog messages, and help tags. Using text consistently and clearly is a critical component of UI design.
+Text appears in the user interface _(or “UI”)_ in button names, menu labels, application settings, dialog messages, and notification banners.
+
+The care we take in crafting every bit of text _(or “microcopy”)_ in the app should reflect the level of detail invested in the overall application design and user experience that sets Wire apart.
 
 > In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
 
 — Apple _OS X Human Interface Guidelines_
 
 Rather than re-invent the wheel or get “creative” in ways that confuse users, we defer to existing platform conventions wherever possible.
+
+The sections below provide resources for each platform we support.
 
 ## Mac OS X (desktop)
 
