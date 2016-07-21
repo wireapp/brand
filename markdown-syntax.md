@@ -6,7 +6,7 @@ title: "Markdown Syntax"
 Markdown: Syntax
 ================
 
-_**Note:** This is a just sample page to demonstrate how [Markdown](http://daringfireball.net/projects/markdown/syntax) content is rendered._
+_**Note:** This is just a sample page to demonstrate [Markdown](http://daringfireball.net/projects/markdown/syntax) rendering._
 
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
