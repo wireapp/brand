@@ -242,7 +242,13 @@ Where the platform context is clear, use the verbs specific to the platform, suc
 For more information, see the [Touch Gesture Reference Guide](http://www.lukew.com/ff/entry.asp?1071).
 
 ### URLs
-Write URLs as wire.com/something, not www.wire.com/something or http://www.wire.com/something.
+Write URLs beginning with the **wire.com** domain, and without the trailing slash — _most modern browsers will add this automatically if necessary_.
+
+For example, write _wire.com/privacy_, instead of:
+
+* wire.com/privacy**/**
+* ~~www.~~wire.com/privacy
+* ~~http://www.~~wire.com/privacy
 
 ## Reference resources
 
