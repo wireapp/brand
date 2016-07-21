@@ -25,6 +25,8 @@ title: "Tone of Voice"
     - [Android](#android)
     - [Localization](#localization)
         - [Terminology resources](#terminology-resources)
+    - [Glossary of Wire terms](#glossary-of-wire-terms)
+        - [German terminology](#german-terminology)
 - [Writing guidelines](#writing-guidelines)
     - [Our tone of voice](#our-tone-of-voice)
     - [Our writing style](#our-writing-style)
@@ -34,8 +36,6 @@ title: "Tone of Voice"
         - [Numbers](#numbers)
         - [Politeness](#politeness)
         - [Punctuation](#punctuation)
-    - [Glossary of Wire terms](#glossary-of-wire-terms)
-        - [German terminology](#german-terminology)
     - [Common usage issues](#common-usage-issues)
         - [Account references](#account-references)
         - [Calls to action](#calls-to-action)
@@ -116,6 +116,23 @@ Many articles are available in multiple languages, so you can select an article 
 * <https://support.apple.com/kb/PH19426?viewlocale=sv_SE>
 
 
+## Glossary of Wire terms
+
+See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
+
+Feel free to suggest new terms if there’s something missing there.
+
+### German terminology
+
+There's also an initial version of the [German/English glossary](https://github.com/wearezeta/copywriting/blob/master/Glossary/Wire-iOS_EN-DE.csv) that you can use to search for the German equivalents of our English terms.
+
+This file was created from the translation memory for the iOS project, so it still contains many long strings and placeholders, but it should give you a good idea of the current German terminology we use.
+
+We're working on integrating a proper multilingual glossary into our Crowdin localization platform, so translators will have access to annotated terminology suggestions within the translation tool.
+
+For a list of multi-touch gesture terms & their German equivalents, see [multi-touch-gestures.csv](https://github.com/wearezeta/copywriting/blob/master/Glossary/multi-touch-gestures.csv). These terms are derived from Apple's official German glossary.
+
+
 # Writing guidelines
 
 > Wire is different. It’s obvious the second you see our application in action. This is a brand that’s going to transform the way people communicate.
@@ -192,23 +209,6 @@ For complete punctuation rules, we suggest you refer to any good American style 
 Whenever possible, cut unnecessary words. Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
 
 Be careful that you don’t bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
-
-## Glossary of Wire terms
-
-See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
-
-Feel free to suggest new terms if there’s something missing there.
-
-### German terminology
-
-There's also an initial version of the [German/English glossary](https://github.com/wearezeta/copywriting/blob/master/Glossary/Wire-iOS_EN-DE.csv) that you can use to search for the German equivalents of our English terms.
-
-This file was created from the translation memory for the iOS project, so it still contains many long strings and placeholders, but it should give you a good idea of the current German terminology we use.
-
-We're working on integrating a proper multilingual glossary into our Crowdin localization platform, so translators will have access to annotated terminology suggestions within the translation tool.
-
-For a list of multi-touch gesture terms & their German equivalents, see [multi-touch-gestures.csv](https://github.com/wearezeta/copywriting/blob/master/Glossary/multi-touch-gestures.csv). These terms are derived from Apple's official German glossary.
-
 
 ## Common usage issues
 
