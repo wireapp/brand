@@ -2,7 +2,7 @@
 title:   Wire Brand
 tagline: Brand assets & styleguide
 # url:   http://brand.wire.com
-baseurl: ""
+baseurl: "https://wearezeta.github.io/brand/"
 
 highlighter: rouge
 markdown: kramdown
