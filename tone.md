@@ -27,10 +27,10 @@ title: "Tone of Voice"
     - [Our tone of voice](#our-tone-of-voice)
     - [Our writing style](#our-writing-style)
         - [Abbreviations](#abbreviations)
-        - [Articles, leading or otherwise](#articles-leading-or-otherwise)
+        - [Articles](#articles)
         - [Capitalization](#capitalization)
-        - [Numbers / numerals](#numbers-numerals)
-        - [Politeness, within reason](#politeness-within-reason)
+        - [Numbers](#numbers)
+        - [Politeness](#politeness)
         - [Punctuation](#punctuation)
     - [Glossary of Wire terms](#glossary-of-wire-terms)
         - [German terminology](#german-terminology)
@@ -117,7 +117,7 @@ To ensure we reach that level of consistency across all our brand touchpoints, w
 ### Abbreviations
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.
 
-### Articles, leading or otherwise
+### Articles
 In all UI copy, we avoid articles wherever possible. Articles include “a”, “an”, “the”, etc. In a similar vein, we also avoid demonstrative words such as “this” and “those”.
 
 ### Capitalization
@@ -141,7 +141,7 @@ _(1 message pending, 3 conversations, Your password must be at least 6 character
 
 However, on the website, numbers from one to nine should be spelled out (for example, “there are three ways to download Wire.”)
 
-### Politeness, within reason
+### Politeness
 We try to sound courteous without being obsequious. While we are not afraid to use “please” or thank you” where applicable, we use these phrases judiciously.
 
 For example, in an initial message in the application, we may ask a user to “Enter a phone number”. If there’s a mistake and we need to generate a second message, this is the time to say: “Please enter a valid phone number”.
