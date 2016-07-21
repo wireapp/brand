@@ -137,7 +137,10 @@ As a general rule, menu commands use title case, but checkboxes and radio button
 
 ### Numbers
 In the application, numerals should be used in all cases to save space:
-_(1 message pending, 3 conversations, Your password must be at least 6 characters)_.
+
+* _1 message pending_
+* _3 conversations_
+* _Your password must be at least 6 characters_
 
 However, on the website, numbers from one to nine should be spelled out (for example, “there are three ways to download Wire.”)
 
