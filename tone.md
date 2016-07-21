@@ -19,6 +19,7 @@ title: "Tone of Voice"
 
 ## Contents
 
+- [Tone of voice](#tone-of-voice)
 - [UI copy](#ui-copy)
     - [Mac OS X (desktop)](#mac-osx-desktop)
     - [iOS](#ios)
@@ -28,14 +29,12 @@ title: "Tone of Voice"
         - [Terminology resources](#terminology-resources)
         - [German terminology](#german-terminology)
 - [Writing guidelines](#writing-guidelines)
-    - [Our tone of voice](#our-tone-of-voice)
-    - [Our writing style](#our-writing-style)
-        - [Abbreviations](#abbreviations)
-        - [Articles](#articles)
-        - [Capitalization](#capitalization)
-        - [Numbers](#numbers)
-        - [Politeness](#politeness)
-        - [Punctuation](#punctuation)
+    - [Abbreviations](#abbreviations)
+    - [Articles](#articles)
+    - [Capitalization](#capitalization)
+    - [Numbers](#numbers)
+    - [Politeness](#politeness)
+    - [Punctuation](#punctuation)
     - [Common usage issues](#common-usage-issues)
         - [Account references](#account-references)
         - [Calls to action](#calls-to-action)
@@ -49,6 +48,30 @@ title: "Tone of Voice"
     - [Reference resources](#reference-resources)
 
 <!-- end toc 3 -->
+
+# Tone of voice
+
+> Wire is different. It’s obvious the second you see our application in action. This is a brand that’s going to transform the way people communicate.
+
+> Part of that transformation is evident in the way we say what we say. Our communication style underscores our challenger mentality and ensures we deliver a consistent brand experience that’s more compelling, more engaging, and more attractive than other options out there.
+
+> Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire “voice” and follow our style.
+
+
+Communicating our core brand values - people, craft and evolution - requires a tone of voice that is consistent at every level, yet is still flexible enough to accommodate a variety of audiences.
+
+By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that’s creating user interface text in the application, an email verifying a new account, or a registration page on the website.
+
+Think of it this way – if Wire was a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
+
+To ensure we reach that level of consistency across all our brand touchpoints, we must ensure our tone of voice is:
+
+* **Contemporary** – we use contractions when it’s called for, and we may even take a few language liberties (such as starting a sentence with a conjunction or using incomplete sentences when short and to the point will do: “Forgot your password?” instead of “Did you forget your password?”). But, we avoid jargon and slang that might be “in” today but could be “out” tomorrow.
+* **Direct** - we communicate in straightforward, confident language that is as honest and transparent as possible (for example, “You’ll need to add contacts before you can start a conversation” instead of “We need access to your address book to find people to start a conversation”).
+* **Personable** – our words create the impression of one person (“we” at Wire) speaking with another (“you” the reader) as a friend, not a faceless “user”. However, the emphasis should always be on “you”, with less “we” or “us”.
+* **Supportive** – we never blame; rather, we always offer a helpful solution or suggest a next step (for example, “Forgot your password? Retrieve it here…”, not simply an error message highlighting the obvious: “That’s the wrong password” with no link).
+* **Concise** – we use active verbs whenever possible (for example, “Sami muted this conversation”, not “This conversation was muted by Sami”) and always opt for imperatives before gerunds (for example, “Use this code to link your phone”, not “Using this code will link your phone”).
+* **Polite** – we’re not afraid to say “please or thank you” in instructional copy and calls to action, but we don’t overdo it and we sometimes use it to (gently) remind people.
 
 # UI copy
 
@@ -134,40 +157,16 @@ For a list of multi-touch gesture terms & their German equivalents, see [multi-t
 
 # Writing guidelines
 
-> Wire is different. It’s obvious the second you see our application in action. This is a brand that’s going to transform the way people communicate.
+## Abbreviations
 
-> Part of that transformation is evident in the way we say what we say. Our communication style underscores our challenger mentality and ensures we deliver a consistent brand experience that’s more compelling, more engaging, and more attractive than other options out there.
-
-> Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire “voice” and follow our style.
-
-
-## Our tone of voice
-
-Communicating our core brand values - people, craft and evolution - requires a tone of voice that is consistent at every level, yet is still flexible enough to accommodate a variety of audiences.
-
-By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that’s creating user interface text in the application, an email verifying a new account, or a registration page on the website.
-
-Think of it this way – if Wire was a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
-
-To ensure we reach that level of consistency across all our brand touchpoints, we must ensure our tone of voice is:
-
-* **Contemporary** – we use contractions when it’s called for, and we may even take a few language liberties (such as starting a sentence with a conjunction or using incomplete sentences when short and to the point will do: “Forgot your password?” instead of “Did you forget your password?”). But, we avoid jargon and slang that might be “in” today but could be “out” tomorrow.
-* **Direct** - we communicate in straightforward, confident language that is as honest and transparent as possible (for example, “You’ll need to add contacts before you can start a conversation” instead of “We need access to your address book to find people to start a conversation”).
-* **Personable** – our words create the impression of one person (“we” at Wire) speaking with another (“you” the reader) as a friend, not a faceless “user”. However, the emphasis should always be on “you”, with less “we” or “us”.
-* **Supportive** – we never blame; rather, we always offer a helpful solution or suggest a next step (for example, “Forgot your password? Retrieve it here…”, not simply an error message highlighting the obvious: “That’s the wrong password” with no link).
-* **Concise** – we use active verbs whenever possible (for example, “Sami muted this conversation”, not “This conversation was muted by Sami”) and always opt for imperatives before gerunds (for example, “Use this code to link your phone”, not “Using this code will link your phone”).
-* **Polite** – we’re not afraid to say “please or thank you” in instructional copy and calls to action, but we don’t overdo it and we sometimes use it to (gently) remind people.
-
-
-## Our writing style
-
-### Abbreviations
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.
 
-### Articles
+## Articles
+
 In all UI copy, we avoid articles wherever possible. Articles include “a”, “an”, “the”, etc. In a similar vein, we also avoid demonstrative words such as “this” and “those”.
 
-### Capitalization
+## Capitalization
+
 We use all caps for system messages (“UNBLOCK”) in the conversation view and in certain other places as necessary to agree with (Android) platform conventions.
 
 However, for longer phrases or sentences, we use sentence case: we only capitalize the first word of a phrase or sentence (“You’ve left this conversation”).
@@ -182,7 +181,8 @@ In [UI copy](#ui-copy), we capitalize according to the platform conventions, suc
 
 As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4).
 
-### Numbers
+## Numbers
+
 In the application, numerals should be used in all cases to save space:
 
 * _1 message pending_
@@ -191,12 +191,14 @@ In the application, numerals should be used in all cases to save space:
 
 However, on the website, numbers from one to nine should be spelled out (for example, “there are three ways to download Wire.”)
 
-### Politeness
+## Politeness
+
 We try to sound courteous without being obsequious. While we are not afraid to use “please” or thank you” where applicable, we use these phrases judiciously.
 
 For example, in an initial message in the application, we may ask a user to “Enter a phone number”. If there’s a mistake and we need to generate a second message, this is the time to say: “Please enter a valid phone number”.
 
-### Punctuation
+## Punctuation
+
 * We do not use periods in most UI strings unless there are two or more sentences. (For example, “Start a conversation”). However, copy on the website should be punctuated correctly.
 * We use the serial comma (for example, “Email, phone number, and address”).
 * Avoid apostrophes, exclamation marks, ampersands, and the “+” symbol in UI copy.
@@ -204,7 +206,8 @@ For example, in an initial message in the application, we may ask a user to “E
 
 For complete punctuation rules, we suggest you refer to any good American style guide (_The Chicago Manual of Style_ or _The Yahoo Style Guide_).
 
-### Word choice
+## Word choice
+
 Whenever possible, cut unnecessary words. Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
 
 Be careful that you don’t bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
