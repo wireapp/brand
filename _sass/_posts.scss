@@ -14,11 +14,6 @@
 
 // Blog post or page title
 .page-title,
-.post-title,
-.post-title a {
-  color: #303030;
-}
-.page-title,
 .post-title {
   margin-top: 0;
 }
@@ -37,8 +32,8 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
   margin-bottom: 2rem;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid $graphite-light80;
+  border-bottom: 1px solid $graphite-light80;
 }
 
 .related-posts {
@@ -52,11 +47,9 @@
   li {
     small {
       font-size: 75%;
-      color: #999;
     }
 
     a:hover {
-      color: #268bd2;
       text-decoration: none;
 
       small {
