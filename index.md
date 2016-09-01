@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-This repository tracks **Wire** brand assets such as logos, press kit, styleguide, and writing guidelines such as our _Tone of Voice_.
+This repository tracks **Wire** brand assets such as logo, press kit, styleguide, and writing guidelines such as our _Tone of Voice_.
 
 The contents will be published via [GitHub Pages][1] & [Jekyll][2] to a subdomain at [wire.com][3].
 
