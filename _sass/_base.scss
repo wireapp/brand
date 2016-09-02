@@ -1,6 +1,4 @@
 // Body resets
-//
-// Update the foundational and global aspects of the page.
 
 * {
   -webkit-box-sizing: border-box;
@@ -38,17 +36,6 @@ a {
   &:focus {
     color: darken($link-color, 16%);
   }
-
-  strong {
-    color: inherit;
-  }
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
-  border-radius: 5px;
 }
 
 table {
