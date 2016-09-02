@@ -1,6 +1,6 @@
 ---
-layout: multipage
-title: Tone of Voice (new)
+layout: default
+title: "Tone of Voice"
 ---
 
 # Wire’s voice

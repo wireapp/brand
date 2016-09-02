@@ -10,9 +10,13 @@
 
     {% include navigation.html context="/" %}
 
-    <article>
-      {{ content }}
-    </article>
+    <main>
+      {% include subnavigation.html context="/tone/" %}
+
+      <article>
+        {{ content }}
+      </article>
+    </main>
 
     <footer>
       &copy; WIRE SWISS GmbH
