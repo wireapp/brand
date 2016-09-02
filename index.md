@@ -7,8 +7,6 @@ This repository tracks **Wire** brand assets such as logo, press kit, styleguide
 
 The contents will be published via [GitHub Pages][1] & [Jekyll][2] to a subdomain at [wire.com][3].
 
----
-
 [1]: https://pages.github.com
 [2]: https://jekyllrb.com
 [3]: http://wire.com
