@@ -1,11 +1,58 @@
 // Layout
-//
-// Styles for managing the structural hierarchy of the site.
 
-.container {
-  max-width: 38rem;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
-  margin-left:  auto;
-  margin-right: auto;
+main {
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+header {
+  max-width: 840px;
+  height: 96px;
+  border-bottom: 1px solid $graphite-light80;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 64px;
+
+  a {
+    font-size: 12px;
+    font-weight: 600;
+    color: $graphite-dark72;
+    text-transform: uppercase;
+  }
+
+  a:first-child { margin-right: auto; } 
+  a:last-child { margin-left: auto; } 
+}
+
+nav {
+	max-width: 840px;
+	height: 64px;
+	display: flex;
+	align-items: center;
+  justify-content: center;
+  margin: 64px auto;
+  border-bottom: 1px solid $graphite-light80;
+
+  a {
+  	display: flex;
+  	align-items: center;
+  	padding: 0 16px;
+  	height: 64px;
+  	}
+
+  .active {
+  		border-bottom: 1px solid $blue;
+  }
+}	
+
+footer {
+	max-width: 840px;
+  height: 160px;
+  padding-top: 48px;
+  text-align: center;
+  border-top: 1px solid $graphite-light80;
+  margin-top: 160px;
+  font-size: 12px;
+  font-weight: 600;
 }
