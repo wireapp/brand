@@ -1,9 +1,7 @@
 {% capture html %}
-<ul>
+<nav>
     {% if include.context == "/" %}
-        <li {% if page.url == "/" %}class="active"{% endif %}>
-            <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-        </li>
+        <a {% if page.url == "/" %}class="active"{% endif %} href="{{ site.baseurl }}/">{{ site.title }}</a>
     {% endif %}
 
     {% assign entries = site.pages | sort: "path" %}
@@ -13,11 +11,9 @@
         {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
         {% if current == include.context %}
-            <li {% if page.url contains entry.url %}class="active"{% endif %}>
-                <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-            </li>
+            <a {% if page.url contains entry.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
         {% endif %}
 
     {% endfor %}
-</ul>
+</nav>
 {% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}

@@ -1,0 +1,22 @@
+// Navigation
+
+nav {
+	max-width: 840px;
+	height: 64px;
+	display: flex;
+	align-items: center;
+  justify-content: center;
+  margin: 64px auto;
+  border-bottom: 1px solid $graphite-light80;
+
+  a {
+  	display: flex;
+  	align-items: center;
+  	padding: 0 16px;
+  	height: 64px;
+  	}
+
+  .active {
+  		border-bottom: 1px solid $blue;
+  }
+}	
