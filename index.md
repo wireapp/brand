@@ -3,10 +3,13 @@ layout: default
 title: Home
 ---
 
-This repository tracks **Wire** brand assets such as logo, press kit, styleguide, and writing guidelines such as our _Tone of Voice_.
+Welcome.
 
-The contents will be published via [GitHub Pages][1] & [Jekyll][2] to a subdomain at [wire.com][3].
+If your task is to work with elements of Wire brand, this guideline is for you.
 
-[1]: https://pages.github.com
-[2]: https://jekyllrb.com
-[3]: http://wire.com
+We put a lot of effort into developing Wire’s unique consistent look and feel. Please study the elements on this page and follow the guidelines for their usage. This way we can make sure Wire is simple and familiar for its users and easy to maintain for its creators.
+
+Should you have any questions, do not hesitate to get in touch.
+
+Thank you.<br>
+Wire Design
