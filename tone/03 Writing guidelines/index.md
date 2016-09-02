@@ -3,6 +3,8 @@ layout: multipage
 title: Writing guidelines
 ---
 
+## Writing guidelines
+
 ## Abbreviations
 
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.

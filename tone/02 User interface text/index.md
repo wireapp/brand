@@ -3,6 +3,8 @@ layout: multipage
 title: User interface text
 ---
 
+## User interface text
+
 Text appears in the user interface _(or “UI”)_ in button names, menu labels, application settings, dialog messages, and notification banners.
 
 The care we take in crafting every bit of text _(or “microcopy”)_ in the app should reflect the level of detail invested in the overall application design and user experience that sets Wire apart.
