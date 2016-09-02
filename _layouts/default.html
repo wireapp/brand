@@ -3,20 +3,19 @@
 
   {% include head.html %}
 
-  <body>
-    {% include header.html %}
+<body>
+  {% include header.html %}
 
-    <h1>{{ site.title }}</h1>
+  <h1>{{ site.title }}</h1>
 
-    {% include navigation.html context="/" %}
+  {% include navigation.html context="/" %}
 
-    <article>
-      {{ content }}
-    </article>
+  <article>
+    {{ content }}
+  </article>
 
-    <footer>
-      &copy; WIRE SWISS GmbH
-    </footer>
-    </div>
-  </body>
+  <footer>
+    &copy; WIRE SWISS GmbH
+  </footer>
+</body>
 </html>
