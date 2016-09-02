@@ -9,9 +9,8 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: 600;
-  line-height: 1.25;
+  margin-bottom: 1rem;
+  line-height: 1.5;
   text-rendering: optimizeLegibility;
 }
 
@@ -23,19 +22,24 @@ h1 {
 }
 
 h2 {
-  margin-top: 1rem;
+  margin-top: 3rem;
   font-size: 1.5rem;
+  font-weight: 300;
 }
 
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 3rem;
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
 }
+
+strong, b { font-weight: 600; }
 
 p {
   margin-top: 0;
@@ -51,9 +55,11 @@ p {
 }
 
 ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
+  padding: 0;
 }
+
+li { list-style-image: url("public/bullet.svg"); }
 
 dt {
   font-weight: bold;
