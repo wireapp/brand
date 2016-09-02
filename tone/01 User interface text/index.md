@@ -1,5 +1,5 @@
 ---
 layout: multipage
-title: Another
+title: User interface text
 ---
 

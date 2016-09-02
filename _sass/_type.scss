@@ -40,6 +40,14 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+
+  &.large {
+    font-size: 32px;
+    font-weight: 300;
+    color: $graphite;
+  }
+
+  &.dark { color: $graphite-dark72; }
 }
 
 ul, ol, dl {

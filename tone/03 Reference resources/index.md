@@ -1,5 +1,5 @@
 ---
 layout: multipage
-title: One More
+title: Reference resources
 ---
 

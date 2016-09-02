@@ -1,5 +1,5 @@
 ---
 layout: multipage
-title: Testing 1
+title: Writing guidelines
 ---
 
