@@ -1,6 +1,7 @@
 ---
 layout: multipage
 title: User interface text
+weight: 2
 ---
 
 ## User interface text

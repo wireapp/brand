@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Tone of Voice"
+weight: 10
 ---
 
 # Wire’s voice

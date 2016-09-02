@@ -1,6 +1,7 @@
 ---
 layout: multipage
 title: Writing guidelines
+weight: 3
 ---
 
 ## Writing guidelines
