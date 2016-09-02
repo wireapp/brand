@@ -4,43 +4,12 @@
 	width: 100vw;
 	position: relative;
 	left: calc(-50vw + 50%);
-}
-
-// Colors
-
-.color {
-	height: 240px;
-	font-weight: 600;
-	color: #fff;
-
-	&:first-child { margin-top: 56px; }
-}
-
-.graphite { background: $graphite; }
-.blue 		{ background: $blue; }
-.green 		{ background: $green; }
-.yellow 	{ background: $yellow; }
-.red 			{ background: $red; }
-.orange 	{ background: $orange; }
-.pink 		{ background: $pink; }
-.purple 	{ background: $purple; }
-
-
-.values {
-	max-width: 560px;
-	height: 200px;
-  margin: 0 auto;
-  padding-top: 40px;
-  display: flex;
+	display: flex;
 	align-items: center;
-	align-content: space-between;
-	justify-content: space-between;
-	flex-wrap: wrap;
+	justify-content: center;
 
-  span:nth-child(1) { width: 100% }
-  span:nth-child(1n+2) { font-size: 12px; }
+	& img { margin-top: 56px; }
 }
-
 
 .links {
 	display: flex;
@@ -52,6 +21,39 @@
 
   a { margin: 0 8px; }
 }
+
+// ———————————————— Colors ———————————————— //
+
+.color {
+	height: 240px;
+	font-weight: 600;
+	color: #fff;
+}
+
+	.graphite { background: $graphite; margin-top: 56px; }
+	.blue 		{ background: $blue; }
+	.green 		{ background: $green; }
+	.yellow 	{ background: $yellow; }
+	.red 			{ background: $red; }
+	.orange 	{ background: $orange; }
+	.pink 		{ background: $pink; }
+	.purple 	{ background: $purple; }
+
+
+	.values {
+		width: 560px;
+		height: 200px;
+	  margin: 0 auto;
+	  padding: 24px 0;
+	  display: flex;
+		align-items: center;
+		align-content: space-between;
+		justify-content: space-between;
+		flex-wrap: wrap;
+
+	  span:nth-child(1) { width: 100% }
+	  span:nth-child(1n+2) { font-size: 12px; }
+	}
 
 .colorshading {
 	display: flex;
@@ -85,6 +87,16 @@
 		height: 120px;
 	}
 
+
+// ———————————————— Logo ———————————————— //
+
+.rules {
+	column-count: 2;
+	column-gap: 40px;
+}
+
+.rules li {
+	list-style-image: url("public/bullet-red.svg"); }
 
 
 
