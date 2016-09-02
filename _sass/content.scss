@@ -1,10 +1,19 @@
 // Content
 
-.color {
+.wide {
 	width: 100vw;
 	position: relative;
-	height: 240px;
 	left: calc(-50vw + 50%);
+}
+
+// Colors
+
+.color {
+	height: 240px;
+	font-weight: 600;
+	color: #fff;
+
+	&:first-child { margin-top: 56px; }
 }
 
 .graphite { background: $graphite; }
@@ -13,5 +22,81 @@
 .yellow 	{ background: $yellow; }
 .red 			{ background: $red; }
 .orange 	{ background: $orange; }
-.pink 		{ background: $graphite; }
+.pink 		{ background: $pink; }
 .purple 	{ background: $purple; }
+
+
+.values {
+	max-width: 560px;
+	height: 200px;
+  margin: 0 auto;
+  padding-top: 40px;
+  display: flex;
+	align-items: center;
+	align-content: space-between;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+  span:nth-child(1) { width: 100% }
+  span:nth-child(1n+2) { font-size: 12px; }
+}
+
+
+.links {
+	display: flex;
+	align-items: center;
+  justify-content: center;
+  margin: 32px auto 64px;
+  font-size: 12px;
+  font-weight: 600;
+
+  a { margin: 0 8px; }
+}
+
+.colorshading {
+	display: flex;
+	align-items: center;
+  justify-content: center;
+}
+
+.oval {
+	display: flex;
+	align-items: center;
+  justify-content: center;
+	background: $orange;
+	width: 96px;
+	height: 96px;
+	border-radius: 50%;
+	margin: 64px 8px;
+	font-weight: 600;
+	color: #fff; 
+
+	&:nth-child(1) { background: lighten($orange,32%) }
+	&:nth-child(2) { background: lighten($orange,16%) }
+	&:nth-child(3) { background: lighten($orange,8%) }
+
+	&:nth-child(5) { background: darken($orange,8%) }
+	&:nth-child(6) { background: darken($orange,16%) }
+	&:nth-child(7) { background: darken($orange,32%) }
+}
+
+	.zero { 
+		width: 120px;
+		height: 120px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Logo…
