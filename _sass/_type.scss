@@ -25,6 +25,8 @@ h2 {
   margin-top: 3rem;
   font-size: 1.5rem;
   font-weight: 300;
+
+  &:first-child { margin-top: 0; }
 }
 
 h3 {
