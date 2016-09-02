@@ -48,11 +48,11 @@
 	  display: flex;
 		align-items: center;
 		align-content: space-between;
-		justify-content: space-between;
+		justify-content: space-around;
 		flex-wrap: wrap;
 
 	  span:nth-child(1) { width: 100% }
-	  span:nth-child(1n+2) { font-size: 12px; }
+	  span:nth-child(1n+2) { font-size: 12px; width: 25%; text-align:left; }
 	}
 
 .colorshading {
