@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="720px" height="400px" viewBox="0 0 720 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="640px" height="400px" viewBox="0 0 640 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
     <title>Group</title>
     <desc>Created with Sketch.</desc>
@@ -15,26 +15,28 @@
         <path d="M216.443504,232.871775 C211.603852,227.09338 208.674424,219.646767 208.674424,211.517814 L208.688019,158.677906 C208.688019,154.368793 212.172938,150.864706 216.4571,150.864706 C220.740777,150.864706 224.22618,154.368793 224.22618,158.677906 L224.212584,211.517814 C224.212584,219.646767 221.283156,227.09338 216.443504,232.871775 L216.443504,232.871775 Z M274.711607,211.517814 C274.711607,229.82861 260.063492,244.724767 241.856652,244.724767 C234.523125,244.724767 227.681479,242.278407 222.195537,238.195113 C228.329711,231.014887 231.981665,221.704056 231.981665,211.517814 L231.995261,158.677906 C231.995261,150.061635 225.024453,143.051507 216.4571,143.051507 C207.889261,143.051507 200.918939,150.061635 200.918939,158.677906 L200.905343,211.517814 C200.905343,221.704056 204.802508,231.014887 210.936683,238.195113 C205.450741,242.278407 198.609094,244.724767 191.275568,244.724767 C173.068728,244.724767 158.175401,229.82861 158.175401,211.517814 L158.175401,147.058063 L150.406321,147.058063 L150.406321,211.517814 C150.406321,234.135768 168.866627,252.537967 191.357629,252.537967 C200.892718,252.537967 209.735874,249.205443 216.688716,243.670951 C223.641557,249.205443 232.280774,252.537967 241.815864,252.537967 C264.306381,252.537967 282.481173,234.135768 282.481173,211.517814 L282.481173,147.058063 L274.711607,147.058063 L274.711607,211.517814 Z M305.801088,250.468214 L313.570168,250.468214 L313.570168,146.846175 L305.801088,146.846175 L305.801088,250.468214 Z M381.587399,145.039486 C366.256575,145.039486 352.704871,152.840954 344.645907,164.702745 L344.645907,146.846517 L336.876827,146.846517 L336.876827,250.468557 L344.645907,250.468557 L344.645907,190.011451 L344.650277,190.011451 C344.650277,169.529968 361.220269,152.867837 381.587399,152.867837 L381.587399,145.039486 Z M396.148403,228.401657 C381.031715,210.368978 381.906222,183.291366 398.777266,166.308594 C415.64831,149.325821 442.547779,148.445523 460.461822,163.662321 L396.148403,228.401657 Z M471.466725,163.644725 C470.624751,162.665204 469.743931,161.708655 468.820382,160.7785 C447.994876,139.815078 414.109061,139.815078 393.283555,160.7785 C372.458049,181.741923 372.458049,215.852148 393.283555,236.815571 C414.106147,257.775572 447.984679,257.778505 468.811156,236.824369 L463.317445,231.294276 C446.445916,248.26825 419.552758,249.145616 401.642114,233.93175 L433.789598,201.57088 L471.466725,163.644725 Z M478.649725,147.736543 L481.367932,147.736543 L481.367932,154.782352 L482.195825,154.782352 L482.195825,147.736543 L484.925685,147.736543 L484.925685,146.961821 L478.649725,146.961821 L478.649725,147.736543 Z M493.091426,146.961626 L490.384872,153.748869 L487.690458,146.961626 L486.418757,146.961626 L486.418757,154.782157 L487.211689,154.782157 L487.211689,147.79549 L489.988164,154.782157 L490.746135,154.782157 L493.510956,147.818951 L493.510956,154.782157 L494.316027,154.782157 L494.316027,146.961626 L493.091426,146.961626 Z" id="path-5"></path>
     </defs>
     <g id="M-—-Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="✅-M-—-Logo" transform="translate(-240.000000, -1360.000000)">
-            <g id="Group" transform="translate(282.000000, 1360.000000)">
-                <path d="M148.5,0.5 L148.5,399.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
-                <path d="M41.5,0.5 L41.5,399.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
-                <path d="M486.5,0.5 L486.5,399.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
-                <path d="M594.5,0.5 L594.5,399.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
-                <path d="M0,144.5 L635.052684,144.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
-                <path d="M0,253.5 L635.052684,253.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
-                <path d="M0,35.5 L635.052684,35.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
-                <path d="M0,361.5 L635.052684,361.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
-                <ellipse id="Oval" stroke="#BAC8D1" cx="95.2031603" cy="198.5" rx="54.2031603" ry="54.1666667"></ellipse>
-                <ellipse id="Oval" stroke="#BAC8D1" cx="539.79684" cy="198.5" rx="54.2031603" ry="54.1666667"></ellipse>
-                <ellipse id="Oval" stroke="#BAC8D1" cx="318.20316" cy="90.1666667" rx="54.2031603" ry="54.1666667"></ellipse>
-                <ellipse id="Oval" stroke="#BAC8D1" cx="318.20316" cy="307.166667" rx="54.2031603" ry="54.1666667"></ellipse>
-                <use id="Rectangle-3" stroke="#BAC8D1" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.04" fill="#FB0807" xlink:href="#path-1"></use>
-                <use id="Rectangle-3" stroke="#BAC8D1" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-3"></use>
-                <ellipse id="Oval" stroke="#FB0807" cx="431.390519" cy="198.5" rx="54.2031603" ry="54.1666667"></ellipse>
-                <g id="Logo">
-                    <use fill="#8D989F" xlink:href="#path-5"></use>
-                    <use fill-opacity="0.72" fill="#000000" xlink:href="#path-5"></use>
+        <g id="✅-M-—-Logo" transform="translate(-280.000000, -1360.000000)">
+            <g id="Size" transform="translate(281.000000, 1232.000000)">
+                <g id="Group" transform="translate(1.000000, 128.000000)">
+                    <ellipse id="Oval" stroke-opacity="0.24" stroke="#FB0807" cx="95" cy="199" rx="54" ry="54"></ellipse>
+                    <circle id="Oval" stroke-opacity="0.24" stroke="#FB0807" cx="539.593679" cy="199" r="54"></circle>
+                    <ellipse id="Oval" stroke-opacity="0.24" stroke="#FB0807" cx="318" cy="90" rx="54" ry="54"></ellipse>
+                    <circle id="Oval" stroke-opacity="0.24" stroke="#FB0807" cx="318" cy="307" r="54"></circle>
+                    <path d="M148.5,0.5 L148.5,399.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
+                    <path d="M41.5,0.5 L41.5,399.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
+                    <path d="M486.5,0.5 L486.5,399.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
+                    <path d="M594.5,0.5 L594.5,399.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
+                    <path d="M0,144.5 L635.052684,144.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
+                    <path d="M0,253.5 L635.052684,253.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
+                    <path d="M0,35.5 L635.052684,35.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
+                    <path d="M0,361.5 L635.052684,361.5" id="Line" stroke="#E6EBEE" stroke-linecap="square"></path>
+                    <use id="Rectangle-3" stroke="#BAC8D1" mask="url(#mask-2)" stroke-width="2" fill-opacity="0.04" fill="#FB0807" xlink:href="#path-1"></use>
+                    <use id="Rectangle-3" stroke="#BAC8D1" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <circle id="Oval" fill-opacity="0.32" fill="#FB0807" cx="431" cy="199" r="54"></circle>
+                    <g id="Logo">
+                        <use fill="#8D989F" xlink:href="#path-5"></use>
+                        <use fill-opacity="0.72" fill="#000000" xlink:href="#path-5"></use>
+                    </g>
                 </g>
             </g>
         </g>
