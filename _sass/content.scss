@@ -93,10 +93,13 @@
 .rules {
 	column-count: 2;
 	column-gap: 40px;
+	margin: 16px 0 32px;
 }
 
 .rules li {
-	list-style-image: url("public/bullet-red.svg"); }
+	list-style-image: url("public/bullet-red.svg");
+	padding: 4px 0;
+}
 
 
 
