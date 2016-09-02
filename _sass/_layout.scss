@@ -32,6 +32,8 @@ header {
     font-weight: 600;
     color: $graphite-dark72;
     text-transform: uppercase;
+
+    &:hover { color: #000; }
   }
 
   a:first-child { margin-right: auto; } 
