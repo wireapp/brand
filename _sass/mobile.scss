@@ -1,0 +1,41 @@
+// Mobile
+
+@media (max-width: 550px) {
+
+  .nav { justify-content: initial; }
+
+  header, footer {
+    margin-left:24px;
+    margin-right: 24px;
+  }
+
+  footer {
+    height: 112px;
+    margin-top: 80px; }
+
+  article {
+    width: auto;
+    margin-left:24px;
+    margin-right: 24px;
+  }
+
+  .wide img { width: 100vw; }
+
+  .rules { column-count: 1; }
+
+  .values span:nth-child(1n+2) { width: 100%; }
+
+  .oval {
+    width: 32px;
+    height: 32px;
+    margin: 48px 2px;
+    font-size: 10px;
+  }
+
+    .zero { 
+      width: 48px;
+      height: 48px;
+    }
+
+
+}

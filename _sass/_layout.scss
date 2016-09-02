@@ -46,15 +46,20 @@ header {
 .nav {
 	max-width: 840px;
 	height: 64px;
+  margin: 32px auto 64px;
+  border-bottom: 1px solid $graphite-light80;
 	display: flex;
 	align-items: center;
   justify-content: center;
-  margin: 32px auto 64px;
-  border-bottom: 1px solid $graphite-light80;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar; 
 
   a {
   	display: flex;
   	align-items: center;
+    flex: 0 0 auto;
   	padding: 0 16px;
   	height: 64px;
     border-bottom: 1px solid rgba(0,0,0,0);
