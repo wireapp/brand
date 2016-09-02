@@ -9,7 +9,7 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 1rem;
+  margin-bottom: 0;
   line-height: 1.5;
   text-rendering: optimizeLegibility;
 }
@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-  margin-top: 3rem;
+  margin-top: 2rem;
   font-size: 1.5rem;
   font-weight: 300;
 
@@ -30,14 +30,14 @@ h2 {
 }
 
 h3 {
-  margin-top: 3rem;
+  margin-top: 2rem;
   font-size: 1rem;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 h4, h5, h6 {
-  margin-top: 1rem;
+  margin-top: 2rem;
   font-size: 1rem;
 }
 
@@ -57,11 +57,14 @@ p {
 }
 
 ul, ol, dl {
-  margin: 1rem 0;
+  margin: 0 0 1rem;
   padding: 0;
 }
 
-li { list-style-image: url("public/bullet.svg"); }
+li {
+  list-style-image: url("public/bullet.svg");
+  margin-bottom: .5rem;
+}
 
 dt {
   font-weight: bold;
