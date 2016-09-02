@@ -15,7 +15,7 @@
 	display: flex;
 	align-items: center;
   justify-content: center;
-  margin: 32px auto 64px;
+  margin: 0 auto 64px;
   font-size: 12px;
   font-weight: 600;
 
@@ -37,7 +37,7 @@
 	.red 			{ background: $red; }
 	.orange 	{ background: $orange; }
 	.pink 		{ background: $pink; }
-	.purple 	{ background: $purple; }
+	.purple 	{ background: $purple; margin-bottom: 56px; }
 
 
 	.values {
