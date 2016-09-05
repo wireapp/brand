@@ -95,18 +95,9 @@ abbr {
 }
 
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  border-left: .25rem solid $graphite-light;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
+  padding: 0 0 0 6px;
+  margin: 1rem 0 1rem -14px;
+  border-left: 2px solid $graphite-light;  
 }
 
 
