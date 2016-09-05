@@ -110,15 +110,15 @@ footer {
   width: 100%;
   position: absolute;
   bottom: 0;
-  height: 160px;
   text-align: center;
 
   div {
     max-width: $site-width;
+    height: $footer-height;
+    line-height: $footer-height;
     border-top: 1px solid $graphite-light80;
     margin: 0 auto;
     font-size: 12px;
-    line-height: 160px;
     font-weight: 600;
   }
 }
