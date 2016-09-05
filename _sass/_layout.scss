@@ -1,10 +1,14 @@
 // Layout
 
 main {
-  width: $site-width;
+  max-width: $site-width;
   display: flex;
   align-items: stretch;
   margin: 0 auto;
+
+  @media screen and (max-width: $break) {
+    display: inherit;
+  }
 }
 
 article {
