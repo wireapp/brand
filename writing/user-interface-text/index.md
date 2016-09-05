@@ -19,7 +19,12 @@ Rather than re-invent the wheel or get “creative” in ways that confuse users
 
 The sections below provide resources for each platform we support.
 
-## Mac OS X (desktop)
+- [Desktop](#desktop)
+- [iOS](#ios)
+- [Android](#android)
+- [Glossary of Wire terms](#glossary-of-wire-terms)
+
+## Desktop
 
 When writing for the Mac desktop user interface, use the conventions that Apple has established in the [OS X Human Interface Guidelines][1].
 
