@@ -53,7 +53,10 @@ In the application, numerals should be used in all cases to save space:
 * _3 conversations_
 * _Your password must be at least 6 characters_
 
-However, on the website, numbers from one to nine should be spelled out (for example, “there are three ways to download Wire.”)
+However, on the website, numbers from one to nine should be spelled out.  
+For example: _“there are three ways to download Wire.”_
+
+Treat ordinal numbers the same way: spell out first to ninth, and use numerals for anything 10th or greater. One common case is _“third-party licenses.”_
 
 ### Politeness
 
