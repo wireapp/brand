@@ -36,9 +36,9 @@
 
   .graphite { background: $graphite; margin-top: 56px; }
   .blue     { background: $blue; }
-  .green     { background: $green; }
+  .green    { background: $green; }
   .yellow   { background: $yellow; }
-  .red       { background: $red; }
+  .red      { background: $red; }
   .orange   { background: $orange; }
   .pink     { background: $pink; }
   .purple   { background: $purple; margin-bottom: 56px; }
@@ -124,7 +124,7 @@
 }
 
 .rules li {
-  list-style-image: url("public/bullet-red.svg");
+  list-style-image: url('data:image/svg+xml;utf8,<svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><circle cx="5" cy="5" r="2" fill="#FB0807" fill-rule="evenodd"/></svg>');
   padding: 4px 0;
 }
 
