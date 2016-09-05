@@ -49,6 +49,8 @@ When referring to icons that appear in the user interface, use the name of the a
 For an overview of our UI icons, see [User Interface Icon Names][1].
 
 ### Preferred spelling variants
+The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
+
 * Internet _(capitalized per Apple style guide — see note below)_
 * email _(no hyphen)_
 * web _(lowercase)_
@@ -57,8 +59,6 @@ For an overview of our UI icons, see [User Interface Icon Names][1].
 * megapixel
 * Wi-Fi _(hyphenated per iOS, OS X & Android)_
 * log in / out _(verb: as in “log in to your account” – not “sign in”)_
-
-The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
 
 **NOTE:** In June 2016, the Associated Press and many mainstream newspapers announced they would no longer capitalize “Internet”. Since Apple still uses the capitalized form in iOS and OS X, Wire does the same in [UI copy][2] to ensure our app remains consistent with the spelling used in the operating systems.
 
