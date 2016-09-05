@@ -24,21 +24,22 @@ h1 {
 h2 {
   margin-top: 2rem;
   font-size: 1.5rem;
-  font-weight: 300;
+  font-weight: 600;
 
-  &:first-child { margin-top: 0; font-weight: 600; }
+  &:first-child { margin-top: 0; }
 }
 
 h3 {
   margin-top: 2rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+h4 {
+  margin-top: 2rem;
   font-size: 1rem;
   font-weight: 600;
   text-transform: uppercase;
-}
-
-h4, h5, h6 {
-  margin-top: 2rem;
-  font-size: 1rem;
 }
 
 strong, b { font-weight: 600; }
@@ -95,18 +96,9 @@ abbr {
 }
 
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  border-left: .25rem solid $graphite-light;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
+  padding: 0 0 0 12px;
+  margin: 1rem 0 1rem -14px;
+  border-left: 2px solid $graphite-light;  
 }
 
 
