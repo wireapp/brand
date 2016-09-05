@@ -10,7 +10,7 @@ Communicating our core brand values - people, craft and evolution - requires a t
 
 By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that’s creating user interface text in the application, an email verifying a new account, or a registration page on the website.
 
-Think of it this way – if Wire was a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
+Think of it this way – if Wire were a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
 
 To ensure we reach that level of consistency across all our brand touchpoints, we must ensure our tone of voice is:
 
