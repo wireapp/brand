@@ -6,16 +6,12 @@
 <body>
   {% include header.html %}
 
-  <h1>{{ site.title }}</h1>
-
   {% include navigation.html context="/" %}
 
   <article>
     {{ content }}
   </article>
-
-  <footer>
-    &copy; WIRE SWISS GmbH
-  </footer>
+  
+  {% include footer.html %}
 </body>
 </html>

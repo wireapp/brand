@@ -53,7 +53,7 @@ p {
     color: $graphite;
   }
 
-  &.dark { color: $graphite-dark72; }
+  &.dark { color: $graphite-dark; }
 }
 
 ul, ol, dl {
@@ -62,7 +62,7 @@ ul, ol, dl {
 }
 
 li {
-  list-style-image: url("public/bullet.svg");
+  list-style-image: url('data:image/svg+xml;utf8,<svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><circle cx="5" cy="5" r="2" fill="#8D989F" fill-rule="evenodd"/></svg>');
   margin-bottom: .5rem;
 }
 
@@ -78,26 +78,26 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid $graphite-light80;
+  border-top: 1px solid $graphite-light;
   border-bottom: 0;
 }
 
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: $graphite-light80;
+  color: $graphite-light;
   text-transform: uppercase;
 
   &[title] {
     cursor: help;
-    border-bottom: 1px dotted $graphite-light80;
+    border-bottom: 1px dotted $graphite-light;
   }
 }
 
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  border-left: .25rem solid $graphite-light80;
+  border-left: .25rem solid $graphite-light;
 
   p:last-child {
     margin-bottom: 0;
