@@ -63,9 +63,9 @@
 
     span:nth-child(1n+2) { font-size: 12px; width: 25%; text-align:left;
       @media screen and (max-width: $break) {
-  	    width: 100%;
+        width: 100%;
       }
-	  }
+    }
   }
 
 .colorshading {
