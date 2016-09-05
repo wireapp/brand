@@ -17,15 +17,15 @@ Grammar, spelling, and mechanics aspects of Wire editorial style.
 - [Word choice](#word-choice)
 - [Reference resources](#reference-resources)
 
-## Abbreviations
+### Abbreviations
 
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.
 
-## Articles
+### Articles
 
 In all [UI copy][1], we avoid articles wherever possible. Articles include “a”, “an”, “the”, etc. In a similar vein, we also avoid demonstrative words such as “this” and “those”.
 
-## Capitalization
+### Capitalization
 
 We use all caps for system messages (“UNBLOCK”) in the conversation view and in certain other places as necessary to agree with (Android) platform conventions.
 
@@ -41,7 +41,7 @@ In [UI copy][1], we capitalize according to the platform conventions, such as Ap
 
 As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text][5].
 
-## Numbers
+### Numbers
 
 In the application, numerals should be used in all cases to save space:
 
@@ -51,13 +51,13 @@ In the application, numerals should be used in all cases to save space:
 
 However, on the website, numbers from one to nine should be spelled out (for example, “there are three ways to download Wire.”)
 
-## Politeness
+### Politeness
 
 We try to sound courteous without being obsequious. While we are not afraid to use “please” or thank you” where applicable, we use these phrases judiciously.
 
 For example, in an initial message in the application, we may ask a user to “Enter a phone number”. If there’s a mistake and we need to generate a second message, this is the time to say: “Please enter a valid phone number”.
 
-## Punctuation
+### Punctuation
 
 * We do not use periods in most UI strings unless there are two or more sentences. (For example, “Start a conversation”). However, copy on the website should be punctuated correctly.
 * We use the serial comma (for example, “Email, phone number, and address”).
@@ -66,13 +66,13 @@ For example, in an initial message in the application, we may ask a user to “E
 
 For complete punctuation rules, we suggest you refer to any good American style guide (_The Chicago Manual of Style_ or _The Yahoo Style Guide_).
 
-## Word choice
+### Word choice
 
 Whenever possible, cut unnecessary words. Avoid using too many qualifiers (adjectives, adverbs), modifying clauses and jargon.
 
 Be careful that you don’t bury the action of your sentence in a noun. Instead, take the action out of the noun and put it in the verb format.
 
-## Reference resources
+### Reference resources
 
 In addition to the platform-specific resources described under [UI copy][1], the following resources provide useful reference.
 
