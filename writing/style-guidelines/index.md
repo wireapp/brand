@@ -19,7 +19,7 @@ Grammar, spelling, and mechanics aspects of Wire editorial style.
 
 ### Abbreviations
 
-Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.
+Avoid abbreviations where possible. Use “for example” instead of “e.g.” or “that is” instead of “i.e.” or — better yet — edit to avoid these constructs entirely.
 
 ### Articles
 
