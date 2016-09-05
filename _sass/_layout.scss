@@ -53,16 +53,17 @@ header {
   border-bottom: 1px solid $graphite-light80;
   display: flex;
   align-items: center;
-  flex-wrap: nowrap;
+  justify-content: center;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   -ms-overflow-style: -ms-autohiding-scrollbar;
 
+  @media screen and (max-width: $break) {
+    justify-content: inherit;
+  }
+
   a {
-    display: flex;
-    align-items: center;
     padding: 0 16px;
-    height: 64px;
     white-space: nowrap;
     border-bottom: 1px solid rgba(0,0,0,0);
   }
