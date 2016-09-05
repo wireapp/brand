@@ -55,11 +55,16 @@
     justify-content: space-around;
     flex-wrap: wrap;
 
-    span:nth-child(1) { width: 100% }
-    span:nth-child(1n+2) { font-size: 12px; width: 25%; text-align:left; }
-
     @media screen and (max-width: $break) {
-	    width: 100%;
+      margin: 0 24px;
+    }
+
+    span:nth-child(1) { width: 100% }
+
+    span:nth-child(1n+2) { font-size: 12px; width: 25%; text-align:left;
+      @media screen and (max-width: $break) {
+  	    width: 100%;
+      }
 	  }
   }
 
