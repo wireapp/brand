@@ -48,3 +48,7 @@ For guidance on writing conventions for Android, see [Android Writing Style](htt
 See the [draft Glossary on GitHub](https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv).
 
 Feel free to suggest new terms if there’s something missing there.
+
+[iOS-HIG]:  https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+
+[OSX-HIG]:  https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
