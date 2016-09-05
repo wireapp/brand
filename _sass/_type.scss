@@ -53,7 +53,7 @@ p {
     color: $graphite;
   }
 
-  &.dark { color: $graphite-dark72; }
+  &.dark { color: $graphite-dark; }
 }
 
 ul, ol, dl {
@@ -78,26 +78,26 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid $graphite-light80;
+  border-top: 1px solid $graphite-light;
   border-bottom: 0;
 }
 
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: $graphite-light80;
+  color: $graphite-light;
   text-transform: uppercase;
 
   &[title] {
     cursor: help;
-    border-bottom: 1px dotted $graphite-light80;
+    border-bottom: 1px dotted $graphite-light;
   }
 }
 
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  border-left: .25rem solid $graphite-light80;
+  border-left: .25rem solid $graphite-light;
 
   p:last-child {
     margin-bottom: 0;

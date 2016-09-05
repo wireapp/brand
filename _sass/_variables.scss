@@ -3,24 +3,28 @@ $root-font-size: 16px;
 $root-line-height: 1.5;
 
 
-$graphite: 					#8d989f;
-$blue: 							#2391d3;
-$green:							#00c800;
-$yellow:						#febf02;
-$red:								#fb0807;
-$orange:						#ff8900;
-$pink:							#fe5ebd;
-$purple:						#9c00fe;
+$graphite:       #8d989f;
+$blue:           #2391d3;
+$green:          #00c800;
+$yellow:         #febf02;
+$red:            #fb0807;
+$orange:         #ff8900;
+$pink:           #fe5ebd;
+$purple:         #9c00fe;
 
 
-$graphite-dark72: 	#33373A; /* Tweak */
-$graphite-light80: 	rgba($graphite, .16);
+@function shade($color, $percent){
+  @return mix(black, $color, $percent);
+}
+
+$graphite-dark:  shade($graphite, 64%);
+$graphite-light: rgba($graphite, .16);
 
 
-$body-color: $graphite-dark72;
-$body-bg: #fff;
-$link-color: $blue;
-$border-color: $graphite-light80;
+$body-color:     $graphite-dark;
+$body-bg:        #fff;
+$link-color:     $blue;
+$border-color:   $graphite-light;
 
 
 $break: 550px;

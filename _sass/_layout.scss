@@ -24,7 +24,7 @@ main article { margin: 0; }
 header {
   max-width: $site-width;
   height: 96px;
-  border-bottom: 1px solid $graphite-light80;
+  border-bottom: 1px solid $graphite-light;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -33,7 +33,7 @@ header {
   a {
     font-size: 12px;
     font-weight: 600;
-    color: $graphite-dark72;
+    color: $graphite-dark;
     text-transform: uppercase;
 
     &:hover { color: #000; }
@@ -50,7 +50,7 @@ header {
   max-width: $site-width;
   height: 64px;
   margin: 32px auto 64px;
-  box-shadow: inset 0 -1px 0 $graphite-light80;
+  box-shadow: inset 0 -1px 0 $graphite-light;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -94,7 +94,7 @@ header {
     display: block;
     height: 48px;
     line-height: 48px;
-    border-bottom: 1px solid $graphite-light80;
+    border-bottom: 1px solid $graphite-light;
 
     &:last-child { border-bottom: 0; }
   }
@@ -116,7 +116,7 @@ footer {
     max-width: $site-width;
     height: $footer-height;
     line-height: $footer-height;
-    border-top: 1px solid $graphite-light80;
+    border-top: 1px solid $graphite-light;
     margin: 0 auto;
     font-size: 12px;
     font-weight: 600;
