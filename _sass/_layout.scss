@@ -60,6 +60,9 @@ header {
 
   @media screen and (max-width: $break) {
     justify-content: inherit;
+    width: 100vw;
+    position: relative;
+    left: calc(-50vw + 50%);
   }
 
   a {
@@ -68,6 +71,10 @@ header {
     height: 64px;
     padding: 0 16px;
     white-space: nowrap;
+  }
+  @media screen and (max-width: $break) {
+    :first-child { padding-left: 40px; }
+    :last-child { padding-right: 40px; }
   }
 
   .active { border-bottom: 1px solid $blue; }
