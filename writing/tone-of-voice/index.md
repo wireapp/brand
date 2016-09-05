@@ -10,9 +10,6 @@ weight: 2
 
 > Part of that transformation is evident in the way we say what we say. Our communication style underscores our challenger mentality and ensures we deliver a consistent brand experience that’s more compelling, more engaging, and more attractive than other options out there.
 
-> Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire “voice” and follow our style.
-
-
 Communicating our core brand values - people, craft and evolution - requires a tone of voice that is consistent at every level, yet is still flexible enough to accommodate a variety of audiences.
 
 By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that’s creating user interface text in the application, an email verifying a new account, or a registration page on the website.
