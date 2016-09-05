@@ -1,25 +1,16 @@
 ---
 layout: multipage
 title: Tone of voice
-weight: 1
+weight: 2
 ---
 
 ## Tone of voice
 
-> Wire is different. It’s obvious the second you see our application in action. This is a brand that’s going to transform the way people communicate.
+By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that’s user interface text in the application, an email verifying a new account, or a registration page on the website.
 
-> Part of that transformation is evident in the way we say what we say. Our communication style underscores our challenger mentality and ensures we deliver a consistent brand experience that’s more compelling, more engaging, and more attractive than other options out there.
+Think of it this way – if Wire were a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
 
-> Because we believe the way we look and sound on the outside is as important as the sophisticated technology we have on the inside, we’ve created these guidelines to help you develop people-centered communications that speak with a Wire “voice” and follow our style.
-
-
-Communicating our core brand values - people, craft and evolution - requires a tone of voice that is consistent at every level, yet is still flexible enough to accommodate a variety of audiences.
-
-By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that’s creating user interface text in the application, an email verifying a new account, or a registration page on the website.
-
-Think of it this way – if Wire was a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation.
-
-To ensure we reach that level of consistency across all our brand touchpoints, we must ensure our tone of voice is:
+Our tone should always be:
 
 * **Contemporary** – we use contractions when it’s called for, and we may even take a few language liberties (such as starting a sentence with a conjunction or using incomplete sentences when short and to the point will do: “Forgot your password?” instead of “Did you forget your password?”). But, we avoid jargon and slang that might be “in” today but could be “out” tomorrow.
 * **Direct** - we communicate in straightforward, confident language that is as honest and transparent as possible (for example, “You’ll need to add contacts before you can start a conversation” instead of “We need access to your address book to find people to start a conversation”).
