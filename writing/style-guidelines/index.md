@@ -1,10 +1,10 @@
 ---
 layout: multipage
-title: Writing guidelines
-weight: 3
+title: Style guidelines
+weight: 1
 ---
 
-## Writing guidelines
+## Style guidelines
 
 ## Abbreviations
 
