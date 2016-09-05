@@ -12,7 +12,7 @@ Avoid abbreviations where possible. Use “for example” or “such as” inste
 
 ## Articles
 
-In all UI copy, we avoid articles wherever possible. Articles include “a”, “an”, “the”, etc. In a similar vein, we also avoid demonstrative words such as “this” and “those”.
+In all [UI copy](../user-interface-text), we avoid articles wherever possible. Articles include “a”, “an”, “the”, etc. In a similar vein, we also avoid demonstrative words such as “this” and “those”.
 
 ## Capitalization
 
@@ -26,7 +26,7 @@ For example, CS content at [support.wire.com](https://support.wire.com/) uses se
 
 For long-form documents, we prefer sentence case for headings, as we feel this is a better match for our “humble and friendly” voice. Some perceive title case as more formal and a bit too stiff for our tone, so we avoid it in contexts where it’s not required.
 
-In [UI copy](#ui-copy), we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][iOS-HIG] and [OS X][OSX-HIG].
+In [UI copy](../user-interface-text), we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][iOS-HIG] and [OS X][OSX-HIG].
 
 As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4).
 
@@ -50,7 +50,7 @@ For example, in an initial message in the application, we may ask a user to “E
 
 * We do not use periods in most UI strings unless there are two or more sentences. (For example, “Start a conversation”). However, copy on the website should be punctuated correctly.
 * We use the serial comma (for example, “Email, phone number, and address”).
-* Avoid apostrophes, exclamation marks, ampersands, and the “+” symbol in UI copy.
+* Avoid apostrophes, exclamation marks, ampersands, and the “+” symbol in [UI copy](../user-interface-text).
 * Use proper typography for “quotation marks”, em- and en- dashes (–/–), ellipses (…), and other characters wherever possible. (Most UI strings files are now UTF-8 encoded, so typographically correct characters can be used in most cases — there’s no excuse for substituting ASCII text where proper typography is available.)
 
 For complete punctuation rules, we suggest you refer to any good American style guide (_The Chicago Manual of Style_ or _The Yahoo Style Guide_).
@@ -63,7 +63,7 @@ Be careful that you don’t bury the action of your sentence in a noun. Instead,
 
 ## Reference resources
 
-In addition to the platform-specific resources described under [UI Copy](#ui-copy), the following resources provide useful reference.
+In addition to the platform-specific resources described under [UI copy](../user-interface-text), the following resources provide useful reference.
 
 > For guidance on Apple-specific terminology, the writer should refer to the Apple Style Guide. That document covers style and usage issues, and is the key reference for how Apple uses language.
 
