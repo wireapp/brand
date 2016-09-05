@@ -107,7 +107,7 @@ header {
 // ———————————————— Footer ———————————————— //
 
 footer {
-  width: 100%;
+  width: calc(100vw - 48px);
   position: absolute;
   bottom: 0;
   text-align: center;
