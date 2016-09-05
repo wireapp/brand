@@ -73,9 +73,9 @@ header {
     white-space: nowrap;
   }
   @media screen and (max-width: $break) {
-    :first-child { padding-left: 40px; }
-    :last-child { padding-right: 40px; }
-  }
+    :first-child { margin-left: 24px; }
+    :last-child { margin-right: 24px; }
+    }
 
   .active { border-bottom: 1px solid $blue; }
 }
