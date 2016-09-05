@@ -11,9 +11,9 @@ weight: 4
 
 ## User interface text
 
-Text appears in the user interface _(or “UI”)_ in button names, menu labels, application settings, dialog messages, and notification banners.
+Text appears in the user interface _(or “UI”)_ in button names, menu labels, application settings, and dialogs as well as the “microcopy” in notification banners, headings and small print, navigation, feedback and error messages.
 
-The care we take in crafting every bit of text _(or “microcopy”)_ in the app should reflect the level of detail invested in the overall application design and user experience that sets Wire apart.
+The care we take in crafting every bit of text in the app should reflect the level of detail invested in the design and user experience that sets Wire apart.
 
 Rather than re-invent the wheel or get “creative” in ways that confuse users, we defer to existing platform conventions wherever possible.
 
