@@ -12,7 +12,7 @@ Avoid abbreviations where possible. Use “for example” or “such as” inste
 
 ## Articles
 
-In all [UI copy](../user-interface-text), we avoid articles wherever possible. Articles include “a”, “an”, “the”, etc. In a similar vein, we also avoid demonstrative words such as “this” and “those”.
+In all [UI copy][1], we avoid articles wherever possible. Articles include “a”, “an”, “the”, etc. In a similar vein, we also avoid demonstrative words such as “this” and “those”.
 
 ## Capitalization
 
@@ -22,13 +22,13 @@ However, for longer phrases or sentences, we use sentence case: we only capitali
 
 Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_ based on context.
 
-For example, CS content at [support.wire.com](https://support.wire.com/) uses sentence case in the question list, but title case in page headings _(as required by the Zendesk customer service platform)_. Certain channels _(such as press releases)_ may have other conventions to which we respectfully adhere.
+For example, CS content at [support.wire.com][2] uses sentence case in the question list, but title case in page headings _(as required by the Zendesk customer service platform)_. Certain channels _(such as press releases)_ may have other conventions to which we respectfully adhere.
 
 For long-form documents, we prefer sentence case for headings, as we feel this is a better match for our “humble and friendly” voice. Some perceive title case as more formal and a bit too stiff for our tone, so we avoid it in contexts where it’s not required.
 
-In [UI copy](../user-interface-text), we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][iOS-HIG] and [OS X][OSX-HIG].
+In [UI copy][1], we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][3] and [OS X][4].
 
-As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4).
+As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text][5].
 
 ## Numbers
 
@@ -50,7 +50,7 @@ For example, in an initial message in the application, we may ask a user to “E
 
 * We do not use periods in most UI strings unless there are two or more sentences. (For example, “Start a conversation”). However, copy on the website should be punctuated correctly.
 * We use the serial comma (for example, “Email, phone number, and address”).
-* Avoid apostrophes, exclamation marks, ampersands, and the “+” symbol in [UI copy](../user-interface-text).
+* Avoid apostrophes, exclamation marks, ampersands, and the “+” symbol in [UI copy][1].
 * Use proper typography for “quotation marks”, em- and en- dashes (–/–), ellipses (…), and other characters wherever possible. (Most UI strings files are now UTF-8 encoded, so typographically correct characters can be used in most cases — there’s no excuse for substituting ASCII text where proper typography is available.)
 
 For complete punctuation rules, we suggest you refer to any good American style guide (_The Chicago Manual of Style_ or _The Yahoo Style Guide_).
@@ -63,19 +63,21 @@ Be careful that you don’t bury the action of your sentence in a noun. Instead,
 
 ## Reference resources
 
-In addition to the platform-specific resources described under [UI copy](../user-interface-text), the following resources provide useful reference.
+In addition to the platform-specific resources described under [UI copy][1], the following resources provide useful reference.
 
 > For guidance on Apple-specific terminology, the writer should refer to the Apple Style Guide. That document covers style and usage issues, and is the key reference for how Apple uses language.
 
-* Apple Style Guide – <https://help.apple.com/asg/mac/2013/>
+— [Apple Style Guide][6]
 
 For complete punctuation rules and other writing conventions, refer to these style guides:
 
 * The Chicago Manual of Style
 * The Yahoo Style Guide
 
----
 
-[iOS-HIG]:  https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
-
-[OSX-HIG]:  https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
+[1]: ../user-interface-text
+[2]: https://support.wire.com/
+[3]: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+[4]: https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
+[5]: https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
+[6]: https://help.apple.com/asg/mac/2013/
