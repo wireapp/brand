@@ -6,10 +6,6 @@ weight: 2
 
 ## Tone of voice
 
-> Wire is different. It’s obvious the second you see our application in action. This is a brand that’s going to transform the way people communicate.
-
-> Part of that transformation is evident in the way we say what we say. Our communication style underscores our challenger mentality and ensures we deliver a consistent brand experience that’s more compelling, more engaging, and more attractive than other options out there.
-
 Communicating our core brand values - people, craft and evolution - requires a tone of voice that is consistent at every level, yet is still flexible enough to accommodate a variety of audiences.
 
 By speaking with a consistent voice, we ensure a seamless experience wherever people might encounter our brand, whether that’s creating user interface text in the application, an email verifying a new account, or a registration page on the website.
