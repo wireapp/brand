@@ -25,7 +25,7 @@ This principle is especially important when referring to system settings and oth
 
 If you don't have access to a device in the language, check public resources provided by the device manufacturer or software developer to verify the official terms.
 
-For example, to verify terminology for iOS, you might visit [https://support.apple.com/][3] and search for a term such as “location sharing”.
+For example, to verify terminology for iOS, you might visit [support.apple.com][3] and search for a term such as “location sharing”.
 
 Many articles are available in multiple languages, so you can select an article from the search results and switch to a different language to verify the localized language equivalents, for example:
 

@@ -11,7 +11,7 @@ weight: 5
 — Apple _[OS X Human Interface Guidelines][1]_
 
 
-## UI copy
+### UI copy
 
 Text appears in the user interface _(or “UI”)_ in button names, menu labels, application settings, and dialogs as well as the “microcopy” in notification banners, headings and small print, navigation, feedback and error messages.
 
@@ -26,7 +26,7 @@ The sections below provide resources for each platform we support.
 - [Android](#android)
 - [Glossary of Wire terms](#glossary-of-wire-terms)
 
-## Desktop
+### Desktop
 
 When writing for the Mac desktop user interface, use the conventions that Apple has established in the [OS X Human Interface Guidelines][1].
 
@@ -40,18 +40,18 @@ The following sections are particularly useful:
 
 However, since _OS X El Capitan_ (Version 10.11) is still the current version, we’ll stick with the “OS X” terminology until the new version ships this fall. Once _macOS Sierra_ is released, we’ll change all occurrences to reflect the official name of the new “macOS”.
 
-## iOS
+### iOS
 
 When writing for iOS, refer to the [iOS Human Interface Guidelines][5], especially:
 
 * [Terminology and Wording][6]
 * [UI Elements][7]
 
-## Android
+### Android
 
 For guidance on writing conventions for Android, see [Android Writing Style][8].
 
-## Glossary of Wire terms
+### Glossary of Wire terms
 
 See the [draft Glossary on GitHub][9].
 
