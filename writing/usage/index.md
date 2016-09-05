@@ -46,7 +46,7 @@ When referring to icons that appear in the user interface, use the name of the a
 
 > “To end the call, tap the Close × icon in the upper left corner of the conversation.”
 
-For an overview of our UI icons, see [User Interface Icon Names](https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true).
+For an overview of our UI icons, see [User Interface Icon Names][1].
 
 ### Preferred spelling variants
 * Internet _(capitalized per Apple style guide — see note below)_
@@ -72,13 +72,20 @@ Since people can _(and will)_ interact with Wire across a variety of devices, wi
 
 Where the platform context is clear, use the verbs specific to the platform, such as “click”, “tap”, or “touch”.
 
-For more information, see the [Touch Gesture Reference Guide](http://www.lukew.com/ff/entry.asp?1071).
+For more information, see the [Touch Gesture Reference Guide][2].
 
 ### URLs
 Write URLs beginning with the **wire.com** domain, and without the trailing slash — _most modern browsers will add this automatically if necessary_.
 
-For example, write _wire.com/privacy_, instead of:
+Whenever possible, URLs should be active links. Do not include `www`, `http://` or other protocol information in the link text.
+
+For example, write [wire.com/privacy][3], instead of:
 
 * wire.com/privacy**/**
 * ~~www.~~wire.com/privacy
 * ~~http://www.~~wire.com/privacy
+
+
+[1]: https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true
+[2]: http://www.lukew.com/ff/entry.asp?1071
+[3]: https://wire.com/privacy/
