@@ -29,8 +29,6 @@ People _“create an account”_ with Wire — they no longer “join”, “reg
 
 They can then “log in” _(two words)_ to their account — _no longer “sign in”_.
 
-**NOTE:** This terminology was changed in December 2015, one year after launch.
-
 People can “log out” of the application and reset their password by selecting options from the … menu in their “Profile”.
 
 ### Calls to action
