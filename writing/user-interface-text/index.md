@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: User interface text
-weight: 4
+weight: 5
 ---
 
 > In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
