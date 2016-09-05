@@ -6,6 +6,17 @@ weight: 1
 
 ## Style guidelines
 
+Grammar, spelling, and mechanics aspects of Wire editorial style.
+
+- [Abbreviations](#abbreviations)
+- [Articles](#articles)
+- [Capitalization](#capitalization)
+- [Numbers](#numbers)
+- [Politeness](#politeness)
+- [Punctuation](#punctuation)
+- [Word choice](#word-choice)
+- [Reference resources](#reference-resources)
+
 ## Abbreviations
 
 Avoid abbreviations where possible. Use “for example” or “such as” instead of “e.g.” or “that is” instead of “i.e.”. – or, better yet – edit copy to avoid these constructs entirely.

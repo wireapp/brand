@@ -6,9 +6,19 @@ weight: 4
 
 ## Common usage issues
 
-_(This section provides examples of preferred phrasing & additional explanations for copy issues we find ourselves correcting repeatedly.)_
+This section provides examples of preferred phrasing & additional explanations for copy issues we find ourselves correcting repeatedly.
 
-**For example:** _“in Wire” or “on Wire”?_
+- [“In Wire” or “on Wire”?](#inon-wire)
+- [Account references](#account-references)
+- [Calls to action](#calls-to-action)
+- [Dates and times](#dates-and-times)
+- [Icon references](#icon-references)
+- [Preferred spelling variants](#preferred-spelling-variants)
+- [Security references](#security-references)
+- [Select/choose vs. click/tap/touch](#selectchoose-vs-clicktaptouch)
+- [URLs](#urls)
+
+### In/on Wire
 
 We say “in Wire” to mean “in the app”, but “on” is more appropriate when we mean the platform as a whole: “let’s connect on Wire” and “look at the conversation in Wire”.
 
