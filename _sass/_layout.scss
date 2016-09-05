@@ -1,7 +1,7 @@
 // Layout
 
 main {
-  width: 840px;
+  width: $site-width;
   display: flex;
   align-items: stretch;
   margin: 0 auto;
@@ -18,7 +18,7 @@ main article { margin: 0; }
 // ———————————————— Header ———————————————— //
 
 header {
-  max-width: 840px;
+  max-width: $site-width;
   height: 96px;
   border-bottom: 1px solid $graphite-light80;
   display: flex;
@@ -43,7 +43,7 @@ header {
 // ———————————————— Navigation ———————————————— //
 
 .nav {
-	max-width: 840px;
+	max-width: $site-width;
 	height: 64px;
 	display: flex;
 	align-items: center;
@@ -83,7 +83,7 @@ header {
 // ———————————————— Footer ———————————————— //
 
 footer {
-	max-width: 840px;
+	max-width: $site-width;
   height: 160px;
   padding-top: 48px;
   text-align: center;
