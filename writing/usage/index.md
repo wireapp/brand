@@ -60,10 +60,10 @@ For an overview of our UI icons, see [User Interface Icon Names][1].
 
 The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
 
-**NOTE:** In June 2016, the Associated Press and many mainstream newspapers announced they would no longer capitalize “Internet”. Since Apple still uses the capitalized form in iOS and OS X, Wire does the same in UI copy to ensure our app remains consistent with the spelling used in the operating systems.
+**NOTE:** In June 2016, the Associated Press and many mainstream newspapers announced they would no longer capitalize “Internet”. Since Apple still uses the capitalized form in iOS and OS X, Wire does the same in [UI copy][2] to ensure our app remains consistent with the spelling used in the operating systems.
 
 ### Security references
-We intentionally leave some elements of our UI copy abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details).
+We intentionally leave some elements of our [UI copy][2] abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details).
 
 A good example is the UI error message that tells people they have entered the “wrong address or password”. We may know exactly what’s wrong, but we leave our message vague to stop people from trying to find out if a user account exists.
 
@@ -72,14 +72,14 @@ Since people can _(and will)_ interact with Wire across a variety of devices, wi
 
 Where the platform context is clear, use the verbs specific to the platform, such as “click”, “tap”, or “touch”.
 
-For more information, see the [Touch Gesture Reference Guide][2].
+For more information, see the [Touch Gesture Reference Guide][3].
 
 ### URLs
 Write URLs beginning with the **wire.com** domain, and without the trailing slash — _most modern browsers will add this automatically if necessary_.
 
 Whenever possible, URLs should be active links. Do not include `www`, `http://` or other protocol information in the link text.
 
-For example, write [wire.com/privacy][3], instead of:
+For example, write [wire.com/privacy][4], instead of:
 
 * wire.com/privacy**/**
 * ~~www.~~wire.com/privacy
@@ -87,5 +87,6 @@ For example, write [wire.com/privacy][3], instead of:
 
 
 [1]: https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true
-[2]: http://www.lukew.com/ff/entry.asp?1071
-[3]: https://wire.com/privacy/
+[2]: ../user-interface-text
+[3]: http://www.lukew.com/ff/entry.asp?1071
+[4]: https://wire.com/privacy/
