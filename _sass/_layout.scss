@@ -47,23 +47,27 @@ header {
 // ———————————————— Navigation ———————————————— //
 
 .nav {
-	max-width: $site-width;
-	height: 64px;
-	display: flex;
-	align-items: center;
-  justify-content: center;
+  max-width: $site-width;
+  height: 64px;
   margin: 32px auto 64px;
   border-bottom: 1px solid $graphite-light80;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
 
   a {
-  	display: flex;
-  	align-items: center;
-  	padding: 0 16px;
-  	height: 64px;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    height: 64px;
+    white-space: nowrap;
     border-bottom: 1px solid rgba(0,0,0,0);
   }
 
-  .active {	border-bottom: 1px solid $blue; }
+  .active { border-bottom: 1px solid $blue; }
 }
 
 .sub {
@@ -87,7 +91,7 @@ header {
 // ———————————————— Footer ———————————————— //
 
 footer {
-	max-width: $site-width;
+  max-width: $site-width;
   height: 160px;
   padding-top: 48px;
   text-align: center;
