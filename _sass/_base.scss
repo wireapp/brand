@@ -10,18 +10,20 @@ html,
 body {
   margin: 0;
   padding: 0;
+  min-height: 100%;
 }
 
 html {
   font-family: $root-font-family;
   font-size: $root-font-size;
   line-height: $root-line-height;
+  position: relative;
 }
 
 body {
   color: $body-color;
   background-color: $body-bg;
-  padding: 0 24px;
+  padding: 0 24px 240px; ;
 }
 
 a {

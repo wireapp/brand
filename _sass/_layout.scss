@@ -107,12 +107,18 @@ header {
 // ———————————————— Footer ———————————————— //
 
 footer {
-  max-width: $site-width;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
   height: 160px;
-  padding-top: 48px;
   text-align: center;
-  border-top: 1px solid $graphite-light80;
-  margin: 160px auto 0;
-  font-size: 12px;
-  font-weight: 600;
+
+  div {
+    max-width: $site-width;
+    border-top: 1px solid $graphite-light80;
+    margin: 0 auto;
+    font-size: 12px;
+    line-height: 160px;
+    font-weight: 600;
+  }
 }
