@@ -103,8 +103,9 @@ In addition to the platform-specific resources described under [UI copy][1], the
 
 For complete punctuation rules and other writing conventions, refer to these style guides:
 
-* The Chicago Manual of Style
-* The Yahoo Style Guide
+* [The Chicago Manual of Style][8]
+* [The Yahoo! Style Guide][9]
+* [AP Stylebook][10]
 
 
 [1]: ../user-interface-text
@@ -114,3 +115,6 @@ For complete punctuation rules and other writing conventions, refer to these sty
 [5]: https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
 [6]: https://developer.android.com/design/style/writing.html
 [7]: https://help.apple.com/asg/mac/2013/
+[8]: http://www.chicagomanualofstyle.org
+[9]: http://styleguide.yahoo.com
+[10]: https://www.apstylebook.com
