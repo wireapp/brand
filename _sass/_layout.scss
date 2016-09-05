@@ -4,12 +4,11 @@ main {
   width: 840px;
   display: flex;
   align-items: stretch;
-  justify-content: space-between;
   margin: 0 auto;
 }
 
 article {
-  width: 560px;
+  max-width: 560px;
   margin: 0 auto;
 }
 
@@ -65,6 +64,7 @@ header {
 
 .sub {
   width: 200px;
+  margin-right: 80px;
 
   a {
     display: block;
