@@ -39,7 +39,11 @@ For long-form documents, we prefer sentence case for headings, as we feel this i
 
 In [UI copy][1], we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][3] and [OS X][4].
 
-As a general rule, menu commands use title case, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text][5].
+As a general rule, menu commands use title case on Apple platforms, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text][5].
+
+This is one area where [Android Writing Style][6] differs:
+
+> Use sentence-style caps for all titles, headings, labels, menu items
 
 ### Numbers
 
@@ -78,7 +82,7 @@ In addition to the platform-specific resources described under [UI copy][1], the
 
 > For guidance on Apple-specific terminology, the writer should refer to the Apple Style Guide. That document covers style and usage issues, and is the key reference for how Apple uses language.
 
-— [Apple Style Guide][6]
+— [Apple Style Guide][7]
 
 For complete punctuation rules and other writing conventions, refer to these style guides:
 
@@ -91,4 +95,5 @@ For complete punctuation rules and other writing conventions, refer to these sty
 [3]: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 [4]: https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
 [5]: https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
-[6]: https://help.apple.com/asg/mac/2013/
+[6]: https://developer.android.com/design/style/writing.html
+[7]: https://help.apple.com/asg/mac/2013/
