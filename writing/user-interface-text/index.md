@@ -4,12 +4,14 @@ title: User interface text
 weight: 5
 ---
 
+## User interface text
+
 > In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
 
 — Apple _[OS X Human Interface Guidelines][1]_
 
 
-## User interface text
+## UI copy
 
 Text appears in the user interface _(or “UI”)_ in button names, menu labels, application settings, and dialogs as well as the “microcopy” in notification banners, headings and small print, navigation, feedback and error messages.
 
