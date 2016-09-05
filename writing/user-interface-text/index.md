@@ -4,15 +4,16 @@ title: User interface text
 weight: 4
 ---
 
+> In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
+
+— Apple _OS X Human Interface Guidelines_
+
+
 ## User interface text
 
 Text appears in the user interface _(or “UI”)_ in button names, menu labels, application settings, dialog messages, and notification banners.
 
 The care we take in crafting every bit of text _(or “microcopy”)_ in the app should reflect the level of detail invested in the overall application design and user experience that sets Wire apart.
-
-> In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
-
-— Apple _OS X Human Interface Guidelines_
 
 Rather than re-invent the wheel or get “creative” in ways that confuse users, we defer to existing platform conventions wherever possible.
 
