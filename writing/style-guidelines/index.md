@@ -14,6 +14,7 @@ Grammar, spelling, and mechanics aspects of Wire editorial style.
 - [Numbers](#numbers)
 - [Politeness](#politeness)
 - [Punctuation](#punctuation)
+- [Typography](#typography)
 - [Word choice](#word-choice)
 - [Reference resources](#reference-resources)
 
@@ -66,12 +67,25 @@ For example, in an initial message in the application, we may ask a user to “E
 
 ### Punctuation
 
-* We do not use periods in most UI strings unless there are two or more sentences. (For example, “Start a conversation”). However, copy on the website should be punctuated correctly.
-* We use the serial comma (for example, “Email, phone number, and address”).
-* Avoid apostrophes, exclamation marks, ampersands, and the “+” symbol in [UI copy][1].
-* Use proper typography for “quotation marks”, em- and en- dashes (–/–), ellipses (…), and other characters wherever possible. (Most UI strings files are now UTF-8 encoded, so typographically correct characters can be used in most cases — there’s no excuse for substituting ASCII text where proper typography is available.)
+For complete punctuation rules, refer to standard [American style guides](#reference-resources).
 
-For complete punctuation rules, we suggest you refer to any good American style guide (_The Chicago Manual of Style_ or _The Yahoo Style Guide_).
+* Do not use periods in UI strings unless there are two or more sentences.  
+  For example: _“Start a conversation”_. However, copy on the website should be punctuated correctly.
+* Use the serial (or “Oxford”) comma in a list of three or more items.  
+  For example: _“Email, phone number, and address”_.
+* Avoid apostrophes, exclamation marks, ampersands, slashes, and the “+” symbol in [UI copy][1] wherever possible. 
+
+### Typography
+
+Most UI strings files are now UTF-8 encoded, so typographically correct characters can be used in most cases — there’s no excuse for substituting ASCII text where proper typography is available.
+
+Use “curly quotes”, em- and en- dashes (–/–), ellipses (…), and other proper typographic characters wherever possible.
+
+* To offset phrases _(like in the sentence above)_, press `⌥ + ⇧ + -` on a Mac to insert the longer em dash (—) and add a space on both sides of the dash.
+
+* To indicate a range of numbers, press `⌥ + -` on a Mac to insert an en dash (–) with no space between the dash and numbers.
+
+* Never use three dots (. . .) when you need an ellipsis. Press `⌥ + ;` on a Mac to insert the proper ellipsis (…) character.
 
 ### Word choice
 
