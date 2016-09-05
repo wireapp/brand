@@ -1,19 +1,19 @@
 // Content
 
 .wide {
-	width: 100vw;
-	position: relative;
-	left: calc(-50vw + 50%);
-	display: flex;
-	align-items: center;
-	justify-content: center;
+  width: 100vw;
+  position: relative;
+  left: calc(-50vw + 50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
-	& img { margin: 56px auto; }
+  & img { margin: 56px auto; }
 }
 
 .links {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
   justify-content: center;
   margin: 0 auto 64px;
   font-size: 12px;
@@ -25,93 +25,98 @@
 // ———————————————— Colors ———————————————— //
 
 .color {
-	height: 240px;
-	font-weight: 600;
-	color: #fff;
+  height: 240px;
+  font-weight: 600;
+  color: #fff;
 }
 
-	.graphite { background: $graphite; margin-top: 56px; }
-	.blue 		{ background: $blue; }
-	.green 		{ background: $green; }
-	.yellow 	{ background: $yellow; }
-	.red 			{ background: $red; }
-	.orange 	{ background: $orange; }
-	.pink 		{ background: $pink; }
-	.purple 	{ background: $purple; margin-bottom: 56px; }
+  .graphite { background: $graphite; margin-top: 56px; }
+  .blue     { background: $blue; }
+  .green     { background: $green; }
+  .yellow   { background: $yellow; }
+  .red       { background: $red; }
+  .orange   { background: $orange; }
+  .pink     { background: $pink; }
+  .purple   { background: $purple; margin-bottom: 56px; }
 
 
-	.values {
-		width: 560px;
-		height: 200px;
-	  margin: 0 auto;
-	  padding: 24px 0;
-	  display: flex;
-		align-items: center;
-		align-content: space-between;
-		justify-content: space-around;
-		flex-wrap: wrap;
+  .values {
+    width: 560px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 24px 0;
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
 
-	  span:nth-child(1) { width: 100% }
-	  span:nth-child(1n+2) { font-size: 12px; width: 25%; text-align:left; }
-	}
+    span:nth-child(1) { width: 100% }
+    span:nth-child(1n+2) { font-size: 12px; width: 25%; text-align:left; }
+
+    @media screen and (max-width: $break) {
+	    width: 100%;
+	  }
+  }
 
 .colorshading {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
   justify-content: center;
 }
 
 .oval {
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
   justify-content: center;
-	background: $orange;
-	width: 96px;
-	height: 96px;
-	border-radius: 50%;
-	margin: 64px 8px;
-	font-weight: 600;
-	color: #fff; 
+  background: $orange;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  margin: 64px 8px;
+  font-weight: 600;
+  color: #fff;
 
-	&:nth-child(1) { background: lighten($orange,32%) }
-	&:nth-child(2) { background: lighten($orange,16%) }
-	&:nth-child(3) { background: lighten($orange,8%) }
+  &:nth-child(1) { background: lighten($orange,32%) }
+  &:nth-child(2) { background: lighten($orange,16%) }
+  &:nth-child(3) { background: lighten($orange,8%) }
 
-	&:nth-child(5) { background: darken($orange,8%) }
-	&:nth-child(6) { background: darken($orange,16%) }
-	&:nth-child(7) { background: darken($orange,32%) }
+  &:nth-child(5) { background: darken($orange,8%) }
+  &:nth-child(6) { background: darken($orange,16%) }
+  &:nth-child(7) { background: darken($orange,32%) }
+
+  @media screen and (max-width: $break) {
+    width: 32px;
+    height: 32px;
+    margin: 48px 2px;
+    font-size: 10px;
+  }
 }
 
-	.zero { 
-		width: 120px;
-		height: 120px;
-	}
+  .zero { 
+    width: 120px;
+    height: 120px;
+    @media screen and (max-width: $break) {
+      width: 48px;
+      height: 48px;
+    }
+  }
 
 
 // ———————————————— Logo ———————————————— //
 
 .rules {
-	column-count: 2;
-	column-gap: 40px;
-	margin: 16px 0 32px;
+  column-count: 2;
+  column-gap: 40px;
+  margin: 16px 0 32px;
+  @media screen and (max-width: $break) {
+    column-count: 1;
+  }
 }
 
 .rules li {
-	list-style-image: url("public/bullet-red.svg");
-	padding: 4px 0;
+  list-style-image: url("public/bullet-red.svg");
+  padding: 4px 0;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-// Logo…
