@@ -1,8 +1,8 @@
 {% capture html %}
 <nav class="nav">
-    {% if include.context == "/" %}
+    <!--{% if include.context == "/" %}
         <a {% if page.url == "/" %}class="active"{% endif %} href="{{ site.baseurl }}/">{{ site.title }}</a>
-    {% endif %}
+    {% endif %}-->
 
     {% assign entries = site.pages | sort: "weight" %}
     {% for entry in entries %}
