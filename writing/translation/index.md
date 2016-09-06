@@ -15,9 +15,9 @@ If you're translating Wire to your native language, make sure to familiarize you
 
 For example, the location sharing feature in Wire uses terms that are related to similar features in mobile operating systems. You can use this to your advantage when deciding how to translate Wire for your language.
 
-In the English version of iOS, a force-touch on the Maps app reveals the **Send My Location** command. In the German version of iOS, the command is translated as **Standort senden**. So for the German version of our location sharing feature, we use the word “Standort” for location, although other options such as “Ort” or “Lage” might seem equally appropriate.
+In the English version of iOS, a force-touch on the Maps app reveals the **Send My Location** command. In the German version of iOS, the command is translated as **Standort senden**. So for the German version of the location sharing feature, Wire uses the word “Standort” for location, although other options such as “Ort” or “Lage” might seem equally appropriate.
 
-Using terms consistently helps to ensure that Wire users enjoy a seamless experience on each device and platform we support.
+Using terms consistently helps to ensure that Wire users enjoy a seamless experience on each supported device and platform.
 
 This principle is especially important when referring to system settings and other operating system dialogs. Make sure to verify your translations with the terms used in the localized version of the operating system.
 
@@ -38,9 +38,9 @@ Many articles are available in multiple languages, so you can select an article 
 
 There's also an initial version of the [German/English glossary][7] that you can use to search for the German equivalents of our English terms.
 
-This file was created from the translation memory for the iOS project, so it still contains many long strings and placeholders, but it should give you a good idea of the current German terminology we use.
+This file was created from the translation memory for the iOS project, so it still contains many long strings and placeholders, but it should give you a good idea of the current German terminology.
 
-We're working on integrating a proper multilingual glossary into our Crowdin localization platform, so translators will have access to annotated terminology suggestions within the translation tool.
+A proper multilingual glossary will eventually be integrated into our Crowdin localization platform, so translators will have access to annotated terminology suggestions within the translation tool.
 
 For a list of multi-touch gesture terms & their German equivalents, see [multi-touch-gestures.csv][8]. These terms are derived from Apple's official German glossary.
 

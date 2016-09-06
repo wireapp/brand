@@ -6,7 +6,7 @@ weight: 4
 
 ## Common usage issues
 
-This section provides examples of preferred phrasing & additional explanations for copy issues we find ourselves correcting repeatedly.
+This section provides examples of preferred phrasing & additional explanations for common copy issues.
 
 - [“In Wire” or “on Wire”?](#inon-wire)
 - [Account references](#account-references)
@@ -20,7 +20,7 @@ This section provides examples of preferred phrasing & additional explanations f
 
 ### In/on Wire
 
-We say “in Wire” to mean “in the app”, but “on” is more appropriate when we mean the platform as a whole: “let’s connect on Wire” and “look at the conversation in Wire”.
+Use “in Wire” to mean “in the app”, but “on” is more appropriate when you mean the platform as a whole: “let’s connect on Wire” and “look at the conversation in Wire”.
 
 Easiest to remember as _**in** the app, **on** the plaform_.
 
@@ -32,10 +32,10 @@ They can then “log in” _(two words)_ to their account — _no longer “sign
 People can “log out” of the application and reset their password by selecting options from the … menu in their “Profile”.
 
 ### Calls to action
-We never ask people to **click here**. Instead we link the key nouns or verbs in the call to action.
+Never ask people to **click here**. Instead, link the key nouns or verbs in the call to action.
 
 ### Dates and times
-Time indications in conversations are automatically updated and we use timestamps that are relative to the moment, supported by a “casual” writing style (for example, “yesterday”).
+Time indications in conversations are automatically updated and the timestamps are relative to the moment, supported by a “casual” writing style (for example, “yesterday”).
 
 Use the following long date format when possible: July 6, 2016.
 
@@ -63,9 +63,9 @@ The default language for Wire copy is U.S. English — so no “u” in “color
 **NOTE:** In June 2016, the Associated Press and many mainstream newspapers announced they would no longer capitalize “Internet”. Since Apple still uses the capitalized form in iOS and OS X, Wire does the same in [UI copy][2] to ensure our app remains consistent with the spelling used in the operating systems.
 
 ### Security references
-We intentionally leave some elements of our [UI copy][2] abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details).
+In some cases, [UI copy][2] is best left abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details).
 
-A good example is the UI error message that tells people they have entered the “wrong address or password”. We may know exactly what’s wrong, but we leave our message vague to stop people from trying to find out if a user account exists.
+A good example is the error message in the UI that tells people they have entered the “wrong address or password”. Even though it’s clear to the backend exactly which is wrong, the message is intentionally vague to stop people from trying to find out if a user account exists.
 
 ### Select/choose vs. click/tap/touch
 Since people can _(and will)_ interact with Wire across a variety of devices, with a variety of input options (touchscreens, mice, keyboards, etc.), use generic verbs like “select” or “choose” if the content applies to all platforms.
