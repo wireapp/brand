@@ -24,21 +24,21 @@ Avoid abbreviations where possible. Use “for example” instead of “e.g.” 
 
 ### Articles
 
-In all [UI copy][1], we avoid articles wherever possible. Articles include “a”, “an”, “the”, etc. In a similar vein, we also avoid demonstrative words such as “this” and “those”.
+Avoid articles in [UI copy][1] whenever possible. Articles include “a”, “an”, “the”, etc. Also avoid demonstrative words such as “this” and “those”.
 
 ### Capitalization
 
-We use all caps for system messages (“UNBLOCK”) in the conversation view and in certain other places as necessary to agree with (Android) platform conventions.
+Use all caps for system messages (“UNBLOCK”) in the conversation view and in certain other places as necessary to agree with (Android) platform conventions.
 
-However, for longer phrases or sentences, we use sentence case: we only capitalize the first word of a phrase or sentence (“You’ve left this conversation”).
+However, for longer phrases or sentences, use sentence case: only capitalize the first word of a phrase or sentence (“You’ve left this conversation”).
 
 Headings on the website, support site, and longer documents should use case consistently _(either sentence case or title case)_ based on context.
 
-For example, CS content at [support.wire.com][2] uses sentence case in the question list, but title case in page headings _(as required by the Zendesk customer service platform)_. Certain channels _(such as press releases)_ may have other conventions to which we respectfully adhere.
+For example, CS content at [support.wire.com][2] uses sentence case in the question list, but title case in page headings _(as required by the Zendesk customer service platform)_. Certain channels _(such as press releases)_ may have other conventions. Respect these wherever possible.
 
-For long-form documents, we prefer sentence case for headings, as we feel this is a better match for our “humble and friendly” voice. Some perceive title case as more formal and a bit too stiff for our tone, so we avoid it in contexts where it’s not required.
+Use sentence case for headings in long-form documents, as this is a better match for our “humble and friendly” voice. Some perceive title case as more formal and a bit too stiff for our tone, so avoid it in contexts where it’s not required.
 
-In [UI copy][1], we capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][3] and [OS X][4].
+In [UI copy][1], capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][3] and [OS X][4].
 
 As a general rule, menu commands use title case on Apple platforms, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text][5].
 
@@ -61,9 +61,9 @@ Treat ordinal numbers the same way: spell out first to ninth, and use numerals f
 
 ### Politeness
 
-We try to sound courteous without being obsequious. While we are not afraid to use “please” or thank you” where applicable, we use these phrases judiciously.
+Be courteous, not obsequious. Use “please” or thank you” where applicable, but use these phrases judiciously.
 
-For example, in an initial message in the application, we may ask a user to “Enter a phone number”. If there’s a mistake and we need to generate a second message, this is the time to say: “Please enter a valid phone number”.
+For example, in an initial message in the app, Wire might ask a user to “Enter a phone number”. If there’s a mistake and a second message is necessary, this is the time to say: “Please enter a valid phone number”.
 
 ### Punctuation
 
