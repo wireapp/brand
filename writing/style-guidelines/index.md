@@ -61,7 +61,7 @@ Treat ordinal numbers the same way: spell out first to ninth, and use numerals f
 
 ### Politeness
 
-Be courteous, not obsequious. Use “please” or thank you” where applicable, but use these phrases judiciously.
+Be courteous, not patronizing or obsequious. Use “please” or thank you” where applicable, but use these phrases judiciously.
 
 For example, in an initial message in the app, Wire might ask a user to “Enter a phone number”. If there’s a mistake and a second message is necessary, this is the time to say: “Please enter a valid phone number”.
 
