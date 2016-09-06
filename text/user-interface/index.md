@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: User interface text
+title: User interface
 weight: 5
 ---
 

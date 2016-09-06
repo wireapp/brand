@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: Usage examples
+title: Sample usage
 weight: 4
 ---
 
