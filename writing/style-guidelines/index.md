@@ -67,13 +67,14 @@ For example, in an initial message in the application, we may ask a user to “E
 
 ### Punctuation
 
-For complete punctuation rules, refer to standard [American style guides](#reference-resources).
+For complete punctuation rules, refer to standard [American style guides](#reference-resources). Consider these key points and exceptions:
 
 * Do not use periods in UI strings unless there are two or more sentences.  
   For example: _“Start a conversation”_. However, copy on the website should be punctuated correctly.
 * Use the serial (or “Oxford”) comma in a list of three or more items.  
-  For example: _“Email, phone number, and address”_.
-* Avoid apostrophes, exclamation marks, ampersands, slashes, and the “+” symbol in [UI copy][1] wherever possible. 
+  For example: _“email, phone number, and address”_.
+* Avoid apostrophes, exclamation marks, ampersands, slashes, and the “+” symbol in [UI copy][1] wherever possible.
+* Use “logical punctuation” for clarity: place the second member of a pair of quotation marks before any other adjacent mark of punctuation, unless the other mark is part of the quote. **Note:** This differs from default American style.
 
 ### Typography
 
