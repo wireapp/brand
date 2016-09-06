@@ -1,6 +1,6 @@
 ---
 layout: multipage
-title: Style guidelines
+title: Writing style
 weight: 1
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: multipage
-title: Writing
+title: Text
 weight: 5
 ---
 
-These guidelines will help you to create clear and consistent content that speaks with a Wire “voice” and follows our writing style.
+These writing guidelines will help you to create clear and consistent content that speaks with a Wire “voice” and follows our style.
 
 <p class="lead">
   Humble and friendly. <br>
