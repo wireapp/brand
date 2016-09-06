@@ -10,7 +10,7 @@ Witty and polite. <br>
 Energetic and fresh. <br>
 Stylish and understated.
 
-That is how we see Wire.
+That’s Wire.
 
 These writing guidelines will help you to create clear and consistent content that speaks like Wire and follows its style.
 
