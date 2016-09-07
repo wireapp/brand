@@ -1,5 +1,9 @@
 {% capture html %}
-<nav class="sub">
+
+<label for="show-menu" class="show-menu">{{ page.title }} ↓</label>
+<input type="checkbox" id="show-menu" role="button">
+
+<nav class="sub" id="menu">
     {% assign entries = site.pages | sort: "weight" %}
     {% for entry in entries %}
 
@@ -13,3 +17,4 @@
     {% endfor %}
 </nav>
 {% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
+
