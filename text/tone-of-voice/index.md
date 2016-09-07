@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Tone of voice
-weight: 2
+weight: 1
 ---
 
 ## Tone of voice

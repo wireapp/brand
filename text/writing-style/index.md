@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Writing style
-weight: 1
+weight: 2
 ---
 
 ## Style guidelines
