@@ -15,6 +15,10 @@
   }
 }
 
+.ascontent {
+  padding: 0 $site-padding;
+}
+
 .showcase {
   display: flex;
   flex-direction: row;
@@ -30,6 +34,11 @@
     align-items: center;
     justify-content: center;
   }
+}
+
+.inline {
+  width: 100%;
+  margin: 48px 0 56px;
 }
 
 .links {
@@ -74,7 +83,7 @@
     flex-wrap: wrap;
 
     @media screen and (max-width: $break) {
-      margin: 0 24px;
+      margin: 0 $site-padding;
     }
 
     span:nth-child(1) { width: 100% }
