@@ -1,8 +1,8 @@
 {% capture html %}
 
 <div class="sub-container">
-  <label for="show-menu" class="show-menu">{{ page.title }} ↓</label>
-  <input type="checkbox" id="show-menu" role="button">
+  <label for="show-subnav" class="show-subnav">{{ page.title }} ↓</label>
+  <input type="checkbox" id="show-subnav" role="button">
 
   <nav class="sub" id="menu">
       {% assign entries = site.pages | sort: "weight" %}

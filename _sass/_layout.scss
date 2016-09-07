@@ -78,10 +78,27 @@ a h1  { color: $graphite-dark; }
   }
 }
 
+.active { border-bottom: 1px solid $blue !important; }
 
-// ———————————————— Sub nav ———————————————— //
+@media screen and (max-width: $break) {
+  .sub-container {
+    margin-bottom: 32px;
+    border-radius: 24px;
+    border: 1px solid $graphite-light;
+  }
+}
 
-.sub-container { margin-bottom: 32px; }
+.show-subnav {
+  display: none;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+
+  @media screen and (max-width: $break) { display: block; }
+}
+
+input[type=checkbox] { display: none; }
+input[type=checkbox]:checked ~ #menu { display: block; }
 
 .sub {
   width: 200px;
@@ -90,8 +107,9 @@ a h1  { color: $graphite-dark; }
   @media screen and (max-width: $break) {
     display: none;
     width: 100%;
-    margin: 0 0 64px;
     text-align: center;
+
+    .active { display: none; }
   }
 
   a {
@@ -101,36 +119,8 @@ a h1  { color: $graphite-dark; }
     border-bottom: 1px solid $graphite-light;
 
     &:last-child { border-bottom: 0; }
-
-    @media screen and (max-width: $break) {
-      background: rgba($graphite, .08);
-      width: 100vw;
-      position: relative;
-      left: calc(-50vw + 50%);
-    }
   }
 }
-
-.active { border-bottom: 1px solid $blue !important; }
-
-.show-menu {
-  display: none;
-  width: 100vw;
-  position: relative;
-  left: calc(-50vw + 50%);
-  height: 48px;
-  line-height: 48px;
-  text-align: center;
-  background: $graphite-light;
-
-  @media screen and (max-width: $break) { display: block; }
-}
-
-input[type=checkbox] {
-  display: none;
-}
-
-input[type=checkbox]:checked ~ #menu { display: block; }
 
 
 // ———————————————— Footer ———————————————— //
