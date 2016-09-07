@@ -15,6 +15,23 @@
   }
 }
 
+.showcase {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: $site-width;
+  margin: 80px 0 40px;
+  border: 1px solid $graphite-light;
+  align-items: center;
+  justify-content: center;
+
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
 .links {
   display: flex;
   align-items: center;
@@ -137,17 +154,6 @@
 
 // ———————————————— Symbol ———————————————— //
 
-.showcase {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  width: $site-width;
-  margin: 80px 0 40px;
-  border: 1px solid $graphite-light;
-  align-items: center;
-  justify-content: center;
-}
-
 .symbol {
   height: 400px;
   svg { 
@@ -155,11 +161,22 @@
     height: 200px }
 }
 
+.symbol-shapes {
+  border: 0;
+
+  div {
+    width: 192px;
+    height: 192px;
+    border: 2px solid $graphite-light;
+    margin: 0 24px 64px;
+
+    &:nth-child(1) { border-radius: 44px; }
+    &:nth-child(2) { border-radius: 50%; }
+  }
+}
+
 .symbol-colors {
   div {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     width: 33.3%;
     height: 200px;
 
@@ -169,32 +186,32 @@
 
     &:nth-child(1) { 
       background: #333;
-      .symbol { fill: #fff; }
+      .w { fill: #fff; }
     }
 
     &:nth-child(2) { 
       background: $yellow;
-      .symbol { fill: #000; }
+      .w { fill: #000; }
     }
 
     &:nth-child(3) { 
       background: #fff;
-      .symbol { fill: $blue; }
+      .w { fill: $blue; }
     }
 
     &:nth-child(4) { 
       background: #fff;
-      .symbol { fill: $graphite-dark; }
+      .w { fill: $graphite-dark; }
     }
 
     &:nth-child(5) { 
       background: $purple;
-      .symbol { fill: #fff; }
+      .w { fill: #fff; }
     }
 
     &:nth-child(6) { 
       background: $graphite-dark;
-      .symbol { fill: $orange; }
+      .w { fill: $orange; }
     }
   }
 }
