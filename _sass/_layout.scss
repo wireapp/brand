@@ -76,7 +76,6 @@ a h1  { color: $graphite-dark; }
       &:last-child { border-bottom: 0; }
     }
   }
-  .active { border-bottom: 1px solid $blue; }
 }
 
 .sub {
@@ -97,10 +96,10 @@ a h1  { color: $graphite-dark; }
 
     &:last-child { border-bottom: 0; }
   }
-
-  .active { border-bottom: 1px solid $blue !important; }
-
 }
+
+.active { border-bottom: 1px solid $blue !important; }
+
 
 
 // ———————————————— Footer ———————————————— //
