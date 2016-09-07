@@ -21,7 +21,7 @@
   flex-wrap: wrap;
   width: $site-width;
   margin: 80px 0 40px;
-  border: 1px solid $graphite-light;
+  outline: 1px solid $graphite-light;
   align-items: center;
   justify-content: center;
 
@@ -162,7 +162,7 @@
 }
 
 .symbol-shapes {
-  border: 0;
+  outline: 0;
 
   div {
     width: 192px;
@@ -177,7 +177,7 @@
 
 .symbol-colors {
   div {
-    width: 33.3%;
+    width: calc(100%/3);;
     height: 200px;
 
     @media screen and (max-width: $break) {
