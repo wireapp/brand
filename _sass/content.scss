@@ -135,3 +135,66 @@
 }
 
 
+// ———————————————— Symbol ———————————————— //
+
+.showcase {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: $site-width;
+  margin: 80px 0;
+  border: 1px solid $graphite-light;
+  align-items: center;
+  justify-content: center;
+}
+
+.symbol {
+  height: 400px;
+  svg { 
+    width: 200px;
+    height: 200px }
+}
+
+.symbol-colors {
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 33.3%;
+    height: 200px;
+
+    @media screen and (max-width: $break) {
+      width: 100%;
+    }
+
+    &:nth-child(1) { 
+      background: #333;
+      .symbol { fill: #fff; }
+    }
+
+    &:nth-child(2) { 
+      background: $yellow;
+      .symbol { fill: #000; }
+    }
+
+    &:nth-child(3) { 
+      background: #fff;
+      .symbol { fill: $blue; }
+    }
+
+    &:nth-child(4) { 
+      background: #fff;
+      .symbol { fill: $graphite-dark; }
+    }
+
+    &:nth-child(5) { 
+      background: $purple;
+      .symbol { fill: #fff; }
+    }
+
+    &:nth-child(6) { 
+      background: $graphite-dark;
+      .symbol { fill: $orange; }
+    }
+  }
+}
