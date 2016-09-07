@@ -148,9 +148,15 @@
 
 .logo {
   height: 400px;
+
   svg {
-    width: 333px;
-    height: 99px;
+    width: 400px;
+    height: 400px;
+
+    @media screen and (max-width: $break) {
+      width: 240px;
+      height: 240px;
+    }
   }
 }
 
@@ -158,6 +164,7 @@
   column-count: 2;
   column-gap: 40px;
   margin: 16px 0 32px;
+
   @media screen and (max-width: $break) {
     column-count: 1;
   }
@@ -204,6 +211,7 @@
 
 .symbol {
   height: 400px;
+  
   svg { 
     width: 200px;
     height: 200px }
