@@ -1,20 +1,22 @@
 {% capture html %}
 
-<label for="show-menu" class="show-menu">{{ page.title }} ↓</label>
-<input type="checkbox" id="show-menu" role="button">
+<div class="sub-container">
+  <label for="show-menu" class="show-menu">{{ page.title }} ↓</label>
+  <input type="checkbox" id="show-menu" role="button">
 
-<nav class="sub" id="menu">
-    {% assign entries = site.pages | sort: "weight" %}
-    {% for entry in entries %}
+  <nav class="sub" id="menu">
+      {% assign entries = site.pages | sort: "weight" %}
+      {% for entry in entries %}
 
-        {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
-        {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
+          {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
+          {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
-        {% if current == include.context %}
-            <a {% if page.url contains entry.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-        {% endif %}
+          {% if current == include.context %}
+              <a {% if page.url contains entry.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+          {% endif %}
 
-    {% endfor %}
-</nav>
+      {% endfor %}
+  </nav>
+</div>
 {% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
 
