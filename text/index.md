@@ -1,7 +1,7 @@
 ---
 layout: multipage
 title: Text
-weight: 5
+weight: 4
 ---
 
 These writing guidelines will help you to create clear and consistent content that speaks with a Wire “voice” and follows our style.
