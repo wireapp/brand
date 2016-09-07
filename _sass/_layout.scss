@@ -49,35 +49,33 @@ a h1  { color: $graphite-dark; }
 
 .nav {
   max-width: $site-width;
-  height: 64px;
   margin: 32px auto 64px;
   box-shadow: inset 0 -1px 0 $graphite-light;
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  -ms-overflow-style: -ms-autohiding-scrollbar;
 
   @media screen and (max-width: $break) {
-    justify-content: inherit;
-    width: 100vw;
-    position: relative;
-    left: calc(-50vw + 50%);
+    flex-direction: column;
+    box-shadow: none;
   }
 
   a {
     display: flex;
     align-items: center;
-    height: 64px;
+    justify-content: center;
+    height: 56px;
     padding: 0 16px;
-    white-space: nowrap;
-  }
-  @media screen and (max-width: $break) {
-    :first-child { margin-left: 24px; }
-    :last-child { margin-right: 24px; }
-    }
 
+    @media screen and (max-width: $break) {
+      width: 100%;
+      height: 48px;
+      padding: 0;
+      border-bottom: 1px solid $graphite-light;
+
+      &:last-child { border-bottom: 0; }
+    }
+  }
   .active { border-bottom: 1px solid $blue; }
 }
 
