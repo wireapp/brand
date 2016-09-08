@@ -72,56 +72,15 @@ li {
   margin-bottom: .5rem;
 }
 
-dt {
-  font-weight: bold;
-}
-
-dd {
-  margin-bottom: .5rem;
-}
-
 hr {
-  position: relative;
-  margin: 1.5rem 0;
+  margin: 2rem 0;
   border: 0;
   border-top: 1px solid $graphite-light;
   border-bottom: 0;
-}
-
-abbr {
-  font-size: 85%;
-  font-weight: bold;
-  color: $graphite-light;
-  text-transform: uppercase;
-
-  &[title] {
-    cursor: help;
-    border-bottom: 1px dotted $graphite-light;
-  }
 }
 
 blockquote {
   padding: 0 0 0 12px;
   margin: 1rem 0 1rem -14px;
   border-left: 2px solid $graphite-light;  
-}
-
-
-// Markdown footnotes
-//
-// See the example content post for an example.
-
-// Footnote number within body text
-a[href^="#fn:"],
-// Back to footnote link
-a[href^="#fnref:"] {
-  display: inline-block;
-  margin-left: .1rem;
-  font-weight: bold;
-}
-
-// List of footnotes
-.footnotes {
-  margin-top: 2rem;
-  font-size: 85%;
 }
