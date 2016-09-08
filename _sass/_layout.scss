@@ -67,6 +67,8 @@ a h1  { color: $graphite-dark; }
     height: 56px;
     padding: 0 16px;
 
+    &.active { border-bottom: 1px solid $blue !important; }
+
     @media screen and (max-width: $break) {
       width: 100%;
       height: 48px;
@@ -78,13 +80,13 @@ a h1  { color: $graphite-dark; }
   }
 }
 
-.active { border-bottom: 1px solid $blue !important; }
+// Subnav
 
 @media screen and (max-width: $break) {
   .sub-container {
     margin-bottom: 32px;
-    border-radius: 24px;
-    border: 1px solid $graphite-light;
+    box-shadow: 0px 0px 0px 1px $graphite-light;
+    border-radius: 4px;
   }
 }
 
@@ -93,6 +95,7 @@ a h1  { color: $graphite-dark; }
   height: 48px;
   line-height: 48px;
   text-align: center;
+  color: $blue;
 
   @media screen and (max-width: $break) { display: block; }
 }
@@ -108,8 +111,13 @@ input[type=checkbox]:checked ~ #menu { display: block; }
     display: none;
     width: 100%;
     text-align: center;
+    margin-top: -48px;
+    background: #fff;
+    position: relative;
 
-    .active { display: none; }
+    .active { 
+      background: $blue;
+      color: #fff; }
   }
 
   a {
@@ -118,7 +126,8 @@ input[type=checkbox]:checked ~ #menu { display: block; }
     line-height: 48px;
     border-bottom: 1px solid $graphite-light;
 
-    &:last-child { border-bottom: 0; }
+    &:first-child { border-radius: 4px 4px 0 0; }
+    &:last-child { border-bottom: 0; border-radius: 0 0 4px 4px; }
   }
 }
 
