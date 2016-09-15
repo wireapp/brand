@@ -109,7 +109,7 @@ For complete punctuation rules and other writing conventions, refer to these sty
 * [AP Stylebook][10]
 
 
-[1]: ../user-interface-text
+[1]: ../user-interface
 [2]: https://support.wire.com/
 [3]: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 [4]: https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
