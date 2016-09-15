@@ -1,0 +1,22 @@
+{% capture html %}
+
+<div class="sub-container">
+  <label for="show-subnav" class="show-subnav">{{ page.title }} ↓</label>
+  <input type="checkbox" id="show-subnav" role="button">
+
+  <nav class="sub" id="menu">
+      {% assign entries = site.pages | sort: "weight" %}
+      {% for entry in entries %}
+
+          {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
+          {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
+
+          {% if current == include.context %}
+              <a {% if page.url contains entry.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+          {% endif %}
+
+      {% endfor %}
+  </nav>
+</div>
+{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
+

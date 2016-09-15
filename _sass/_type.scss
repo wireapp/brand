@@ -1,117 +1,86 @@
 // Typography
-//
-// Headings, body text, lists, and other misc typographic elements.
+
+html, body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  font-weight: 300;
+}
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: 600;
-  line-height: 1.25;
-  color: #313131;
+  margin-bottom: 0;
+  line-height: 1.5;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
   font-size: 2rem;
+  font-weight: 300;
+  text-align: center;
+  padding: 32px 16px;
 }
 
 h2 {
-  margin-top: 1rem;
+  margin-top: 2rem;
   font-size: 1.5rem;
+  font-weight: 600;
+
+  &:first-child { margin-top: 0; }
 }
 
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  font-weight: 300;
 }
 
-h4, h5, h6 {
-  margin-top: 1rem;
+h4 {
+  margin-top: 2rem;
   font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
 }
+
+strong, b { font-weight: 600; }
 
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-}
 
-strong {
-  color: #303030;
+  &.lead {
+    font-size: 2rem;
+    font-weight: 300;
+    color: $graphite;
+  }
+
+  &.dark { color: $graphite-dark; }
+
+  &.error {
+    margin: 160px 0 80px;
+    text-align: center;
+  }
 }
 
 ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem;
+  padding: 0;
 }
 
-dt {
-  font-weight: bold;
-}
-
-dd {
+li {
+  list-style-image: url('data:image/svg+xml;utf8,<svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg"><circle cx="5" cy="5" r="2" fill="#8D989F" fill-rule="evenodd"/></svg>');
   margin-bottom: .5rem;
 }
 
 hr {
-  position: relative;
-  margin: 1.5rem 0;
+  margin: 2rem 0;
   border: 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
-}
-
-abbr {
-  font-size: 85%;
-  font-weight: bold;
-  color: #555;
-  text-transform: uppercase;
-
-  &[title] {
-    cursor: help;
-    border-bottom: 1px dotted #e5e5e5;
-  }
+  border-top: 1px solid $graphite-light;
+  border-bottom: 0;
 }
 
 blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
-}
-
-
-// Markdown footnotes
-//
-// See the example content post for an example.
-
-// Footnote number within body text
-a[href^="#fn:"],
-// Back to footnote link
-a[href^="#fnref:"] {
-  display: inline-block;
-  margin-left: .1rem;
-  font-weight: bold;
-}
-
-// List of footnotes
-.footnotes {
-  margin-top: 2rem;
-  font-size: 85%;
-}
-
-// Custom type
-//
-// Extend paragraphs with `.lead` for larger introductory text.
-
-.lead {
-  font-size: 1.25rem;
-  font-weight: 300;
+  padding: 0 0 0 12px;
+  margin: 1rem 0 1rem -14px;
+  border-left: 2px solid $graphite-light;  
 }

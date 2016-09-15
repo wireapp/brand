@@ -1,8 +1,7 @@
 # Setup
-title:   Wire Brand
-tagline: Brand assets & styleguide
-# url:   http://brand.wire.com
-baseurl: "https://wearezeta.github.io/brand/"
+title: Brand Elements
+url: https://wearezeta.github.io/brand/
+baseurl: "/brand"
 
 highlighter: rouge
 markdown: kramdown

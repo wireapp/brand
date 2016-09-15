@@ -8,10 +8,14 @@
 
   {% include navigation.html context="/" %}
 
-  <article>
-    {{ content }}
-  </article>
-  
+  <main>
+    {% include subnavigation.html context="/text/" %}
+
+    <article>
+      {{ content }}
+    </article>
+  </main>
+
   {% include footer.html %}
 </body>
 </html>
