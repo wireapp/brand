@@ -107,6 +107,8 @@ input[type=checkbox]:checked ~ #menu { display: block; }
   width: 200px;
   margin-right: 80px;
 
+  .active { border-bottom: 1px solid $blue !important; }
+
   @media screen and (max-width: $break) {
     display: none;
     width: 100%;
