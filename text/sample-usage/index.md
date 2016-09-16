@@ -87,6 +87,6 @@ For example, write [wire.com/privacy][4], instead of:
 
 
 [1]: https://github.com/wearezeta/copywriting/blob/master/UI%20copy%20clients/Zeta%20font/preview_icon_names.pdf?raw=true
-[2]: ../user-interface-text
+[2]: ../user-interface
 [3]: http://www.lukew.com/ff/entry.asp?1071
 [4]: https://wire.com/privacy/
