@@ -43,18 +43,18 @@ All copy scheduled for publication after the official release of _macOS Sierra_ 
 
 When writing for iOS, refer to the [iOS Human Interface Guidelines][5], especially:
 
-* [Terminology and Wording][6]
-* [UI Elements][7]
+* [Terminology][6]
+* [UI Controls][7]
 
 ### Android
 
 For guidance on writing conventions for Android, see [Android Writing Style][8].
 
-[1]:	https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
-[2]:	https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html
-[3]:	https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html
-[4]:	https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
-[5]:	https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
-[6]:	https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/FeedbackCommunication.html
-[7]:	https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html
+[1]:	https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/
+[2]:	https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html
+[3]:	https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html
+[4]:	https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
+[5]:	https://developer.apple.com/ios/human-interface-guidelines/
+[6]:	https://developer.apple.com/ios/human-interface-guidelines/interaction/terminology/
+[7]:	https://developer.apple.com/ios/human-interface-guidelines/ui-controls/
 [8]:	https://developer.android.com/design/style/writing.html

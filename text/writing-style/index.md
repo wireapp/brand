@@ -111,9 +111,9 @@ For complete punctuation rules and other writing conventions, refer to these sty
 
 [1]: ../user-interface
 [2]: https://support.wire.com/
-[3]: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
-[4]: https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
-[5]: https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
+[3]: https://developer.apple.com/ios/human-interface-guidelines/
+[4]: https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/
+[5]: https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
 [6]: https://developer.android.com/design/style/writing.html
 [7]: https://help.apple.com/asg/mac/2013/
 [8]: http://www.chicagomanualofstyle.org
