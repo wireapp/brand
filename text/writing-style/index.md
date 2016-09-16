@@ -38,7 +38,7 @@ For example, CS content at [support.wire.com][2] uses sentence case in the quest
 
 Use sentence case for headings in long-form documents, as this is a better match for our “humble and friendly” voice. Some perceive title case as more formal and a bit too stiff for our tone, so avoid it in contexts where it’s not required.
 
-In [UI copy][1], capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][3] and [OS X][4].
+In [UI copy][1], capitalize according to the platform conventions, such as Apple’s conventions from the _Human Interface Guidelines_ for [iOS][3] and [macOS][4].
 
 As a general rule, menu commands use title case on Apple platforms, but checkboxes and radio buttons use sentence case. See [Use the Right Capitalization Style in Labels and Text][5].
 

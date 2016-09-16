@@ -8,7 +8,7 @@ weight: 5
 
 > In the same way that it’s best to work with a professional graphical designer on the icons and images in your app, it’s best to work with a professional writer on your app’s user-visible text. A skilled writer can help you develop a style of expression that reflects your app’s design, and can apply that style consistently throughout your app.
 
-— Apple _[OS X Human Interface Guidelines][1]_
+— Apple _[macOS Human Interface Guidelines][1]_
 
 
 ### UI copy
@@ -27,7 +27,7 @@ The sections below provide resources for each platform we support.
 
 ### Desktop
 
-When writing for the Mac desktop user interface, use the conventions that Apple has established in the [OS X Human Interface Guidelines][1].
+When writing for the Mac desktop user interface, use the conventions that Apple has established in the [macOS Human Interface Guidelines][1].
 
 The following sections are particularly useful:
 
@@ -35,9 +35,9 @@ The following sections are particularly useful:
 * [Terminology and Wording][3]
 * [Use the Right Capitalization Style in Labels and Text][4]
 
-**NOTE:** In June, Apple announced that their desktop operating system will be renamed from “OS X” to “macOS” with Version 10.12 (Sierra).
+**NOTE:** Apple recently renamed their desktop operating system from “OS X” to “macOS” beginning with Version 10.12 (Sierra).
 
-However, since _OS X El Capitan_ (Version 10.11) is still the current version, we’ll stick with the “OS X” terminology until the new version ships this fall. Once _macOS Sierra_ is released, we’ll change all occurrences to reflect the official name of the new “macOS”.
+All copy scheduled for publication after the official release of _macOS Sierra_ on September 20, 2016 should be updated to use the new **macOS** name.
 
 ### iOS
 
