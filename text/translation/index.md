@@ -34,18 +34,6 @@ Many articles are available in multiple languages, so you can select an article 
 * [https://support.apple.com/kb/PH19426?viewlocale=de\_DE][6]
 * [https://support.apple.com/kb/PH19426?viewlocale=sv\_SE][7]
 
-
-### German terminology
-
-There's also an initial version of the [German/English glossary][8] that you can use to search for the German equivalents of our English terms.
-
-This file was created from the translation memory for the iOS project, so it still contains many long strings and placeholders, but it should give you a good idea of the current German terminology.
-
-A proper multilingual glossary will eventually be integrated into our Crowdin localization platform, so translators will have access to annotated terminology suggestions within the translation tool.
-
-For a list of multi-touch gesture terms & their German equivalents, see [multi-touch-gestures.csv][9]. These terms are derived from Apple's official German glossary.
-
-
 [1]: https://crowdin.com/project/wire-ios
 [2]: https://crowdin.com/project/wire-android
 [3]: https://crowdin.com/project/wire-cs
@@ -53,5 +41,3 @@ For a list of multi-touch gesture terms & their German equivalents, see [multi-t
 [5]: https://support.apple.com/kb/PH19426?viewlocale=en_US
 [6]: https://support.apple.com/kb/PH19426?viewlocale=de_DE
 [7]: https://support.apple.com/kb/PH19426?viewlocale=sv_SE
-[8]: https://github.com/wearezeta/copywriting/blob/master/Glossary/Wire-iOS_EN-DE.csv
-[9]: https://github.com/wearezeta/copywriting/blob/master/Glossary/multi-touch-gestures.csv

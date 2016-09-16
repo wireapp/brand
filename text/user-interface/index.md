@@ -24,7 +24,6 @@ The sections below provide resources for each platform we support.
 - [Desktop](#desktop)
 - [iOS](#ios)
 - [Android](#android)
-- [Glossary of Wire terms](#glossary-of-wire-terms)
 
 ### Desktop
 
@@ -51,12 +50,6 @@ When writing for iOS, refer to the [iOS Human Interface Guidelines][5], especial
 
 For guidance on writing conventions for Android, see [Android Writing Style][8].
 
-### Glossary of Wire terms
-
-See the [draft Glossary on GitHub][9].
-
-Feel free to suggest new terms if there’s something missing there.
-
 [1]:	https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/
 [2]:	https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html
 [3]:	https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html
@@ -65,4 +58,3 @@ Feel free to suggest new terms if there’s something missing there.
 [6]:	https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/FeedbackCommunication.html
 [7]:	https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Bars.html
 [8]:	https://developer.android.com/design/style/writing.html
-[9]:	https://github.com/wearezeta/copywriting/blob/master/Glossary/zeta-glossary.csv
