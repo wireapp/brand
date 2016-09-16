@@ -52,6 +52,7 @@
   a { margin: 0 8px; }
 }
 
+
 // ———————————————— Colors ———————————————— //
 
 .color {
@@ -223,7 +224,7 @@
   div {
     width: 192px;
     height: 192px;
-    border: 1px solid $graphite-light;
+    border: 1px solid rgba($graphite, .32);;
     margin: 0 24px 64px;
 
     &:nth-child(1) { border-radius: 44px; }
