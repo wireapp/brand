@@ -1,7 +1,7 @@
 # Setup
 title: Brand Elements
-url: http;//brand.wire.com
-baseurl: "/"
+url: http://brand.wire.com/
+baseurl: ""
 
 highlighter: rouge
 markdown: kramdown
