@@ -1,7 +1,7 @@
 # Setup
 title: Brand Elements
-url: https://wearezeta.github.io/brand/
-baseurl: "/brand"
+url: http;//brand.wire.com
+baseurl: "/"
 
 highlighter: rouge
 markdown: kramdown
