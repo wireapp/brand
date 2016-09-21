@@ -134,8 +134,10 @@ input[type=checkbox]:checked ~ #menu { display: block; }
     line-height: 48px;
     border-bottom: 1px solid $gray-l24;
 
-    &:first-child { border-radius: 4px 4px 0 0; }
-    &:last-child { border-bottom: 0; border-radius: 0 0 4px 4px; }
+    @media screen and (max-width: $break) {
+      &:first-child { border-radius: 4px 4px 0 0; }
+      &:last-child { border-bottom: 0; border-radius: 0 0 4px 4px; }
+    }
   }
 }
 
