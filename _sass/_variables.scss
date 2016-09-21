@@ -3,7 +3,7 @@ $root-font-size: 16px;
 $root-line-height: 1.5;
 
 
-$graphite:       #8d989f;
+$gray:           #bac8d1;
 $blue:           #2391d3;
 $green:          #00c800;
 $yellow:         #febf02;
@@ -17,14 +17,15 @@ $purple:         #9c00fe;
   @return mix(black, $color, $percent);
 }
 
-$graphite-dark:  shade($graphite, 64%);
-$graphite-light: rgba($graphite, .16);
+$gray-d24: shade($gray, 24%);
+$gray-d72: shade($gray, 72%);
+$gray-l24: rgba($gray, .24);
 
 
-$body-color:     $graphite-dark;
+$body-color:     $gray-d72;
 $body-bg:        #fff;
 $link-color:     $blue;
-$border-color:   $graphite-light;
+$border-color:   $gray-l24;
 
 
 $break: 550px;

@@ -29,7 +29,7 @@ main article { margin: 0; }
 header {
   max-width: $site-width;
   height: 96px;
-  border-bottom: 1px solid $graphite-light;
+  border-bottom: 1px solid $gray-l24;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,7 +38,7 @@ header {
   a {
     font-size: 12px;
     font-weight: 600;
-    color: $graphite-dark;
+    color: $gray-d72;
 
     &:hover { color: #000; }
   }
@@ -47,7 +47,7 @@ header {
   a:last-child { margin-left: auto; } 
 }
 
-a h1  { color: $graphite-dark; }
+a h1  { color: $gray-d72; }
 
 
 // ———————————————— Nav ———————————————— //
@@ -55,7 +55,7 @@ a h1  { color: $graphite-dark; }
 .nav {
   max-width: $site-width;
   margin: 32px auto 64px;
-  box-shadow: inset 0 -1px 0 $graphite-light;
+  box-shadow: inset 0 -1px 0 $gray-l24;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -78,7 +78,7 @@ a h1  { color: $graphite-dark; }
       width: 100%;
       height: 48px;
       padding: 0;
-      border-bottom: 1px solid $graphite-light;
+      border-bottom: 1px solid $gray-l24;
 
       &:last-child { border-bottom: 0; }
     }
@@ -90,7 +90,7 @@ a h1  { color: $graphite-dark; }
 @media screen and (max-width: $break) {
   .sub-container {
     margin-bottom: 32px;
-    box-shadow: 0px 0px 0px 1px $graphite-light;
+    box-shadow: 0px 0px 0px 1px $gray-l24;
     border-radius: 4px;
   }
 }
@@ -131,7 +131,7 @@ input[type=checkbox]:checked ~ #menu { display: block; }
     display: block;
     height: 48px;
     line-height: 48px;
-    border-bottom: 1px solid $graphite-light;
+    border-bottom: 1px solid $gray-l24;
 
     &:first-child { border-radius: 4px 4px 0 0; }
     &:last-child { border-bottom: 0; border-radius: 0 0 4px 4px; }
@@ -151,7 +151,7 @@ footer {
     max-width: $site-width;
     height: $footer-height;
     line-height: $footer-height;
-    border-top: 1px solid $graphite-light;
+    border-top: 1px solid $gray-l24;
     margin: 0 auto;
     font-size: 12px;
     font-weight: 600;

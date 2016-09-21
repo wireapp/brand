@@ -51,10 +51,10 @@ p {
   &.lead {
     font-size: 2rem;
     font-weight: 300;
-    color: $graphite;
+    color: $gray-d24;
   }
 
-  &.dark { color: $graphite-dark; }
+  &.dark { color: $gray-d72; }
 
   &.error {
     margin: 160px 0 80px;
@@ -75,12 +75,12 @@ li {
 hr {
   margin: 2rem 0;
   border: 0;
-  border-top: 1px solid $graphite-light;
+  border-top: 1px solid $gray-l24;
   border-bottom: 0;
 }
 
 blockquote {
   padding: 0 0 0 12px;
   margin: 1rem 0 1rem -14px;
-  border-left: 2px solid $graphite-light;  
+  border-left: 2px solid $gray-l24;  
 }
