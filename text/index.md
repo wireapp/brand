@@ -4,14 +4,12 @@ title: Text
 weight: 4
 ---
 
-<p>The Wire writing guidelines will help you to create clear and consistent content that speaks with a Wire voice and follows our style.</p>
+The Wire writing guidelines will help you to create clear and consistent content that speaks with a Wire voice and follows our style.
 
-<p>
-  Humble and friendly.<br>
-  Curious and passionate.<br>
-  Witty and polite.<br>
-  Energetic and fresh.<br>
-  Stylish and understated.
-</p>
+Humble and friendly.  
+Curious and passionate.  
+Witty and polite.  
+Energetic and fresh.  
+Stylish and understated.
 
-<p>That’s Wire.</p>
+That’s Wire.
