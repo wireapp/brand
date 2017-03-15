@@ -22,7 +22,7 @@ This section provides examples of preferred phrasing & additional explanations f
 
 Use “in Wire” to mean “in the app”, but “on” is more appropriate when you mean the platform as a whole: “let’s connect on Wire” and “look at the conversation in Wire”.
 
-Easiest to remember as _**in** the app, **on** the plaform_.
+Easiest to remember as _**in** the app, **on** the platform_.
 
 ### Account references
 People _“create an account”_ with Wire — they no longer “join”, “register”, or “sign up”.
