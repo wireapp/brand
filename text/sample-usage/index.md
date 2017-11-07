@@ -60,6 +60,10 @@ The default language for Wire copy is U.S. English — so no “u” in “color
 
 **NOTE:** In June 2016, the Associated Press and many mainstream newspapers announced they would no longer capitalize “Internet”. Since Apple still uses the capitalized form in iOS and macOS, Wire does the same in [UI copy][1] to ensure our app remains consistent with the spelling used in the operating systems.
 
+### Remove vs. delete
+
+It’s OK to “delete” content, but not people. Whenever the context involves humans (like when revoking access to a conversation or team) use ”remove”.
+
 ### Security references
 In some cases, [UI copy][1] is best left abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details).
 
