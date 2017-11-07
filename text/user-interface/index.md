@@ -21,9 +21,13 @@ Rather than re-invent the wheel or get “creative” in ways that confuse users
 
 The sections below provide resources for each platform we support.
 
+<!-- MarkdownTOC autolink="true" bracket="round" depth="3" -->
+
 - [Desktop](#desktop)
 - [iOS](#ios)
 - [Android](#android)
+
+<!-- /MarkdownTOC -->
 
 ### Desktop
 

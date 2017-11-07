@@ -8,15 +8,20 @@ weight: 4
 
 This section provides examples of preferred phrasing & additional explanations for common copy issues.
 
-- [“In Wire” or “on Wire”?](#inon-wire)
+<!-- MarkdownTOC autolink="true" bracket="round" depth="3" -->
+
+- [In/on Wire](#inon-wire)
 - [Account references](#account-references)
 - [Calls to action](#calls-to-action)
 - [Dates and times](#dates-and-times)
 - [Icon references](#icon-references)
 - [Preferred spelling variants](#preferred-spelling-variants)
+- [Remove vs. delete](#remove-vs-delete)
 - [Security references](#security-references)
 - [Select/choose vs. click/tap/touch](#selectchoose-vs-clicktaptouch)
 - [URLs](#urls)
+
+<!-- /MarkdownTOC -->
 
 ### In/on Wire
 
