@@ -23,9 +23,9 @@ The sections below provide resources for each platform we support.
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="3" -->
 
-- [Desktop](#desktop)
-- [iOS](#ios)
-- [Android](#android)
+* [Desktop](#desktop)
+* [iOS](#ios)
+* [Android](#android)
 
 <!-- /MarkdownTOC -->
 
@@ -35,9 +35,10 @@ When writing for the Mac desktop user interface, use the conventions that Apple 
 
 The following sections are particularly useful:
 
-* [Naming Menus and Items][2]
-* [Terminology and Wording][3]
-* [Use the Right Capitalization Style in Labels and Text][4]
+* [Alerts][2]
+* [Labels][3]
+* [Menus][4]
+* [Requesting Permission][5]
 
 **NOTE:** Apple recently renamed their desktop operating system from “OS X” to “macOS” beginning with Version 10.12 (Sierra).
 
@@ -45,20 +46,21 @@ All copy scheduled for publication after the official release of _macOS Sierra_ 
 
 ### iOS
 
-When writing for iOS, refer to the [iOS Human Interface Guidelines][5], especially:
+When writing for iOS, refer to the [iOS Human Interface Guidelines][6], especially:
 
-* [Terminology][6]
-* [UI Controls][7]
+* [Terminology][7]
+* [UI Controls][8]
 
 ### Android
 
-For guidance on writing conventions for Android, see [Android Writing Style][8].
+For guidance on writing conventions for Android, see [Android Writing Style][9].
 
-[1]:	https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/
-[2]:	https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/MenuNaming.html
-[3]:	https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html
-[4]:	https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
-[5]:	https://developer.apple.com/ios/human-interface-guidelines/
-[6]:	https://developer.apple.com/ios/human-interface-guidelines/interaction/terminology/
-[7]:	https://developer.apple.com/ios/human-interface-guidelines/ui-controls/
-[8]:	https://developer.android.com/design/style/writing.html
+[1]: https://developer.apple.com/macos/human-interface-guidelines/
+[2]: https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/alerts/
+[3]: https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/labels/
+[4]: https://developer.apple.com/macos/human-interface-guidelines/menus/
+[5]: https://developer.apple.com/macos/human-interface-guidelines/user-interaction/requesting-permission/
+[6]: https://developer.apple.com/ios/human-interface-guidelines/
+[7]: https://developer.apple.com/ios/human-interface-guidelines/visual-design/terminology/
+[8]: https://developer.apple.com/ios/human-interface-guidelines/controls/buttons/
+[9]: https://developer.android.com/design/style/writing.html
