@@ -12,6 +12,7 @@ This section provides examples of preferred phrasing & additional explanations f
 
 * [In/on Wire](#inon-wire)
 * [Account references](#account-references)
+* [Annual vs. yearly](#annual-vs-yearly)
 * [Calls to action](#calls-to-action)
 * [Dates and times](#dates-and-times)
 * [Icon references](#icon-references)
@@ -36,6 +37,10 @@ People _“create an account”_ with Wire — they no longer “join”, “reg
 They can then “log in” _(two words)_ to their account — _no longer “sign in”_.
 
 People can “log out” of the application and reset their password by selecting options from the … menu in their “Profile”.
+
+### Annual vs. yearly
+
+In billing communications for Wire teams, use ”annual subscription”, not ”yearly”.
 
 ### Calls to action
 Never ask people to **click here**. Instead, link the key nouns or verbs in the call to action.
