@@ -10,16 +10,17 @@ This section provides examples of preferred phrasing & additional explanations f
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="3" -->
 
-- [In/on Wire](#inon-wire)
-- [Account references](#account-references)
-- [Calls to action](#calls-to-action)
-- [Dates and times](#dates-and-times)
-- [Icon references](#icon-references)
-- [Preferred spelling variants](#preferred-spelling-variants)
-- [Remove vs. delete](#remove-vs-delete)
-- [Security references](#security-references)
-- [Select/choose vs. click/tap/touch](#selectchoose-vs-clicktaptouch)
-- [URLs](#urls)
+* [In/on Wire](#inon-wire)
+* [Account references](#account-references)
+* [Calls to action](#calls-to-action)
+* [Dates and times](#dates-and-times)
+* [Icon references](#icon-references)
+* [Preferred spelling variants](#preferred-spelling-variants)
+* [Remove vs. delete](#remove-vs-delete)
+* [Security references](#security-references)
+* [Select/choose vs. click/tap/touch](#selectchoose-vs-clicktaptouch)
+* [Subscription vs. plan](#subscription-vs-plan)
+* [URLs](#urls)
 
 <!-- /MarkdownTOC -->
 
@@ -80,6 +81,10 @@ Since people can _(and will)_ interact with Wire across a variety of devices, wi
 Where the platform context is clear, use the verbs specific to the platform, such as “click”, “tap”, or “touch”.
 
 For more information, see the [Touch Gesture Reference Guide][2].
+
+### Subscription vs. plan
+
+In billing communications for Wire teams, use monthly or annual ”subscription”, not ”plan”.
 
 ### URLs
 Write URLs beginning with the **wire.com** domain, and without the trailing slash — _most modern browsers will add this automatically if necessary_.
