@@ -10,12 +10,12 @@ This section provides examples of preferred phrasing & additional explanations f
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="3" -->
 
-* [In/on Wire](#inon-wire)
 * [Account references](#account-references)
 * [Annual vs. yearly](#annual-vs-yearly)
 * [Calls to action](#calls-to-action)
 * [Dates and times](#dates-and-times)
 * [Icon references](#icon-references)
+* [In/on Wire](#inon-wire)
 * [Preferred spelling variants](#preferred-spelling-variants)
 * [Remove vs. delete](#remove-vs-delete)
 * [Security references](#security-references)
@@ -24,12 +24,6 @@ This section provides examples of preferred phrasing & additional explanations f
 * [URLs](#urls)
 
 <!-- /MarkdownTOC -->
-
-### In/on Wire
-
-Use “in Wire” to mean “in the app”, but “on” is more appropriate when you mean the platform as a whole: “let’s connect on Wire” and “look at the conversation in Wire”.
-
-Easiest to remember as _**in** the app, **on** the platform_.
 
 ### Account references
 People _“create an account”_ with Wire — they no longer “join”, “register”, or “sign up”.
@@ -56,6 +50,12 @@ To avoid ambiguity, do not use 06.07.16, 06/07/2016 or similar formats.
 When referring to icons that appear in the user interface, use the name of the action or command that they perform, not the symbol that appears on the button: **Settings** or **Preferences**, not **Gear** or **Cog**.
 
 > “To end the call, tap the Close × icon in the upper left corner of the conversation.”
+
+### In/on Wire
+
+Use “in Wire” to mean “in the app”, but “on” is more appropriate when you mean the platform as a whole: “let’s connect on Wire” and “look at the conversation in Wire”.
+
+Easiest to remember as _**in** the app, **on** the platform_.
 
 ### Preferred spelling variants
 The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
