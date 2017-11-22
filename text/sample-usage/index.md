@@ -16,6 +16,7 @@ This section provides examples of preferred phrasing & additional explanations f
 * [Dates and times](#dates-and-times)
 * [Icon references](#icon-references)
 * [In/on Wire](#inon-wire)
+* [Invitation vs. invite](#invitation-vs-invite)
 * [Preferred spelling variants](#preferred-spelling-variants)
 * [Remove vs. delete](#remove-vs-delete)
 * [Security references](#security-references)
@@ -56,6 +57,10 @@ When referring to icons that appear in the user interface, use the name of the a
 Use “in Wire” to mean “in the app”, but “on” is more appropriate when you mean the platform as a whole: “let’s connect on Wire” and “look at the conversation in Wire”.
 
 Easiest to remember as _**in** the app, **on** the platform_.
+
+### Invitation vs. invite
+
+Users can send an ”invitation” to others, not an ”invite”.
 
 ### Preferred spelling variants
 The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
