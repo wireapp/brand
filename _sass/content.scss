@@ -8,7 +8,8 @@
   align-items: center;
   justify-content: center;
 
-  & img { margin: 56px auto;
+  & img {
+    margin: 56px auto;
     @media screen and (max-width: $break) {
       width: 100%;
     }
@@ -49,10 +50,11 @@
   font-size: 12px;
   font-weight: 600;
   text-transform: uppercase;
-  
-  a { margin: 0 8px; }
-}
 
+  a {
+    margin: 0 8px;
+  }
+}
 
 // ———————————————— Colors ———————————————— //
 
@@ -63,39 +65,61 @@
   border-bottom: 1px solid #fff;
 }
 
-  .gray     { background: $gray; margin-top: 56px; }
-  .blue     { background: $blue; }
-  .green    { background: $green; }
-  .yellow   { background: $yellow; }
-  .red      { background: $red; }
-  .orange   { background: $orange; }
-  .pink     { background: $pink; }
-  .purple   { background: $purple; margin-bottom: 56px; }
+.gray {
+  background: $gray;
+  margin-top: 56px;
+}
+.blue {
+  background: $blue;
+}
+.green {
+  background: $green;
+}
+.yellow {
+  background: $yellow;
+}
+.red {
+  background: $red;
+}
+.orange {
+  background: $orange;
+}
+.pink {
+  background: $pink;
+}
+.purple {
+  background: $purple;
+  margin-bottom: 56px;
+}
 
+.values {
+  width: 560px;
+  height: 200px;
+  margin: 0 auto;
+  padding: 24px 0;
+  display: flex;
+  align-items: center;
+  align-content: space-between;
+  justify-content: space-around;
+  flex-wrap: wrap;
 
-  .values {
-    width: 560px;
-    height: 200px;
-    margin: 0 auto;
-    padding: 24px 0;
-    display: flex;
-    align-items: center;
-    align-content: space-between;
-    justify-content: space-around;
-    flex-wrap: wrap;
+  @media screen and (max-width: $break) {
+    margin: 0 $site-padding;
+  }
 
+  span:nth-child(1) {
+    width: 100%;
+  }
+
+  span:nth-child(1n + 2) {
+    font-size: 12px;
+    width: 25%;
+    text-align: left;
     @media screen and (max-width: $break) {
-      margin: 0 $site-padding;
-    }
-
-    span:nth-child(1) { width: 100% }
-
-    span:nth-child(1n+2) { font-size: 12px; width: 25%; text-align:left;
-      @media screen and (max-width: $break) {
-        width: 100%;
-      }
+      width: 100%;
     }
   }
+}
 
 .colorshading {
   display: flex;
@@ -116,17 +140,29 @@
   color: #fff;
 
   // Darkening "shade" function function
-  @function shade($color, $percent){
+  @function shade($color, $percent) {
     @return mix(black, $color, $percent);
   }
 
-  &:nth-child(1) { background: rgba($orange, .24) }
-  &:nth-child(2) { background: rgba($orange, .48) }
-  &:nth-child(3) { background: rgba($orange, .72) }
+  &:nth-child(1) {
+    background: rgba($orange, 0.24);
+  }
+  &:nth-child(2) {
+    background: rgba($orange, 0.48);
+  }
+  &:nth-child(3) {
+    background: rgba($orange, 0.72);
+  }
 
-  &:nth-child(5) { background: shade($orange, 24%) }
-  &:nth-child(6) { background: shade($orange, 48%) }
-  &:nth-child(7) { background: shade($orange, 72%) }
+  &:nth-child(5) {
+    background: shade($orange, 24%);
+  }
+  &:nth-child(6) {
+    background: shade($orange, 48%);
+  }
+  &:nth-child(7) {
+    background: shade($orange, 72%);
+  }
 
   @media screen and (max-width: 800px) {
     width: 64px;
@@ -141,21 +177,20 @@
   }
 }
 
-  .zero { 
-    width: 120px;
-    height: 120px;
+.zero {
+  width: 120px;
+  height: 120px;
 
-    @media screen and (max-width: 800px) {
-      width: 80px;
-      height: 80px;
-    }
-
-    @media screen and (max-width: $break) {
-      width: 48px;
-      height: 48px;
-    }
+  @media screen and (max-width: 800px) {
+    width: 80px;
+    height: 80px;
   }
 
+  @media screen and (max-width: $break) {
+    width: 48px;
+    height: 48px;
+  }
+}
 
 // ———————————————— Logo ———————————————— //
 
@@ -190,44 +225,52 @@
 
 .logo-colors {
   div {
-    width: calc(100%/2);;
+    width: calc(100%/2);
     height: 240px;
 
     @media screen and (max-width: $break) {
       width: 100%;
     }
 
-    &:nth-child(1) { 
+    &:nth-child(1) {
       background: #fff;
-      .wire { fill: #000; }
+      .wire {
+        fill: #000;
+      }
     }
 
-    &:nth-child(2) { 
+    &:nth-child(2) {
       background: #000;
-      .wire { fill: #fff; }
+      .wire {
+        fill: #fff;
+      }
     }
 
-    &:nth-child(3) { 
+    &:nth-child(3) {
       background: $blue;
-      .wire { fill: #fff; }
+      .wire {
+        fill: #fff;
+      }
     }
 
-    &:nth-child(4) { 
+    &:nth-child(4) {
       background: #fff;
-      .wire { fill: $green; }
+      .wire {
+        fill: $green;
+      }
     }
   }
 }
-
 
 // ———————————————— Symbol ———————————————— //
 
 .symbol {
   height: 400px;
-  
-  svg { 
+
+  svg {
     width: 200px;
-    height: 200px }
+    height: 200px;
+  }
 }
 
 .symbol-shapes {
@@ -236,51 +279,67 @@
   div {
     width: 192px;
     height: 192px;
-    border: 1px solid rgba($gray, .32);;
+    border: 1px solid rgba($gray, 0.32);
     margin: 0 24px 64px;
 
-    &:nth-child(1) { border-radius: 44px; }
-    &:nth-child(2) { border-radius: 50%; }
+    &:nth-child(1) {
+      border-radius: 44px;
+    }
+    &:nth-child(2) {
+      border-radius: 50%;
+    }
   }
 }
 
 .symbol-colors {
   div {
-    width: calc(100%/3);;
+    width: calc(100%/3);
     height: 200px;
 
     @media screen and (max-width: $break) {
       width: 100%;
     }
 
-    &:nth-child(1) { 
+    &:nth-child(1) {
       background: #000;
-      .w { fill: #fff; }
+      .w {
+        fill: #fff;
+      }
     }
 
-    &:nth-child(2) { 
+    &:nth-child(2) {
       background: $yellow;
-      .w { fill: #000; }
+      .w {
+        fill: #000;
+      }
     }
 
-    &:nth-child(3) { 
+    &:nth-child(3) {
       background: #fff;
-      .w { fill: $blue; }
+      .w {
+        fill: $blue;
+      }
     }
 
-    &:nth-child(4) { 
+    &:nth-child(4) {
       background: #fff;
-      .w { fill: $gray-d72; }
+      .w {
+        fill: $gray-d72;
+      }
     }
 
-    &:nth-child(5) { 
+    &:nth-child(5) {
       background: $purple;
-      .w { fill: #fff; }
+      .w {
+        fill: #fff;
+      }
     }
 
-    &:nth-child(6) { 
+    &:nth-child(6) {
       background: $gray-d72;
-      .w { fill: $orange; }
+      .w {
+        fill: $orange;
+      }
     }
   }
 }

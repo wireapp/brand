@@ -30,9 +30,9 @@ For example, to verify terminology for iOS, you might visit [support.apple.com][
 
 Many articles are available in multiple languages, so you can select an article from the search results and switch to a different language to verify the localized language equivalents, for example:
 
-* [https://support.apple.com/kb/PH19426?viewlocale=en\_US][5]
-* [https://support.apple.com/kb/PH19426?viewlocale=de\_DE][6]
-* [https://support.apple.com/kb/PH19426?viewlocale=sv\_SE][7]
+* [https://support.apple.com/kb/PH19426?viewlocale=en_US][5]
+* [https://support.apple.com/kb/PH19426?viewlocale=de_DE][6]
+* [https://support.apple.com/kb/PH19426?viewlocale=sv_SE][7]
 
 [1]: https://crowdin.com/project/wire-ios
 [2]: https://crowdin.com/project/wire-android

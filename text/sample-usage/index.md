@@ -27,6 +27,7 @@ This section provides examples of preferred phrasing & additional explanations f
 <!-- /MarkdownTOC -->
 
 ### Account references
+
 People _“create an account”_ with Wire — they no longer “join”, “register”, or “sign up”.
 
 They can then “log in” _(two words)_ to their account — _no longer “sign in”_.
@@ -38,9 +39,11 @@ People can “log out” of the application and reset their password by selectin
 In billing communications for Wire teams, use ”annual subscription”, not ”yearly”.
 
 ### Calls to action
+
 Never ask people to **click here**. Instead, link the key nouns or verbs in the call to action.
 
 ### Dates and times
+
 Time indications in conversations are automatically updated and the timestamps are relative to the moment, supported by a “casual” writing style (for example, “yesterday”).
 
 Use the following long date format when possible: July 6, 2016.
@@ -48,6 +51,7 @@ Use the following long date format when possible: July 6, 2016.
 To avoid ambiguity, do not use 06.07.16, 06/07/2016 or similar formats.
 
 ### Icon references
+
 When referring to icons that appear in the user interface, use the name of the action or command that they perform, not the symbol that appears on the button: **Settings** or **Preferences**, not **Gear** or **Cog**.
 
 > “To end the call, tap the Close × icon in the upper left corner of the conversation.”
@@ -63,6 +67,7 @@ Easiest to remember as _**in** the app, **on** the platform_.
 Users can send an ”invitation” to others, not an ”invite”.
 
 ### Preferred spelling variants
+
 The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
 
 * Internet _(capitalized per Apple style guide — see note below)_
@@ -81,11 +86,13 @@ The default language for Wire copy is U.S. English — so no “u” in “color
 It’s OK to “delete” content, but not people. Whenever the context involves humans (like when revoking access to a conversation or team) use ”remove”.
 
 ### Security references
+
 In some cases, [UI copy][1] is best left abstract. This can help to protect users from people with malicious intent (for instance, bots searching for account details).
 
 A good example is the error message in the UI that tells people they have entered the “wrong address or password”. Even though it’s clear to the backend exactly which is wrong, the message is intentionally vague to stop people from trying to find out if a user account exists.
 
 ### Select/choose vs. click/tap/touch
+
 Since people can _(and will)_ interact with Wire across a variety of devices, with a variety of input options (touchscreens, mice, keyboards, etc.), use generic verbs like “select” or “choose” if the content applies to all platforms.
 
 Where the platform context is clear, use the verbs specific to the platform, such as “click”, “tap”, or “touch”.
@@ -97,16 +104,16 @@ For more information, see the [Touch Gesture Reference Guide][2].
 In billing communications for Wire teams, use monthly or annual ”subscription”, not ”plan”.
 
 ### URLs
+
 Write URLs beginning with the **wire.com** domain, and without the trailing slash — _most modern browsers will add this automatically if necessary_.
 
 Whenever possible, URLs should be active links. Do not include `www`, `http://` or other protocol information in the link text.
 
-For example, write [wire.com/privacy][3], instead of:
+For example, write [wire.com/privacy][3], instead of:
 
 * wire.com/privacy**/**
 * ~~www.~~wire.com/privacy
 * ~~http://www.~~wire.com/privacy
-
 
 [1]: ../user-interface
 [2]: http://www.lukew.com/ff/entry.asp?1071

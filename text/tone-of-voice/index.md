@@ -8,7 +8,7 @@ weight: 1
 
 Speaking with a consistent voice ensures a seamless experience wherever people interact with Wire, whether that’s user interface text in the application, an email verifying a new account, or a registration page on the website.
 
-Think of voice this way – if Wire were a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation. Voice shouldn’t change. 
+Think of voice this way – if Wire were a person, he or she would be smart, driven and personable and those characteristics would hold true in any situation. Voice shouldn’t change.
 
 Wire’s voice is:
 
@@ -19,6 +19,6 @@ Wire’s voice is:
 * **Concise** – Use active verbs whenever possible (for example, “Sami muted this conversation”, not “This conversation was muted by Sami”) and always opt for imperatives before gerunds (for example, “Use this code to link your phone”, not “Using this code will link your phone”).
 * **Polite** – Don’t be afraid to say “please” or “thank you” in instructional copy and calls to action, but don’t overdo it. These forms should usually be used to (gently) remind people.
 
-Tone should adapt to circumstances and accommodate a variety of audiences. 
+Tone should adapt to circumstances and accommodate a variety of audiences.
 
 It’s always more important to be clear than clever. Wire is usually witty and informal, but when it comes to security for example, don’t joke around.

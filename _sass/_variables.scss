@@ -2,31 +2,27 @@ $root-font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 $root-font-size: 16px;
 $root-line-height: 1.5;
 
+$gray: #bac8d1;
+$blue: #2391d3;
+$green: #00c800;
+$yellow: #febf02;
+$red: #fb0807;
+$orange: #ff8900;
+$pink: #fe5ebd;
+$purple: #9c00fe;
 
-$gray:           #bac8d1;
-$blue:           #2391d3;
-$green:          #00c800;
-$yellow:         #febf02;
-$red:            #fb0807;
-$orange:         #ff8900;
-$pink:           #fe5ebd;
-$purple:         #9c00fe;
-
-
-@function shade($color, $percent){
+@function shade($color, $percent) {
   @return mix(black, $color, $percent);
 }
 
 $gray-d24: shade($gray, 24%);
 $gray-d72: shade($gray, 72%);
-$gray-l24: rgba($gray, .24);
+$gray-l24: rgba($gray, 0.24);
 
-
-$body-color:     $gray-d72;
-$body-bg:        #fff;
-$link-color:     $blue;
-$border-color:   $gray-l24;
-
+$body-color: $gray-d72;
+$body-bg: #fff;
+$link-color: $blue;
+$border-color: $gray-l24;
 
 $break: 550px;
 $site-width: 840px;

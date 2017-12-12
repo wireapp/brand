@@ -13,8 +13,14 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
-# exclude: ["gulpfile.js", "package.js", "node_modules"]
-exclude: ["ReadMe.md"]
+# Exclude directories and/or files from the conversion. 
+exclude: 
+- Gemfile*
+- Icon.png
+- node_modules
+- package.json
+- README.md
+- yarn.lock
 
 # Custom vars
 version: "0.0.2"

@@ -10,7 +10,6 @@ weight: 5
 
 — Apple _[macOS Human Interface Guidelines][1]_
 
-
 ### UI copy
 
 Text appears in the user interface _(or “UI”)_ in button names, menu labels, application settings, and dialogs as well as the “microcopy” in notification banners, headings and small print, navigation, feedback and error messages.
@@ -42,7 +41,7 @@ The following sections are particularly useful:
 
 **NOTE:** Apple recently renamed their desktop operating system from “OS X” to “macOS” beginning with Version 10.12 (Sierra).
 
-All copy scheduled for publication after the official release of _macOS Sierra_ on September 20, 2016 should be updated to use the new **macOS** name.
+All copy scheduled for publication after the official release of _macOS Sierra_ on September 20, 2016 should be updated to use the new **macOS** name.
 
 ### iOS
 

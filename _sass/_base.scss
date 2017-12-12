@@ -2,8 +2,8 @@
 
 * {
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,
@@ -29,7 +29,7 @@ body {
 a {
   color: $link-color;
   text-decoration: none;
-  transition: color .08s;
+  transition: color 0.08s;
 
   &:hover,
   &:focus {
