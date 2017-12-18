@@ -22,6 +22,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #audio-message} audio message
 : Record a brief sound clip and send it in a conversation.
 
+{: #availability} ~~availability~~ → status
+: Best avoided, as "availability" is only one aspect of of status, and suggests some degree of automation. Take care to avoid language that conflates status states with automated presence indicators.
+
 {: #avatar} avatar
 : User profile picture (icon) that appears in search results (not chat head or thumbnail)
 
@@ -47,7 +50,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Use web application, desktop application, or mobile app where possible.
 
 {: #contacts} contacts
-: People you’re connected to on Wire. Provide context to avoid confusion w/ system address book.
+: People you’re connected to on Wire. Provide context to avoid confusion with the system address book.
 
 {: #create-account} create account
 : Preferred term for registration/signup
@@ -68,7 +71,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : End an ongoing voice or video call
 
 {: #icon} ~~icon~~ → avatar
-: User profile picture. Avoid to prevent confusion w/ app icons
+: User profile picture. Avoid to prevent confusion with app icons
 
 {: #ignore} ignore
 : Decline a connection request (the other user will not be notified)
@@ -171,6 +174,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 
 {: #start-ui} start UI
 : Deprecated internal term for people picker and search. Avoid if possible.
+
+{: #status} status
+: A manual setting in your profile to let people know if you're _available_, _busy_ or _away_. Status is a team-only feature and shown only to members of the same team.
 
 {: #talk} ~~talk~~ → call
 : Deprecated term for voice channel in a conversation. Use “call” instead.
