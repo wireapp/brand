@@ -10,7 +10,7 @@
     {% endif %}
   </title>
 
-  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:title" content="{{ site.title }} &middot; Wire">
   <meta property="og:url" content="{{ site.url }}">
   <meta property="og:image" content="{{ site.url }}/public/og.png">
   <meta property="og:description" content="{{ site.tagline }}">
@@ -18,4 +18,20 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
+  
+  <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.wire.com"]);
+    _paq.push(["setDomains", ["*.wire.com"]]);
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//wire.innocraft.cloud/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', 1]);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>  
 </head>

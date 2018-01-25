@@ -12,7 +12,7 @@
           {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
           {% if current == include.context %}
-              <a {% if page.url contains entry.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+              <a {% if page.url contains entry.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ entry.url }}#top">{{ entry.title }}</a>
           {% endif %}
 
       {% endfor %}
