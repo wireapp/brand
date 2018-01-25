@@ -1,7 +1,7 @@
 # Setup
 title: Brand Elements
-url: http://brand.wire.com/
-baseurl: ""
+# Set base URL for staging fork
+baseurl: "/brand"
 
 highlighter: rouge
 markdown: kramdown
