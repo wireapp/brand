@@ -205,5 +205,8 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #VoIP} ~~VoIP~~ _(avoid)_
 : Don’t use peer-to-peer, P2P, or “VoIP” in any user-facing communications.
 
-{: #web-app} ~~web app~~ → Wire for web
-: Browser-based Wire client
+{: #web-app} ~~web app~~ → [Wire for web](#wire-for-web)
+: Internal jargon for the browser-based Wire client.
+
+{: #wire-for-web} Wire for web
+: Browser-based Wire client. _Note capitalization:_ ”web” is lowercase to avoid any perception of a separate product. There is only one Wire, wherever it runs.
