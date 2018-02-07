@@ -91,7 +91,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #log-on} ~~log on~~ → [log in](#log-in)
 : Users “log in” to a Wire account (not “log on” or “sign in”)
 
-{: #log-in} log in
+{: #log-in} log in/out
 : Users now “log in” to a Wire account (no longer “sign in”)
 
 {: #login} ~~login~~ → [account](#account)
@@ -133,7 +133,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #ping-again} ping again
 : Follow-up (more urgent?) attention-getting action (formerly known as “hot-knock”).
 
-{: #popover} ~~popover~~ (avoid)
+{: #popover} ~~popover~~ _(avoid)_
 : Don’t call pop-up UI elements by name. Describe what the user must select or do.
 
 {: #profile} profile
