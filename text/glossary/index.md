@@ -134,6 +134,10 @@ _(this gesture is no longer supported)_.
 {: #people-view} people view
 : Participants: Shows other user’s profile in 1:1 conversations, or members of group conversations.
 
+{: #personal-account} personal account
+: A free account for private use with friends and family.  
+_(Separate from [team account](#team-account).)_
+
 {: #phone} phone
 : Generic term for mobile smartphone platforms (iOS & Android) as distinguished from tablets & desktops.
 
@@ -202,6 +206,14 @@ _(“Do not Disturb” mode)_. Opposite of [unmute](#unmute).
 
 {: #talk} ~~talk~~ → [call](#call)
 : Deprecated term for voice channel in a conversation. Use “call” instead.
+
+{: #team} team
+: A business or organization that uses Wire on a paid plan for work.  
+Managed via [teams.wire.com](https://teams.wire.com).
+
+{: #team-account} team account
+: An individual account on a paid plan administered by a business or organization, typically for use at work.  
+_(Separate from [personal account](#personal-account).)_
 
 {: #theme} theme
 : Switch the Wire UI between dark (black) and light (white) appearance.
