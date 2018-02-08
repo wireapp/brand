@@ -11,10 +11,10 @@ Wire uses certain words in a special way. This glossary defines our terminology 
 The list below includes ~~**deprecated terms**~~ that are either ambiguous or obsolete and should be replaced with the corresponding **→ preferred term**.
 
 {: #accept} accept
-: Answer an incoming voice call in a conversation
+: Answer an incoming voice call in a conversation.
 
 {: #answer} ~~answer~~ → [accept](#accept)
-: Accept an incoming voice call in a conversation
+: Accept an incoming voice call in a conversation.
 
 {: #application} ~~application~~ → (specific client)
 : Potentially confusing term that couples Wire platform with client apps.
@@ -29,7 +29,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Best avoided, as "availability" is only one aspect of of status, and suggests some degree of automation. Take care to avoid language that conflates status states with automated presence indicators.
 
 {: #avatar} avatar
-: User profile picture (icon) that appears in search results (not chat head or thumbnail)
+: User profile picture (icon) that appears in search results _(not “chat head” or “thumbnail”)._
 
 {: #bot} bot
 : A non-human (robot) participant in a conversation. When you add a [service](#service) such as GitHub to a conversation via an [integration](#integration), a new bot is added to the conversation to represent the service.
@@ -41,7 +41,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : US-specific jargon for mobile telephone.
 
 {: #change-password} ~~change password~~ → [reset password](#reset-password)
-: Deprecated term for the password reset process
+: Deprecated term for the password reset process.
 
 {: #chat} ~~chat~~ → [conversation](#conversation)
 : Informal term for 1:1 or group conversation. Use “conversation” if space allows.
@@ -62,13 +62,13 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : People you’re connected to on Wire. Provide context to avoid confusion with the system address book.
 
 {: #create-account} create account
-: Preferred term for registration/signup
+: Preferred term for registration/signup.
 
 {: #decline} decline
-: Ignore or reject an incoming voice or video call
+: Ignore or reject an incoming voice or video call.
 
 {: #desktop-application} desktop application
-: Wire client for desktop computers (macOS, Linux, Windows)
+: Wire client for desktop computers (macOS, Linux, Windows).
 
 {: #detail-view} ~~detail view~~ → [single image view](#single-image-view)
 : Old UI view for images or individual messages. Superseded by timestamps & single image view.
@@ -77,22 +77,22 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : An Wire installation on a physical piece of electronic equipment, such as an iPhone, an Android tablet or a Windows PC. On mobile platforms, users typically run one instance per device, but on desktop computers, users may log in with multiple Wire [clients](#client) using different browsers.
 
 {: #end-call} ~~end call~~ → [hang up](#hang-up)
-: Close voice channel in a conversation
+: Close voice channel in a conversation.
 
 {: #hang-up} hang up
-: End an ongoing voice or video call
+: End an ongoing voice or video call.
 
 {: #icon} ~~icon~~ → [avatar](#avatar)
-: User profile picture. Avoid to prevent confusion with app icons
+: User profile picture. Avoid to prevent confusion with app icons.
 
 {: #ignore} ignore
-: Decline a connection request (the other user will not be notified)
+: Decline a connection request (the other user will not be notified).
 
 {: #image} ~~image~~ → [picture](#picture)
-: Deprecated (sounds more technical than necessary).
+: Deprecated _(sounds more technical than necessary)_.
 
 {: #in-wire} in Wire
-: Use this when you mean “in the app”. See “on Wire” (platform)
+: Use this when you mean “in the app”. See “[on Wire](#on-wire)” (platform).
 
 {: #integration} integration
 : External webhook used to add a [service](#service) to a conversation.
@@ -101,19 +101,20 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Deprecated term for creating a Wire account.
 
 {: #knock} ~~knock~~ → [ping](#ping)
-: Deprecated term for getting users’ attention by tapping the screen (this gesture is no longer supported).
+: Deprecated term for getting users’ attention by tapping the screen  
+_(this gesture is no longer supported)_.
 
 {: #log-on} ~~log on~~ → [log in](#log-in)
-: Users “log in” to a Wire account (not “log on” or “sign in”)
+: Users “log in” to a Wire account _(not “log on” or “sign in”)._
 
 {: #log-in} log in/out
-: Users now “log in” to a Wire account (no longer “sign in”)
+: Users now “log in” to a Wire account _(no longer “sign in”)._
 
 {: #login} ~~login~~ → [account](#account)
-: Deprecated noun form for user credentials (“login” is not a verb)
+: Deprecated noun form for user credentials _(“login” is not a verb)_.
 
 {: #mobile-app} mobile app
-: Wire client for mobile devices (Currently iOS & Android.)
+: Wire client for mobile devices _(currently iOS & Android)._
 
 {: #mobile-phone} ~~mobile phone~~ → [phone](#phone)
 : Use only if necessary to distinguish mobile telephone from landline. Otherwise, just “phone”.
@@ -122,25 +123,25 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Disable microphone in a call or disable notifications in a conversation _(formerly “silence”)_. Muted conversations do not trigger notifications, and are not counted as unread on the app icon’s unread badge.
 
 {: #notify} ~~notify~~ → [unmute](#unmute)
-: Re-enable notifications for a conversation. Applies to both sound alerts & text banners. Opposite of mute.
+: Deprecated term for re-enabling notifications in a conversation.
 
 {: #on-wire} on Wire
-: Use this to refer to the Wire platform as a whole. See “in Wire” (app).
+: Use this to refer to the Wire platform as a whole. See “[in Wire](#in-wire)” (app).
 
 {: #people-picker} ~~people picker~~ → [search](#search)
 : Deprecated term for the search UI, avoid if possible.
 
 {: #people-view} people view
-: Participants: Shows other user’s profile in 1:1 conversations, or members of group conversations
+: Participants: Shows other user’s profile in 1:1 conversations, or members of group conversations.
 
 {: #phone} phone
 : Generic term for mobile smartphone platforms (iOS & Android) as distinguished from tablets & desktops.
 
 {: #photo} ~~photo~~ → [picture](#picture)
-: Deprecated (not all pictures are photos)
+: Deprecated term for specific image formats _(not all pictures are photos)_.
 
 {: #picture} picture
-: Preferred term for images, photos and other graphics
+: Preferred universal term for images, photos and other graphics.
 
 {: #ping} ping
 : Initial attention-getting action _(formerly known as “knock” or “poke”)_. Pings appear in conversations as messages with no content _(only the ping icon)_.
@@ -155,19 +156,21 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Shows details on a person such as picture, email address and list of devices.
 
 {: #register} ~~register~~ → create account
-: Deprecated term for account creation process
+: Deprecated term for the account creation process.
 
 {: #reset-password} reset password
-: Preferred term for the process by which users alter their password (not “change password”)
+: Preferred term for the process by which users alter their password  
+_(not “change password”)._
 
 {: #ringing} ringing
-: Connection in progress for voice and video calls (appears when calls are pending but not yet answered)
+: Connection-in-progress notification for voice and video calls  
+_(appears when calls are pending but not yet answered)._
 
 {: #screen-sharing} screen sharing
 : Show the contents of your computer screen during a video call.
 
 {: #self-conversation} ~~self conversation~~ → profile
-: Deprecated internal term for profile
+: Deprecated internal jargon for your own user profile.
 
 {: #service} service
 : An external application or utility that can be added to a conversation. Users can search for services by name to add them to a conversation. Once a service is added, a [bot](#bot) represents the service in the conversation.
@@ -176,22 +179,23 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : In-app dialog used to configure certain aspects of the app experience.
 
 {: #sign-in-out} ~~sign in/out~~ → [log in/out](#log-in)
-: Deprecated term for logging in to (or out of) a Wire account
+: Deprecated term for logging in to (or out of) a Wire account.
 
 {: #sign-up} ~~sign up~~ → [create account](#create-account)
-: Deprecated term for account creation process
+: Deprecated term for the account creation process.
 
 {: #silence} ~~silence~~ → [mute](#mute)
-: Disable sound alerts & text notifications for a conversation (“Do not Disturb” mode). Opposite of unmute.
+: Disable sound alerts & text notifications for a conversation.  
+_(“Do not Disturb” mode)_. Opposite of [unmute](#unmute).
 
 {: #single-image-view} single image view
-: Tap an image in a conversation to open it in a new view, where you can save or sketch on it
+: Tap an image in a conversation to open it in a new view, where you can save or sketch on it.
 
 {: #sketch} sketch
 : Draw or write on a picture and send it in a conversation.
 
 {: #start-ui} start UI
-: Deprecated internal term for people picker and search. Avoid if possible.
+: Deprecated internal jargon for people picker and search. Avoid if possible.
 
 {: #status} status
 : A manual setting in your profile to let people know if you're _available_, _busy_ or _away_. Status is a team-only feature and shown only to members of the same team.
@@ -212,19 +216,20 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Un-archiving a conversation removes it from the [archive](#archive) and restores it to the conversation list.
 
 {: #unmute} unmute
-: Re-enable notifications in a conversation (formerly “notify”).
+: Re-enable notifications in a conversation _(formerly “notify”)_.  
+Applies to both sound alerts & text banners. Opposite of [mute](#mute).
 
 {: #unread-notification} unread notification
-: Dot that appears in the conversation list or within a conversation to indicate new messages
+: Dot that appears in the conversation list or within a conversation to indicate new messages.
 
 {: #view} view
 : Generic term for UI areas such as conversation list, participants, etc.
 
 {: #voice} ~~voice~~ → [call](#call)
-: Call another user in a conversation (Conversation > Call)
+: Call another user in a conversation (Conversation > Call).
 
-{: #voice-message} ~~voice message~~ → [audio message](#audio message)
-: Not all audio messages are voice recordings, so we use “audio message”
+{: #voice-message} ~~voice message~~ → [audio message](#audio-message)
+: Not all audio messages are voice recordings, so we use “audio message” as a universal term to cover all types of recorded sounds.
 
 {: #VoIP} ~~VoIP~~ _(avoid)_
 : Don’t use peer-to-peer, P2P, or “VoIP” in any user-facing communications.
