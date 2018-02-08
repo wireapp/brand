@@ -19,6 +19,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #application} ~~application~~ → (specific client)
 : Potentially confusing term that couples Wire platform with client apps.
 
+{: #archive} archive
+: Archiving a conversation removes it from the conversation list and moves it to the archive. Archived conversations can be restored to the conversation list with the [unarchive](#unarchive) command.
+
 {: #audio-message} audio message
 : Record a brief sound clip and send it in a conversation.
 
@@ -27,6 +30,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 
 {: #avatar} avatar
 : User profile picture (icon) that appears in search results (not chat head or thumbnail)
+
+{: #bot} bot
+: A non-human (robot) participant in a conversation. When you add a [service](#service) such as GitHub to a conversation via an [integration](#integration), a new bot is added to the conversation to represent the service.
 
 {: #call} call
 : Used as both noun and verb for the voice channel in a conversation (Conversation > Call).
@@ -42,6 +48,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 
 {: #chat-head} ~~chat head~~ → [avatar](#avatar)
 : Deprecated term for user profile picture (icon).
+
+{: #client} client
+: A logged–in user account on a specific Wire installation. Users may have multiple clients if they are logged in on multiple Wire installations _(on desktop and mobile [devices](#device), or different desktop browsers)_. A Wire installation can also have multiple clients _(personal and team accounts on a single installation)_.
 
 {: #conversation} conversation
 : Preferred term for 1:1 or group chat. If space is tight or context is informal, “chat” is OK.
@@ -64,6 +73,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #detail-view} ~~detail view~~ → [single image view](#single-image-view)
 : Old UI view for images or individual messages. Superseded by timestamps & single image view.
 
+{: #device} device
+: An Wire installation on a physical piece of electronic equipment, such as an iPhone, an Android tablet or a Windows PC. On mobile platforms, users typically run one instance per device, but on desktop computers, users may log in with multiple Wire [clients](#client) using different browsers.
+
 {: #end-call} ~~end call~~ → [hang up](#hang-up)
 : Close voice channel in a conversation
 
@@ -81,6 +93,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 
 {: #in-wire} in Wire
 : Use this when you mean “in the app”. See “on Wire” (platform)
+
+{: #integration} integration
+: External webhook used to add a [service](#service) to a conversation.
 
 {: #join} ~~join~~ → [create account](#create-account)
 : Deprecated term for creating a Wire account.
@@ -104,7 +119,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Use only if necessary to distinguish mobile telephone from landline. Otherwise, just “phone”.
 
 {: #mute} mute
-: Disable microphone or disable notifications in a conversation (formerly “silence”).
+: Disable microphone in a call or disable notifications in a conversation _(formerly “silence”)_. Muted conversations do not trigger notifications, and are not counted as unread on the app icon’s unread badge.
 
 {: #notify} ~~notify~~ → [unmute](#unmute)
 : Re-enable notifications for a conversation. Applies to both sound alerts & text banners. Opposite of mute.
@@ -128,16 +143,16 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Preferred term for images, photos and other graphics
 
 {: #ping} ping
-: Initial attention-getting action (formerly known as “knock”).
+: Initial attention-getting action _(formerly known as “knock” or “poke”)_. Pings appear in conversations as messages with no content _(only the ping icon)_.
 
 {: #ping-again} ping again
-: Follow-up (more urgent?) attention-getting action (formerly known as “hot-knock”).
+: Follow-up (more urgent?) attention-getting action _(formerly known as “hot-knock”)_.
 
 {: #popover} ~~popover~~ _(avoid)_
 : Don’t call pop-up UI elements by name. Describe what the user must select or do.
 
 {: #profile} profile
-: "Shows details on a person such as picture, email address and list of devices"
+: Shows details on a person such as picture, email address and list of devices.
 
 {: #register} ~~register~~ → create account
 : Deprecated term for account creation process
@@ -153,6 +168,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 
 {: #self-conversation} ~~self conversation~~ → profile
 : Deprecated internal term for profile
+
+{: #service} service
+: An external application or utility that can be added to a conversation. Users can search for services by name to add them to a conversation. Once a service is added, a [bot](#bot) represents the service in the conversation.
 
 {: #settings} settings
 : In-app dialog used to configure certain aspects of the app experience.
@@ -186,6 +204,12 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 
 {: #thumbnail} ~~thumbnail~~ → [avatar](#avatar)
 : Deprecated term for user profile picture (icon).
+
+{: #typing-indicator} typing indicator
+: When a user is currently entering new text in a conversation, a pencil icon appears below the conversation and shows the name of the person that is typing.
+
+{: #unarchive} unarchive
+: Un-archiving a conversation removes it from the [archive](#archive) and restores it to the conversation list.
 
 {: #unmute} unmute
 : Re-enable notifications in a conversation (formerly “notify”).
