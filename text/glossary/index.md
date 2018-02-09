@@ -29,7 +29,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Best avoided, as "availability" is only one aspect of of status, and suggests some degree of automation. Take care to avoid language that conflates status states with automated presence indicators.
 
 {: #avatar} avatar
-: User profile picture (icon) that appears in search results _(not “chat head” or “thumbnail”)._
+: User profile picture that appears in search results and conversations.
 
 {: #bot} bot
 : A non-human (robot) participant in a conversation. When you add a [service](#service) such as GitHub to a conversation via an [integration](#integration), a new bot is added to the conversation to represent the service.
@@ -46,17 +46,11 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #chat} ~~chat~~ → [conversation](#conversation)
 : Informal term for 1:1 or group conversation. Use “conversation” if space allows.
 
-{: #chat-head} ~~chat head~~ → [avatar](#avatar)
-: Deprecated term for user profile picture (icon).
-
 {: #client} client
 : A logged–in user account on a specific Wire installation. Users may have multiple clients if they are logged in on multiple Wire installations _(on desktop and mobile [devices](#device), or different desktop browsers)_. A Wire installation can also have multiple clients _(personal and team accounts on a single installation)_.
 
 {: #conversation} conversation
 : Preferred term for 1:1 or group chat. If space is tight or context is informal, “chat” is OK.
-
-{: #client} ~~client~~ → (specific client)
-: Use web application, desktop application, or mobile app where possible.
 
 {: #contacts} contacts
 : People you’re connected to on Wire. Provide context to avoid confusion with the system address book.
@@ -70,14 +64,8 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #desktop-application} desktop application
 : Wire client for desktop computers (macOS, Linux, Windows).
 
-{: #detail-view} ~~detail view~~ → [single image view](#single-image-view)
-: Old UI view for images or individual messages. Superseded by timestamps & single image view.
-
 {: #device} device
 : An Wire installation on a physical piece of electronic equipment, such as an iPhone, an Android tablet or a Windows PC. On mobile platforms, users typically run one instance per device, but on desktop computers, users may log in with multiple Wire [clients](#client) using different browsers.
-
-{: #end-call} ~~end call~~ → [hang up](#hang-up)
-: Close voice channel in a conversation.
 
 {: #hang-up} hang up
 : End an ongoing voice or video call.
@@ -131,9 +119,6 @@ _(this gesture is no longer supported)_.
 {: #people-picker} ~~people picker~~ → [search](#search)
 : Deprecated term for the search UI, avoid if possible.
 
-{: #people-view} people view
-: Participants: Shows other user’s profile in 1:1 conversations, or members of group conversations.
-
 {: #personal-account} personal account
 : A free account for private use with friends and family.  
 _(Separate from [team account](#team-account).)_
@@ -149,9 +134,6 @@ _(Separate from [team account](#team-account).)_
 
 {: #ping} ping
 : Initial attention-getting action _(formerly known as “knock” or “poke”)_. Pings appear in conversations as messages with no content _(only the ping icon)_.
-
-{: #ping-again} ping again
-: Follow-up (more urgent?) attention-getting action _(formerly known as “hot-knock”)_.
 
 {: #popover} ~~popover~~ _(avoid)_
 : Don’t call pop-up UI elements by name. Describe what the user must select or do.
@@ -218,9 +200,6 @@ _(Separate from [personal account](#personal-account).)_
 {: #theme} theme
 : Switch the Wire UI between dark (black) and light (white) appearance.
 
-{: #thumbnail} ~~thumbnail~~ → [avatar](#avatar)
-: Deprecated term for user profile picture (icon).
-
 {: #typing-indicator} typing indicator
 : When a user is currently entering new text in a conversation, a pencil icon appears below the conversation and shows the name of the person that is typing.
 
@@ -236,9 +215,6 @@ Applies to both sound alerts & text banners. Opposite of [mute](#mute).
 
 {: #view} view
 : Generic term for UI areas such as conversation list, participants, etc.
-
-{: #voice} ~~voice~~ → [call](#call)
-: Call another user in a conversation (Conversation > Call).
 
 {: #voice-message} ~~voice message~~ → [audio message](#audio-message)
 : Not all audio messages are voice recordings, so we use “audio message” as a universal term to cover all types of recorded sounds.
