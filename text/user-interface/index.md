@@ -20,7 +20,7 @@ Rather than re-invent the wheel or get “creative” in ways that confuse users
 
 The sections below provide resources for each platform we support.
 
-<!-- MarkdownTOC autolink="true" bracket="round" depth="3" -->
+<!-- MarkdownTOC autolink="true" bracket="round" depth="1" -->
 
 * [Desktop](#desktop)
 * [iOS](#ios)
@@ -29,6 +29,10 @@ The sections below provide resources for each platform we support.
 <!-- /MarkdownTOC -->
 
 ### Desktop
+
+On desktop systems, Wire uses a cross-platform web application to provide a uniform experience on all supported operating systems. For platform-specific terminology and conventions, refer to the following resources.
+
+#### Mac
 
 When writing for the Mac desktop user interface, use the conventions that Apple has established in the [macOS Human Interface Guidelines][1].
 
@@ -43,23 +47,28 @@ The following sections are particularly useful:
 
 All copy scheduled for publication after the official release of _macOS Sierra_ on September 20, 2016 should be updated to use the new **macOS** name.
 
+#### Windows
+
+When writing for the Windows desktop user interface, refer to the [Microsoft Writing Style Guide][6].
+
 ### iOS
 
-When writing for iOS, refer to the [iOS Human Interface Guidelines][6], especially:
+When writing for iOS, refer to the [iOS Human Interface Guidelines][7], especially:
 
-* [Terminology][7]
-* [UI Controls][8]
+* [Terminology][8]
+* [UI Controls][9]
 
 ### Android
 
-For guidance on writing conventions for Android, see [Android Writing Style][9].
+For guidance on writing conventions for Android, see [Android Writing Style][10].
 
 [1]: https://developer.apple.com/macos/human-interface-guidelines/
 [2]: https://developer.apple.com/macos/human-interface-guidelines/windows-and-views/alerts/
 [3]: https://developer.apple.com/macos/human-interface-guidelines/fields-and-labels/labels/
 [4]: https://developer.apple.com/macos/human-interface-guidelines/menus/
 [5]: https://developer.apple.com/macos/human-interface-guidelines/user-interaction/requesting-permission/
-[6]: https://developer.apple.com/ios/human-interface-guidelines/
-[7]: https://developer.apple.com/ios/human-interface-guidelines/visual-design/terminology/
-[8]: https://developer.apple.com/ios/human-interface-guidelines/controls/buttons/
-[9]: https://developer.android.com/design/style/writing.html
+[6]: https://docs.microsoft.com/en-us/style-guide/
+[7]: https://developer.apple.com/ios/human-interface-guidelines/
+[8]: https://developer.apple.com/ios/human-interface-guidelines/visual-design/terminology/
+[9]: https://developer.apple.com/ios/human-interface-guidelines/controls/buttons/
+[10]: https://developer.android.com/design/style/writing.html
