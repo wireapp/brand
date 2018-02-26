@@ -21,4 +21,4 @@ Wire’s voice is:
 
 Tone should adapt to circumstances and accommodate a variety of audiences.
 
-It’s always more important to be clear than clever. Wire is usually witty and informal, but when it comes to security for example, don’t joke around.
+It’s always more important to be clear than clever. Wire is friendly and informal, but when it comes to security for example, don’t joke around.
