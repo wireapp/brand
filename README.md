@@ -4,6 +4,12 @@
 
 Published via [GitHub Pages][1] & [Jekyll][2] to [brand.wire.com][3].
 
+## Suggesting changes
+
+* If you find a typo or would like to suggest a new topic for the [writing guidelines](https://brand.wire.com/text/), you can [create an issue](https://github.com/wireapp/brand/issues/new).
+
+* If you know how to fix the issue yourself, [submit a pull request](https://help.github.com/articles/using-pull-requests/) with the proposed changes.
+
 ## Setting up a local testing environment
 
 The `brand` microsite can be set up to run locally on your computer so you can preview your changes before submitting a pull request.
