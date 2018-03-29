@@ -6,7 +6,7 @@ Published via [GitHub Pages][1] & [Jekyll][2] to [brand.wire.com][3].
 
 ## Setting up a local testing environment
 
-We recommend you set up the `brand` microsite to run locally on your computer to verify your changes before pushing them to the live site.
+The `brand` microsite can be set up to run locally on your computer so you can preview your changes before submitting a pull request.
 
 The instructions below assume you're on a Mac with [Homebrew][4] installed.
 
