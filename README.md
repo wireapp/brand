@@ -10,6 +10,13 @@ Published via [GitHub Pages][1] & [Jekyll][2] to [brand.wire.com][3].
 
 * If you know how to fix the issue yourself, [submit a pull request](https://help.github.com/articles/using-pull-requests/) with the proposed changes.
 
+---
+
+### Technical details
+
+<details>
+<summary>Setting up a local testing environment and formatting code</summary>
+
 ## Setting up a local testing environment
 
 The `brand` microsite can be set up to run locally on your computer so you can preview your changes before submitting a pull request.
@@ -67,6 +74,8 @@ The [prettier-setup][10] installs Prettier and various dependencies, configures 
 Now when you edit any of the JSON, Markdown or Sass files in the project, they will be automatically reformatted when you stage your changes in Git.
 
 **Tip:** You can also run Prettier manually via the `yarn fix` command to verify the results before committing.
+
+</details>
 
 [1]: https://pages.github.com
 [2]: https://jekyllrb.com
