@@ -23,29 +23,29 @@ The `brand` microsite can be set up to run locally on your computer so you can p
 
 The instructions below assume you're on a Mac with [Homebrew][7] installed.
 
-1. Install the latest Ruby version via Homebrew:
+1.  Install the latest Ruby version via Homebrew:
 
-   ```sh
-   brew install ruby
-   ```
+    ```sh
+    brew install ruby
+    ```
 
-2. Install [Bundler][8]:
+2.  Install [Bundler][8]:
 
-   ```sh
-   gem install bundler
-   ```
+    ```sh
+    gem install bundler
+    ```
 
-3. Install the GitHub Pages gem and bundled dependencies:
+3.  Install the GitHub Pages gem and bundled dependencies:
 
-   ```sh
-   bundle install
-   ```
+    ```sh
+    bundle install
+    ```
 
-4. Run [Jekyll][9]:
+4.  Run [Jekyll][9]:
 
-   ```sh
-   bundle exec jekyll serve
-   ```
+    ```sh
+    bundle exec jekyll serve
+    ```
 
 This runs the site locally, so you can view your local clone of the `brand` microsite at [http://127.0.0.1:4000/][10].
 
@@ -59,17 +59,17 @@ The `brand` microsite uses [Prettier][12] to automatically format code and enfor
 
 The [prettier-setup][13] installs Prettier and various dependencies, configures formatting rules and sets up commit hooks to ensure files are formatted correctly before commiting.
 
-1. Install the [yarn][14] JavaScript package manager via Homebrew:
+1.  Install the [yarn][14] JavaScript package manager via Homebrew:
 
-   ```sh
-   brew install yarn
-   ```
+    ```sh
+    brew install yarn
+    ```
 
-2. Run `yarn` to install Prettier and dependencies:
+2.  Run `yarn` to install Prettier and dependencies:
 
-   ```sh
-   yarn
-   ```
+    ```sh
+    yarn
+    ```
 
 Now when you edit any of the JSON, Markdown or Sass files in the project, they will be automatically reformatted when you stage your changes in Git.
 
