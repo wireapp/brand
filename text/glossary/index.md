@@ -67,6 +67,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #device} device
 : An Wire installation on a physical piece of electronic equipment, such as an iPhone, an Android tablet or a Windows PC. On mobile platforms, users typically run one instance per device, but on desktop computers, users may log in with multiple Wire [clients](#client) using different browsers.
 
+{: #guest-room} guest room
+: A secure group conversation that people outside of a team can join by invitation without downloading anything or creating an account. Guests without a Wire account have access for 24 hours, or until the room creator removes them. _(Paid plans only.)_
+
 {: #hang-up} hang up
 : End an ongoing voice or video call.
 
