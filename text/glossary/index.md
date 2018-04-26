@@ -26,7 +26,7 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 : Record a brief sound clip and send it in a conversation.
 
 {: #availability} ~~availability~~ → [status](#status)
-: Best avoided, as "availability" is only one aspect of of status, and suggests some degree of automation. Take care to avoid language that conflates status states with automated presence indicators.
+: Best avoided, as "availability" is only one aspect of status, and suggests some degree of automation. Take care to avoid language that conflates status states with automated presence indicators.
 
 {: #avatar} avatar
 : User profile picture that appears in search results and conversations.
