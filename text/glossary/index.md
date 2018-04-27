@@ -10,6 +10,10 @@ Wire uses certain words in a special way. This glossary defines our terminology 
 
 The list below includes ~~**deprecated terms**~~ that are either ambiguous or obsolete and should be replaced with the corresponding **→ preferred term**.
 
+> To report an error or suggest a new term, [file an issue][1].
+
+---
+
 {: #accept} accept
 : Answer an incoming voice call in a conversation.
 
@@ -230,3 +234,5 @@ Applies to both sound alerts & text banners. Opposite of [mute](#mute).
 
 {: #wire-for-web} Wire for web
 : Browser-based Wire client. _Note capitalization:_ ”web” is lowercase to avoid any perception of a separate product. There is only one Wire, wherever it runs.
+
+[1]: https://github.com/wireapp/brand/issues/new
