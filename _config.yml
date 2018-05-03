@@ -23,6 +23,6 @@ exclude:
 - yarn.lock
 
 # Custom vars
-version: "0.0.2"
+version: "1.0.0"
 github:
-  repo:  https://github.com/wearezeta/brand
+  repo:  https://github.com/wireapp/brand
