@@ -22,9 +22,9 @@ The sections below provide resources for each platform we support.
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="1" -->
 
-* [Desktop](#desktop)
-* [iOS](#ios)
-* [Android](#android)
+- [Desktop](#desktop)
+- [iOS](#ios)
+- [Android](#android)
 
 <!-- /MarkdownTOC -->
 
@@ -38,10 +38,10 @@ When writing for the Mac desktop user interface, use the conventions that Apple 
 
 The following sections are particularly useful:
 
-* [Alerts][2]
-* [Labels][3]
-* [Menus][4]
-* [Requesting Permission][5]
+- [Alerts][2]
+- [Labels][3]
+- [Menus][4]
+- [Requesting Permission][5]
 
 **NOTE:** Apple recently renamed their desktop operating system from “OS X” to “macOS” beginning with Version 10.12 (Sierra).
 
@@ -55,8 +55,8 @@ When writing for the Windows desktop user interface, refer to the [Microsoft Wri
 
 When writing for iOS, refer to the [iOS Human Interface Guidelines][7], especially:
 
-* [Terminology][8]
-* [UI Controls][9]
+- [Terminology][8]
+- [UI Controls][9]
 
 ### Android
 
