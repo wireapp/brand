@@ -10,19 +10,19 @@ This section provides examples of preferred phrasing & additional explanations f
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="3" -->
 
-* [Account references](#account-references)
-* [Annual vs. yearly](#annual-vs-yearly)
-* [Calls to action](#calls-to-action)
-* [Dates and times](#dates-and-times)
-* [Icon references](#icon-references)
-* [In/on Wire](#inon-wire)
-* [Invitation vs. invite](#invitation-vs-invite)
-* [Preferred spelling variants](#preferred-spelling-variants)
-* [Remove vs. delete](#remove-vs-delete)
-* [Security references](#security-references)
-* [Select/choose vs. click/tap/touch](#selectchoose-vs-clicktaptouch)
-* [Subscription vs. plan](#subscription-vs-plan)
-* [URLs](#urls)
+- [Account references](#account-references)
+- [Annual vs. yearly](#annual-vs-yearly)
+- [Calls to action](#calls-to-action)
+- [Dates and times](#dates-and-times)
+- [Icon references](#icon-references)
+- [In/on Wire](#inon-wire)
+- [Invitation vs. invite](#invitation-vs-invite)
+- [Preferred spelling variants](#preferred-spelling-variants)
+- [Remove vs. delete](#remove-vs-delete)
+- [Security references](#security-references)
+- [Select/choose vs. click/tap/touch](#selectchoose-vs-clicktaptouch)
+- [Subscription vs. plan](#subscription-vs-plan)
+- [URLs](#urls)
 
 <!-- /MarkdownTOC -->
 
@@ -70,14 +70,14 @@ Users can send an ”invitation” to others, not an ”invite”.
 
 The default language for Wire copy is U.S. English — so no “u” in “color”, etc.
 
-* Internet _(capitalized per Apple style guide — see note below)_
-* email _(no hyphen)_
-* web _(lowercase)_
-* webpage _(One word. A self-contained document on a website. A single website can contain many webpages. Don’t use website and webpage interchangeably.)_
-* website _(One word. Refers to a collection of webpages.)_
-* megapixel
-* Wi-Fi _(hyphenated per iOS, macOS & Android)_
-* log in / out _(verb: as in “log in to your account” – not “sign in”)_
+- Internet _(capitalized per Apple style guide — see note below)_
+- email _(no hyphen)_
+- web _(lowercase)_
+- webpage _(One word. A self-contained document on a website. A single website can contain many webpages. Don’t use website and webpage interchangeably.)_
+- website _(One word. Refers to a collection of webpages.)_
+- megapixel
+- Wi-Fi _(hyphenated per iOS, macOS & Android)_
+- log in / out _(verb: as in “log in to your account” – not “sign in”)_
 
 **NOTE:** In June 2016, the Associated Press and many mainstream newspapers announced they would no longer capitalize “Internet”. Since Apple still uses the capitalized form in iOS and macOS, Wire does the same in [UI copy][1] to ensure our app remains consistent with the spelling used in the operating systems.
 
@@ -111,9 +111,9 @@ Whenever possible, URLs should be active links. Do not include `www`, `http://` 
 
 For example, write [wire.com/privacy][3], instead of:
 
-* wire.com/privacy**/**
-* ~~www.~~wire.com/privacy
-* ~~http://www.~~wire.com/privacy
+- wire.com/privacy**/**
+- ~~www.~~wire.com/privacy
+- ~~http://www.~~wire.com/privacy
 
 [1]: ../user-interface
 [2]: http://www.lukew.com/ff/entry.asp?1071

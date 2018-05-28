@@ -1,6 +1,2 @@
 # Ignore generated site (transformed by Jekyll)
 _site
-
-# Ignore to preserve comments in YAML front matter
-# https://github.com/prettier/prettier/issues/4390
-styles.scss

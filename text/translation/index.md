@@ -8,9 +8,9 @@ weight: 3
 
 Wire is busy learning new languages, and you can help us by contributing to the translations in our Crowdin localization projects:
 
-* [Wire iOS][1]
-* [Wire Android][2]
-* [Wire for Desktop & Web][3]
+- [Wire iOS][1]
+- [Wire Android][2]
+- [Wire for Desktop & Web][3]
 
 If you're translating Wire to your native language, make sure to familiarize yourself with the official localizations for the operating system to ensure you use the correct platform terminology for your locale.
 
@@ -30,9 +30,9 @@ For example, to verify terminology for iOS, you might visit [support.apple.com][
 
 Many articles are available in multiple languages, so you can select an article from the search results and switch to a different language to verify the localized language equivalents, for example:
 
-* [https://support.apple.com/kb/PH19426?viewlocale=en_US][5]
-* [https://support.apple.com/kb/PH19426?viewlocale=de_DE][6]
-* [https://support.apple.com/kb/PH19426?viewlocale=sv_SE][7]
+- [https://support.apple.com/kb/PH19426?viewlocale=en_US][5]
+- [https://support.apple.com/kb/PH19426?viewlocale=de_DE][6]
+- [https://support.apple.com/kb/PH19426?viewlocale=sv_SE][7]
 
 [1]: https://crowdin.com/project/wire-ios
 [2]: https://crowdin.com/project/wire-android

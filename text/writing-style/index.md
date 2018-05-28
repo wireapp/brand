@@ -8,15 +8,15 @@ weight: 2
 
 Grammar, spelling, and mechanics aspects of Wire editorial style.
 
-* [Abbreviations](#abbreviations)
-* [Articles](#articles)
-* [Capitalization](#capitalization)
-* [Numbers](#numbers)
-* [Politeness](#politeness)
-* [Punctuation](#punctuation)
-* [Typography](#typography)
-* [Word choice](#word-choice)
-* [Reference resources](#reference-resources)
+- [Abbreviations](#abbreviations)
+- [Articles](#articles)
+- [Capitalization](#capitalization)
+- [Numbers](#numbers)
+- [Politeness](#politeness)
+- [Punctuation](#punctuation)
+- [Typography](#typography)
+- [Word choice](#word-choice)
+- [Reference resources](#reference-resources)
 
 ### Abbreviations
 
@@ -50,9 +50,9 @@ This is one area where [Android Writing Style][6] differs:
 
 In the application, numerals should be used in all cases to save space:
 
-* _1 message pending_
-* _3 conversations_
-* _Your password must be at least 6 characters_
+- _1 message pending_
+- _3 conversations_
+- _Your password must be at least 6 characters_
 
 However, on the website, numbers from one to nine should be spelled out.\
 For example: _“there are three ways to download Wire.”_
@@ -69,12 +69,12 @@ For example, in an initial message in the app, Wire might ask a user to “Enter
 
 For complete punctuation rules, refer to standard [American style guides](#reference-resources). Consider these key points and exceptions:
 
-* Do not use periods in UI strings unless there are two or more sentences.\
+- Do not use periods in UI strings unless there are two or more sentences.\
   For example: _“Start a conversation”_. However, copy on the website should be punctuated correctly.
-* Use the serial (or “Oxford”) comma in a list of three or more items.\
+- Use the serial (or “Oxford”) comma in a list of three or more items.\
   For example: _“email, phone number, and address”_.
-* Avoid apostrophes, exclamation marks, ampersands, slashes, and the “+” symbol in [UI copy][1] wherever possible.
-* Use “logical punctuation” for clarity: place the second member of a pair of quotation marks before any other adjacent mark of punctuation, unless the other mark is part of the quote. **Note:** This differs from default American style.
+- Avoid apostrophes, exclamation marks, ampersands, slashes, and the “+” symbol in [UI copy][1] wherever possible.
+- Use “logical punctuation” for clarity: place the second member of a pair of quotation marks before any other adjacent mark of punctuation, unless the other mark is part of the quote. **Note:** This differs from default American style.
 
 ### Typography
 
@@ -82,11 +82,11 @@ Most UI strings files are now UTF-8 encoded, so typographically correct characte
 
 Use “curly quotes”, em- and en- dashes (–/–), ellipses (…), and other proper typographic characters wherever possible.
 
-* To offset phrases _(like in the sentence above)_, press `⌥ + ⇧ + -` on a Mac to insert the longer em dash (—) and add a space on both sides of the dash.
+- To offset phrases _(like in the sentence above)_, press `⌥ + ⇧ + -` on a Mac to insert the longer em dash (—) and add a space on both sides of the dash.
 
-* To indicate a range of numbers, press `⌥ + -` on a Mac to insert an en dash (–) with no space between the dash and numbers.
+- To indicate a range of numbers, press `⌥ + -` on a Mac to insert an en dash (–) with no space between the dash and numbers.
 
-* Never use three dots (. . .) when you need an ellipsis. Press `⌥ + ;` on a Mac to insert the proper ellipsis (…) character.
+- Never use three dots (. . .) when you need an ellipsis. Press `⌥ + ;` on a Mac to insert the proper ellipsis (…) character.
 
 ### Word choice
 
@@ -104,9 +104,9 @@ In addition to the platform-specific resources described under [UI copy][1], the
 
 For complete punctuation rules and other writing conventions, refer to these style guides:
 
-* [The Chicago Manual of Style][8]
-* [The Yahoo! Style Guide][9]
-* [AP Stylebook][10]
+- [The Chicago Manual of Style][8]
+- [The Yahoo! Style Guide][9]
+- [AP Stylebook][10]
 
 [1]: ../user-interface
 [2]: https://support.wire.com/

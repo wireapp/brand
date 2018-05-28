@@ -11,7 +11,10 @@
     "prettier": "1.13.0"
   },
   "lint-staged": {
-    "*.{json,md,scss}": ["prettier --write", "git add"]
+    "*.{json,md,scss}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "scripts": {
     "fix": "prettier --write \"**/*.{json,md,scss}\"",

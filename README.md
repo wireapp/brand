@@ -6,9 +6,9 @@ Published via [GitHub Pages][1] & [Jekyll][2] to [brand.wire.com][3].
 
 ## Suggesting changes
 
-* If you find a typo or would like to suggest a new topic for the [writing guidelines][4], you can [create an issue][5].
+- If you find a typo or would like to suggest a new topic for the [writing guidelines][4], you can [create an issue][5].
 
-* If you know how to fix the issue yourself, [submit a pull request][6] with the proposed changes.
+- If you know how to fix the issue yourself, [submit a pull request][6] with the proposed changes.
 
 ---
 
