@@ -130,6 +130,9 @@ _(this gesture is no longer supported)_.
 {: #on-wire} on Wire
 : Use this to refer to the Wire platform as a whole. See “[in Wire](#in-wire)” (app).
 
+{: #party} party
+: The person (or people) placing or receiving a call. Used for business audiences to convey that several people joining a [video conference](#video-conference) from the same meeting room count as a single connection.
+
 {: #people-picker} ~~people picker~~ → [search](#search)
 : Deprecated term for the search UI, avoid if possible.
 
