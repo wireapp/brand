@@ -53,6 +53,10 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 {: #client} client
 : A logged–in user account on a specific Wire installation. Users may have multiple clients if they are logged in on multiple Wire installations _(on desktop and mobile [devices](#device), or different desktop browsers)_. A Wire installation can also have multiple clients _(personal and team accounts on a single installation)_.
 
+{: #conference-call} conference call
+: When referring to audio calls in a business context, use “conference call” rather than “group (audio) call” — never “concall”.  
+_For video, see [video conference](#video-conference)._
+
 {: #conversation} conversation
 : Preferred term for 1:1 or group chat. If space is tight or context is informal, “chat” is OK.
 
@@ -73,6 +77,9 @@ The list below includes ~~**deprecated terms**~~ that are either ambiguous or ob
 
 {: #guest-room} guest room
 : A secure group conversation that people outside of a team can join by invitation without downloading anything or creating an account. Guests without a Wire account have access for 24 hours, or until the room creator removes them. _(Paid plans only.)_
+
+{: #group-call} group call
+: Generic term for audio and video calls in group conversations. Use when space is tight or when the audience may be either business or personal users. In a business context, use [conference call](#conference-call) or [video conference](#video-conference).
 
 {: #hang-up} hang up
 : End an ongoing voice or video call.
@@ -219,6 +226,10 @@ Applies to both sound alerts & text banners. Opposite of [mute](#mute).
 
 {: #unread-notification} unread notification
 : Dot that appears in the conversation list or within a conversation to indicate new messages.
+
+{: #video-conference} video conference
+: When referring to video calls in a business context, use “video conference” rather than “group video call”. _(Paid plans only.)_  
+_For audio, see [conference call](#conference-call)._
 
 {: #view} view
 : Generic term for UI areas such as conversation list, participants, etc.
