@@ -12,6 +12,14 @@ Wire is busy learning new languages, and you can help us by contributing to the 
 - [Wire Android][2]
 - [Wire for Desktop & Web][3]
 
+### Formal vs. informal address
+
+Our [tone of voice][8] is friendly and informal:
+
+> Words should create the impression of one person (Wire) speaking with another (“you” the reader) as a friend.
+
+In languages that distinguish between the formal and informal address forms, **use the informal**. In German, for example, use _Du_, not _Sie_.
+
 ### Platform terminology
 
 If you're translating Wire to your native language, make sure to familiarize yourself with the official localizations for the operating system to ensure you use the correct platform terminology for your locale.
@@ -43,3 +51,4 @@ Many articles are available in multiple languages, so you can select an article 
 [5]: https://support.apple.com/kb/PH19426?viewlocale=en_US
 [6]: https://support.apple.com/kb/PH19426?viewlocale=de_DE
 [7]: https://support.apple.com/kb/PH19426?viewlocale=sv_SE
+[8]: /text/tone-of-voice/
