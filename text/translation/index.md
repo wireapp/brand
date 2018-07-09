@@ -14,7 +14,7 @@ Wire is busy learning new languages, and you can help us by contributing to the 
 
 ### Formal vs. informal address
 
-Our [tone of voice][8] is friendly and informal:
+Our [tone of voice][4] is friendly and informal:
 
 > Words should create the impression of one person (Wire) speaking with another (“you” the reader) as a friend.
 
@@ -36,19 +36,19 @@ This principle is especially important when referring to system settings and oth
 
 If you don't have access to a device in the language, check public resources provided by the device manufacturer or software developer to verify the official terms.
 
-For example, to verify terminology for iOS, you might visit [support.apple.com][4] and search for a term such as “location sharing”.
+For example, to verify terminology for iOS, you might visit [support.apple.com][5] and search for a term such as “location sharing”.
 
 Many articles are available in multiple languages, so you can select an article from the search results and switch to a different language to verify the localized language equivalents, for example:
 
-- [https://support.apple.com/kb/PH19426?viewlocale=en_US][5]
-- [https://support.apple.com/kb/PH19426?viewlocale=de_DE][6]
-- [https://support.apple.com/kb/PH19426?viewlocale=sv_SE][7]
+- [https://support.apple.com/kb/PH19426?viewlocale=en_US][6]
+- [https://support.apple.com/kb/PH19426?viewlocale=de_DE][7]
+- [https://support.apple.com/kb/PH19426?viewlocale=sv_SE][8]
 
 [1]: https://crowdin.com/project/wire-ios
 [2]: https://crowdin.com/project/wire-android
 [3]: https://crowdin.com/project/wire-cs
-[4]: https://support.apple.com/
-[5]: https://support.apple.com/kb/PH19426?viewlocale=en_US
-[6]: https://support.apple.com/kb/PH19426?viewlocale=de_DE
-[7]: https://support.apple.com/kb/PH19426?viewlocale=sv_SE
-[8]: /text/tone-of-voice/
+[4]: /text/tone-of-voice/
+[5]: https://support.apple.com/
+[6]: https://support.apple.com/kb/PH19426?viewlocale=en_US
+[7]: https://support.apple.com/kb/PH19426?viewlocale=de_DE
+[8]: https://support.apple.com/kb/PH19426?viewlocale=sv_SE
