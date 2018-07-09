@@ -114,7 +114,7 @@ For complete punctuation rules and other writing conventions, refer to these sty
 [4]: https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/
 [5]: https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4
 [6]: https://developer.android.com/design/style/writing.html
-[7]: https://help.apple.com/asg/mac/2013/
+[7]: https://help.apple.com/applestyleguide
 [8]: http://www.chicagomanualofstyle.org
 [9]: http://styleguide.yahoo.com
 [10]: https://www.apstylebook.com
