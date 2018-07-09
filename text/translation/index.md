@@ -12,6 +12,8 @@ Wire is busy learning new languages, and you can help us by contributing to the 
 - [Wire Android][2]
 - [Wire for Desktop & Web][3]
 
+### Platform terminology
+
 If you're translating Wire to your native language, make sure to familiarize yourself with the official localizations for the operating system to ensure you use the correct platform terminology for your locale.
 
 For example, the location sharing feature in Wire uses terms that are related to similar features in mobile operating systems. You can use this to your advantage when deciding how to translate Wire for your language.
