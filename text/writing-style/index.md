@@ -54,7 +54,7 @@ In the application, numerals should be used in all cases to save space:
 - _3 conversations_
 - _Your password must be at least 6 characters_
 
-However, on the website, numbers from one to nine should be spelled out.\
+However, on the website, numbers from one to nine should be spelled out.  
 For example: _“there are three ways to download Wire.”_
 
 Treat ordinal numbers the same way: spell out first to ninth, and use numerals for anything 10th or greater. One common case is _“third-party licenses.”_
@@ -69,9 +69,9 @@ For example, in an initial message in the app, Wire might ask a user to “Enter
 
 For complete punctuation rules, refer to standard [American style guides](#reference-resources). Consider these key points and exceptions:
 
-- Do not use periods in UI strings unless there are two or more sentences.\
+- Do not use periods in UI strings unless there are two or more sentences.  
   For example: _“Start a conversation”_. However, copy on the website should be punctuated correctly.
-- Use the serial (or “Oxford”) comma in a list of three or more items.\
+- Use the serial (or “Oxford”) comma in a list of three or more items.  
   For example: _“email, phone number, and address”_.
 - Avoid apostrophes, exclamation marks, ampersands, slashes, and the “+” symbol in [UI copy][1] wherever possible.
 - Use “logical punctuation” for clarity: place the second member of a pair of quotation marks before any other adjacent mark of punctuation, unless the other mark is part of the quote. **Note:** This differs from default American style.
