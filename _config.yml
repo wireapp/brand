@@ -2,7 +2,7 @@
 title: Brand Elements
 tagline: Follow these principles and conventions for a consistent Wire user experience.
 url: https://brand.wire.com
-baseurl: ""
+baseurl: ''
 
 highlighter: rouge
 markdown: kramdown
@@ -11,19 +11,19 @@ markdown: kramdown
 #
 # We specify the directory for Jekyll so we can use @imports.
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
-# Exclude directories and/or files from the conversion. 
-exclude: 
-- Gemfile*
-- Icon.png
-- node_modules
-- package.json
-- README.md
-- yarn.lock
+# Exclude directories and/or files from the conversion.
+exclude:
+  - Gemfile*
+  - Icon.png
+  - node_modules
+  - package.json
+  - README.md
+  - yarn.lock
 
-# Custom vars
-version: "1.0.0"
+  # Custom vars
+version: '1.0.0'
 github:
-  repo:  https://github.com/wireapp/brand
+  repo: https://github.com/wireapp/brand
