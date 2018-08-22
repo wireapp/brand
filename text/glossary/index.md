@@ -230,6 +230,9 @@ Applies to both sound alerts & text banners. Opposite of [mute](#mute).
 {: #unread-notification} unread notification
 : Dot that appears in the conversation list or within a conversation to indicate new messages.
 
+{: #video-calling} ~~video calling~~ → calling with video
+: System notifications that announce someone _“…is video calling”_ imply that accepting the call would automatically enable the camera, whereas _“…calling with video”_ helps to clarify that the calling party has enabled video, but the called party may choose not to _(and still accept the call)_.
+
 {: #video-conference} video conference
 : When referring to video calls in a business context, use “video conference” rather than “group video call”. _(Paid plans only.)_  
 _For audio, see [conference call](#conference-call)._
