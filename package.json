@@ -11,13 +11,13 @@
     "prettier": "1.14.2"
   },
   "lint-staged": {
-    "*.{json,md,scss}": [
+    "*.{json,md,scss,yaml,yml}": [
       "prettier --write",
       "git add"
     ]
   },
   "scripts": {
-    "fix": "prettier --write \"**/*.{json,md,scss}\"",
+    "fix": "prettier --write \"**/*.{json,md,scss,yaml,yml}\"",
     "precommit": "lint-staged"
   }
 }
