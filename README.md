@@ -71,7 +71,7 @@ The [prettier-setup][13] installs Prettier and various dependencies, configures 
     yarn
     ```
 
-Now when you edit any of the JSON, Markdown or Sass files in the project, they will be automatically reformatted when you stage your changes in Git.
+Now when you edit any of the JSON, Markdown, Sass, or YAML files in the project, they will be automatically reformatted when you stage your changes in Git.
 
 **Tip:** You can also run Prettier manually via the `yarn fix` command to verify the results before committing.
 
@@ -83,9 +83,9 @@ Now when you edit any of the JSON, Markdown or Sass files in the project, they w
 [4]: https://brand.wire.com/text/
 [5]: https://github.com/wireapp/brand/issues/new
 [6]: https://help.github.com/articles/using-pull-requests/
-[7]: http://brew.sh
-[8]: http://bundler.io
-[9]: http://jekyllrb.com
+[7]: https://brew.sh
+[8]: https://bundler.io
+[9]: https://jekyllrb.com
 [10]: http://127.0.0.1:4000/
 [11]: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 [12]: https://prettier.io
