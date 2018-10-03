@@ -17,7 +17,11 @@
     ]
   },
   "scripts": {
-    "fix": "prettier --write \"**/*.{json,md,scss,yaml,yml}\"",
-    "precommit": "lint-staged"
+    "fix": "prettier --write \"**/*.{json,md,scss,yaml,yml}\""
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }
