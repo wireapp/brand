@@ -44,6 +44,10 @@ Many articles are available in multiple languages, so you can select an article 
 - [https://support.apple.com/kb/PH19426?viewlocale=de_DE][7]
 - [https://support.apple.com/kb/PH19426?viewlocale=sv_SE][8]
 
+#### Microsoft international terminology
+
+Microsoft provides a searchable database of international terminology for all of its products at <https://www.microsoft.com/en-us/language>.
+
 [1]: https://crowdin.com/project/wire-ios
 [2]: https://crowdin.com/project/wire-android
 [3]: https://crowdin.com/project/wire-cs
