@@ -127,6 +127,10 @@ _(this gesture is no longer supported)_.
 {: #notify} ~~notify~~ → [unmute](#unmute)
 : Deprecated term for re-enabling notifications in a conversation.
 
+{: #on-premises} on premises
+: Wire servers installed on customer hardware. Do not use ~~on premise~~.  
+_(The trailing “s” in “premises” is critical — a “premise” is an assumption. Use “on premises” to mean on site at a particular location.)_
+
 {: #on-wire} on Wire
 : Use this to refer to the Wire platform as a whole. See “[in Wire](#in-wire)” (app).
 
