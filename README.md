@@ -4,6 +4,12 @@
 
 Published via [GitHub Pages][1] & [Jekyll][2] to [brand.wire.com][3].
 
+## Purpose
+
+- Used by marketing and sales to create presentation slides based on Wire's corporate identity
+- Used by customer success when onboarding new team members to introduce them to Wire's look & feel
+- Reference by product when working with external designers to create a consistent Wire user experience
+
 ## Suggesting changes
 
 - If you find a typo or would like to suggest a new topic for the [writing guidelines][4], you can [create an issue][5].
