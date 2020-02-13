@@ -6,7 +6,7 @@
     "url": "https://github.com/wireapp/brand.git"
   },
   "devDependencies": {
-    "husky": "4.2.1",
+    "husky": "4.2.3",
     "lint-staged": "10.0.7",
     "prettier": "1.19.1"
   },
