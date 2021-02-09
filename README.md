@@ -38,7 +38,7 @@ The instructions below assume you're on a Mac with [Homebrew][7] installed.
 2.  Install [Bundler][8]:
 
     ```sh
-    gem install bundler
+    gem install bundler jekyll
     ```
 
 3.  Install the GitHub Pages gem and bundled dependencies:
