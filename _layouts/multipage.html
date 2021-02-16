@@ -1,23 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-
   {% include head.html %}
 
-<body>
-  {% include header.html %}
+  <body>
+    {% include header.html %}
 
-  <div class="anchor" id="top"></div>
+    <div class="anchor" id="top"></div>
 
-  {% include navigation.html context="/" %}
+    {% include navigation.html context="/" %}
 
-  <main>
-    {% include subnavigation.html context="/text/" %}
+    <main>
+      {% include subnavigation.html context="/text/" %}
 
-    <article>
-      {{ content }}
-    </article>
-  </main>
+      <article>{{ content }}</article>
+    </main>
 
-  {% include footer.html %}
-</body>
+    {% include footer.html %}
+  </body>
 </html>
