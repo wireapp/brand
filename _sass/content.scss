@@ -97,30 +97,30 @@
     }
 
     &:nth-child(1) {
-      background: #fff;
+      background: $white;
       .wire {
-        fill: #000;
+        fill: $black;
       }
     }
 
     &:nth-child(2) {
-      background: #000;
+      background: $black;
       .wire {
-        fill: #fff;
+        fill: $white;
       }
     }
 
     &:nth-child(3) {
-      background: $blue;
+      background: $blue-light;
       .wire {
-        fill: #fff;
+        fill: $white;
       }
     }
 
     &:nth-child(4) {
-      background: #fff;
+      background: $white;
       .wire {
-        fill: $green;
+        fill: $green-light;
       }
     }
   }
@@ -165,44 +165,44 @@
     }
 
     &:nth-child(1) {
-      background: #000;
+      background: $black;
       .w {
-        fill: #fff;
+        fill: $white;
       }
     }
 
     &:nth-child(2) {
-      background: $yellow;
+      background: $yellow-light;
       .w {
-        fill: #000;
+        fill: $black;
       }
     }
 
     &:nth-child(3) {
-      background: #fff;
+      background: $white;
       .w {
-        fill: $blue;
+        fill: $blue-light;
       }
     }
 
     &:nth-child(4) {
-      background: #fff;
+      background: $white;
       .w {
-        fill: $gray-d72;
+        fill: $dark-gray;
       }
     }
 
     &:nth-child(5) {
-      background: $purple;
+      background: $purple-light;
       .w {
-        fill: #fff;
+        fill: $white;
       }
     }
 
     &:nth-child(6) {
-      background: $gray-d72;
+      background: $dark-gray;
       .w {
-        fill: $orange;
+        fill: $yellow-light;
       }
     }
   }
