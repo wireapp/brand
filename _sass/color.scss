@@ -1,5 +1,15 @@
 $gap: 8px;
 
+.color {
+  p {
+    margin: 16px 0;
+  }
+
+  h2 {
+    margin: 48px 0 32px;
+  }
+}
+
 .colors {
   display: flex;
   flex-direction: row;
