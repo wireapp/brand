@@ -13,6 +13,8 @@ $gap: 8px;
   box-shadow: 0 0 2px 1px $light-gray-1;
   width: calc(50% - #{$gap * 2});
   margin: $gap;
+  border-radius: 4px;
+  overflow: hidden;
 
   .canvas {
     height: 96px;
