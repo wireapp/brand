@@ -172,7 +172,7 @@
     }
 
     &:nth-child(2) {
-      background: $yellow-light;
+      background: $yellow-dark;
       .w {
         fill: $black;
       }
@@ -202,7 +202,7 @@
     &:nth-child(6) {
       background: $dark-gray;
       .w {
-        fill: $yellow-light;
+        fill: $yellow-dark;
       }
     }
   }
