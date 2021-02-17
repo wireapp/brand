@@ -1,0 +1,103 @@
+$gap: 8px;
+
+.colors {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: -$gap;
+  margin-right: -$gap;
+}
+
+.color-box,
+.color-box-3 {
+  box-shadow: 0 0 2px 1px $light-gray-1;
+  width: calc(50% - #{$gap * 2});
+  margin: $gap;
+
+  .canvas {
+    height: 96px;
+  }
+
+  .hex {
+    font-family: $root-font-family-monospace;
+    margin: $gap * 2;
+    margin-bottom: 0;
+  }
+
+  .title {
+    font-weight: 600;
+    margin: $gap $gap * 2 $gap * 2;
+    font-size: 0.9em;
+  }
+}
+
+.color-box-3 {
+  width: calc(33.333% - #{$gap * 2});
+}
+
+.bg-red-light {
+  background-color: $red-light;
+}
+.bg-purple-light {
+  background-color: $purple-light;
+}
+.bg-blue-light {
+  background-color: $blue-light;
+}
+.bg-green-blue-light {
+  background-color: $green-blue-light;
+}
+.bg-green-light {
+  background-color: $green-light;
+}
+.bg-yellow-light {
+  background-color: $yellow-light;
+}
+
+.bg-red-dark {
+  background-color: $red-dark;
+}
+.bg-purple-dark {
+  background-color: $purple-dark;
+}
+.bg-blue-dark {
+  background-color: $blue-dark;
+}
+.bg-green-blue-dark {
+  background-color: $green-blue-dark;
+}
+.bg-green-dark {
+  background-color: $green-dark;
+}
+.bg-yellow-dark {
+  background-color: $yellow-dark;
+}
+
+.bg-black {
+  background-color: $black;
+}
+.bg-dark-gray {
+  background-color: $dark-gray;
+}
+.bg-light-gray {
+  background-color: $light-gray;
+}
+.bg-white {
+  background-color: $white;
+}
+
+.bg-dark-gray-1 {
+  background-color: $dark-gray-1;
+}
+.bg-dark-gray-2 {
+  background-color: $dark-gray-2;
+}
+.bg-light-gray-3 {
+  background-color: $light-gray-3;
+}
+.bg-light-gray-2 {
+  background-color: $light-gray-2;
+}
+.bg-light-gray-1 {
+  background-color: $light-gray-1;
+}

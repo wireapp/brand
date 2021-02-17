@@ -1,8 +1,11 @@
 $root-font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 $root-font-size: 16px;
 $root-line-height: 1.5;
+$root-font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+  'Liberation Mono', 'Courier New', monospace;
 
 $gray: #bac8d1;
+
 $blue: #2391d3;
 $green: #00c800;
 $yellow: #febf02;
@@ -28,3 +31,31 @@ $break: 550px;
 $site-width: 840px;
 $site-padding: 32px;
 $footer-height: 160px;
+
+// ----------------------------
+
+$red-light: #e41734;
+$purple-light: #9737af;
+$blue-light: #0772de;
+$green-blue-light: #287d97;
+$green-light: #148545;
+$yellow-light: #7c7621;
+
+$red-dark: #fc7887;
+$purple-dark: #fa72ec;
+$blue-dark: #26bdff;
+$green-blue-dark: #60d4cf;
+$green-dark: #35c763;
+$yellow-dark: #e8dc3b;
+
+$black: #17181a;
+$dark-gray: #34383b;
+$light-gray: #fafafa;
+$white: #ffffff;
+
+$dark-gray-1: #494c4f;
+$dark-gray-2: #696c6e;
+
+$light-gray-3: #949798;
+$light-gray-2: #bec0c1;
+$light-gray-1: #eaeaea;
