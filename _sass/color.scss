@@ -2,11 +2,11 @@ $gap: 8px;
 
 .color {
   p {
-    margin: 16px 0;
+    margin: 32px 0 16px;
   }
 
   h2 {
-    margin: 48px 0 32px;
+    margin: 48px 0 24px;
   }
 }
 
@@ -34,7 +34,7 @@ $gap: 8px;
   .hex,
   .rgb {
     font-family: $root-font-family-monospace;
-    margin: $gap $gap * 2;
+    margin: 12px $gap * 2;
     margin-bottom: 0;
   }
 
