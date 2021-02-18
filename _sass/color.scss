@@ -25,21 +25,22 @@ $gap: 8px;
   margin: $gap;
   border-radius: 4px;
   overflow: hidden;
+  font-size: 0.9em;
 
   .canvas {
-    height: 96px;
+    height: 112px;
   }
 
-  .hex {
+  .hex,
+  .rgb {
     font-family: $root-font-family-monospace;
-    margin: $gap * 2;
+    margin: $gap $gap * 2;
     margin-bottom: 0;
   }
 
   .title {
     font-weight: 600;
     margin: $gap $gap * 2 $gap * 2;
-    font-size: 0.9em;
   }
 }
 
