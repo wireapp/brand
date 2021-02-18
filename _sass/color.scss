@@ -11,8 +11,9 @@ $gap: 8px;
   }
 
   h3 {
-    font-size: px;
+    font-size: 21px;
     margin-bottom: 16px;
+    font-weight: 600;
   }
 }
 
@@ -21,6 +22,8 @@ $gap: 8px;
   flex-direction: row;
   flex-wrap: wrap;
   margin-left: auto;
+  margin-left: -$gap;
+  margin-right: -$gap;
 }
 
 .color-box,
