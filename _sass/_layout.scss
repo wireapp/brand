@@ -139,13 +139,13 @@ input[type='checkbox']:checked ~ #menu {
     width: 100%;
     text-align: center;
     margin-top: -48px;
-    background: #fff;
+    background-color: $white;
     border-radius: 8px;
     position: relative;
 
     .active {
       background: $blue-light;
-      color: #fff;
+      color: $white;
     }
   }
 
@@ -153,7 +153,7 @@ input[type='checkbox']:checked ~ #menu {
     display: block;
     height: 48px;
     line-height: 48px;
-    border-bottom: 1px solid $dark-gray-2;
+    border-bottom: 1px solid $border-color;
 
     @media screen and (max-width: $break) {
       &:first-child {
@@ -179,7 +179,7 @@ footer {
     max-width: $site-width;
     height: $footer-height;
     line-height: $footer-height;
-    border-top: 1px solid $dark-gray-2;
+    border-top: 1px solid $border-color;
     margin: 0 auto;
     font-size: 12px;
     font-weight: 600;
