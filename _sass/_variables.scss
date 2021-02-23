@@ -4,36 +4,6 @@ $root-line-height: 1.5;
 $root-font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
   'Liberation Mono', 'Courier New', monospace;
 
-$gray: #bac8d1;
-
-$blue: #2391d3;
-$green: #00c800;
-$yellow: #febf02;
-$red: #fb0807;
-$orange: #ff8900;
-$pink: #fe5ebd;
-$purple: #9c00fe;
-
-@function shade($color, $percent) {
-  @return mix(black, $color, $percent);
-}
-
-$gray-d24: shade($gray, 24%);
-$gray-d72: shade($gray, 72%);
-$gray-l24: rgba($gray, 0.24);
-
-$body-color: $gray-d72;
-$body-bg: #fff;
-$link-color: $blue;
-$border-color: $gray-l24;
-
-$break: 550px;
-$site-width: 840px;
-$site-padding: 32px;
-$footer-height: 160px;
-
-// ----------------------------
-
 $red-light: #e41734;
 $purple-light: #9737af;
 $blue-light: #0772de;
@@ -59,3 +29,16 @@ $dark-gray-2: #696c6e;
 $light-gray-3: #949798;
 $light-gray-2: #bec0c1;
 $light-gray-1: #eaeaea;
+
+
+$body-color: $dark-gray;
+$body-bg: #fff;
+$link-color: $blue-light;
+$border-color: $light-gray-2;
+
+$break: 550px;
+$site-width: 840px;
+$site-padding: 32px;
+$footer-height: 160px;
+
+// ----------------------------
