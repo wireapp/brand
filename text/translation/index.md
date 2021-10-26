@@ -18,7 +18,7 @@ Our [tone of voice][4] is friendly and informal:
 
 > Words should create the impression of one person (Wire) speaking with another (“you” the reader) as a friend.
 
-In languages that distinguish between the formal and informal address forms, **use the informal**. In German, for example, use _Du_, not _Sie_.
+In languages that distinguish between the formal and informal address forms, **use the formal**. In German, for example, use _Sie_, not _Du_.
 
 ### Platform terminology
 
